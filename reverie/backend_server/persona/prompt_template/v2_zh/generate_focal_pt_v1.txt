@@ -1,0 +1,11 @@
+generate_focal_pt_v1.txt
+
+变量: 
+!<INPUT 0>! -- 事件/思考陈述 
+!<INPUT 1>! -- 数量 
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+
+仅根据以上信息，我们可以回答关于陈述中的主题的!<INPUT 1>!个最突出的高级问题是什么？
+1)

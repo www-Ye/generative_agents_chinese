@@ -1,0 +1,216 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 07:33:10",
+  "curr_tile": [
+    115,
+    25
+  ],
+  "daily_plan_req": "Maria Lopez\u6bcf\u5929\u81f3\u5c11\u82b1\u8d393\u4e2a\u5c0f\u65f6\u8fdb\u884cTwitch\u76f4\u64ad\u6216\u6e38\u620f\u3002",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "\u5145\u6ee1\u6d3b\u529b\uff0c\u70ed\u60c5\uff0c\u597d\u5947",
+  "learned": "Maria Lopez\u662f\u6a61\u6811\u5c71\u5b66\u9662\u7684\u4e00\u540d\u7269\u7406\u5b66\u5b66\u751f\uff0c\u540c\u65f6\u4e5f\u662f\u4e00\u540d\u517c\u804cTwitch\u6e38\u620f\u4e3b\u64ad\uff0c\u5979\u559c\u6b22\u4e0e\u4eba\u5efa\u7acb\u8054\u7cfb\u5e76\u63a2\u7d22\u65b0\u7684\u60f3\u6cd5\u3002",
+  "currently": "Maria Lopez\u6b63\u5728\u653b\u8bfb\u5979\u7684\u7269\u7406\u5b66\u4f4d\uff0c\u5e76\u5728Twitch\u4e0a\u6e38\u620f\u76f4\u64ad\u6765\u8d5a\u4e00\u4e9b\u989d\u5916\u7684\u94b1\u3002\u5979\u51e0\u4e4e\u6bcf\u5929\u90fd\u53bb\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u548c\u5403\u996d\u3002",
+  "lifestyle": "Maria Lopez\u5927\u7ea6\u57282am\u5de6\u53f3\u7761\u89c9\uff0c\u5927\u7ea6\u57289am\u5de6\u53f3\u7761\u9192\uff0c\u5927\u7ea6\u57286pm\u5de6\u53f3\u5403\u665a\u9910\u3002\u5982\u679c\u662f6pm\u4e4b\u524d\uff0c\u5979\u559c\u6b22\u5728\u970d\u5e03\u65af\u5496\u5561\u5e97\u95f2\u901b\u3002",
+  "living_area": "\u5c0f\u9547Ville:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Maria Lopez\u7684\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 92,
+  "importance_ele_n": 22,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57282:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+    "\u4e0a\u534810:00\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe",
+    "\u572812:00 pm \u5230\u970d\u5e03\u65af\u5496\u5561\u5e97\u6216\u6362\u4e2a\u5730\u65b9\u5403\u5348\u996d",
+    "\u5728\u4e0b\u53482:00\u4ece\u6a61\u6811\u5c71\u5b66\u9662\u653e\u5b66",
+    "\u5728\u4e0b\u53483:00 ~ 5:00\u4e4b\u95f4\u8fdb\u884cTwitch\u76f4\u64ad\u6216\u6e38\u620f",
+    "\u5728\u665a\u4e0a6:00\u665a\u9910",
+    ""
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      120
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      240
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\u5e76\u51c6\u5907\u4e0a\u5b66",
+      60
+    ],
+    [
+      "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe (\u51c6\u5907\u4e0a\u8bfe\u6240\u9700\u7684\u6750\u6599)",
+      15
+    ],
+    [
+      "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe (\u51c6\u5907Maria\u5728\u642d\u4e58\u516c\u5171\u4ea4\u901a\u5de5\u5177\u524d\u5f80\u5b66\u6821)",
+      0
+    ],
+    [
+      "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8eMaria\u548cKlaus\u8ba8\u8bba\u4ed6\u4eec\u7684\u65e9\u8d77\u4e60\u60ef\u548c\u4eca\u5929\u7684\u8ba1\u5212\u7684\u5bf9\u8bdd\u3002Maria\u8ba1\u5212\u53bb\u970d\u5e03\u65af\u5496\u5561\u9986\u5b66\u4e60\uff0c\u800cKlaus\u8ba1\u5212\u53bb\u56fe\u4e66\u9986\u5de5\u4f5c\u3002Maria\u8fd8\u900f\u9732\u5979\u6b63\u5728\u653b\u8bfb\u7269\u7406\u5b66\u4f4d\u3002)",
+      1
+    ],
+    [
+      "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe (Maria\u5728\u5b66\u6821\u4e0a\u8bfe)",
+      45
+    ],
+    [
+      "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe (Maria\u5728\u53c2\u52a0\u8bfe\u5802\u8ba8\u8bba)",
+      15
+    ],
+    [
+      "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe (Maria\u5728\u5b8c\u6210\u8bfe\u5802\u4f5c\u4e1a)",
+      15
+    ],
+    [
+      "\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe",
+      180
+    ],
+    [
+      "\u53bb\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u4e0b\u5348\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "Twitch\u4e0a\u8fdb\u884c\u76f4\u64ad\u6216\u6e38\u620f",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u4e0b\u5348\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u665a\u9910",
+      120
+    ],
+    [
+      "\u5b8c\u6210\u665a\u4e0a\u7684\u65e5\u5e38\u4efb\u52a1",
+      180
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u95f2\u901b",
+      60
+    ],
+    [
+      "\u7761\u89c9\u51c6\u5907\u660e\u5929\u7684\u6d3b\u52a8",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      29
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      120
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      240
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\u5e76\u51c6\u5907\u4e0a\u5b66",
+      60
+    ],
+    [
+      "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe",
+      120
+    ],
+    [
+      "\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe",
+      180
+    ],
+    [
+      "\u53bb\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u4e0b\u5348\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "Twitch\u4e0a\u8fdb\u884c\u76f4\u64ad\u6216\u6e38\u620f",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u4e0b\u5348\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u665a\u9910",
+      120
+    ],
+    [
+      "\u5b8c\u6210\u665a\u4e0a\u7684\u65e5\u5e38\u4efb\u52a1",
+      180
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u95f2\u901b",
+      60
+    ],
+    [
+      "\u7761\u89c9\u51c6\u5907\u660e\u5929\u7684\u6d3b\u52a8",
+      60
+    ]
+  ],
+  "act_address": "\u5c0f\u9547Ville:\u6a61\u6811\u5c71\u5b66\u9662:\u6559\u5ba4:\u5b66\u751f\u5ea7\u6905",
+  "act_start_time": "February 13, 2023, 07:18:00",
+  "act_duration": 45,
+  "act_description": "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe (Maria\u5728\u5b66\u6821\u4e0a\u8bfe)",
+  "act_pronunciatio": "\ud83d\udcda\ud83c\udfeb",
+  "act_event": [
+    "Maria Lopez",
+    "\u4e0a",
+    "\u8bfe"
+  ],
+  "act_obj_description": "\u5728\u6b63\u5e38\u4f7f\u7528",
+  "act_obj_pronunciatio": "\ud83d\udc4c",
+  "act_obj_event": [
+    "\u5b66\u751f\u5ea7\u6905",
+    "\u4f7f\u7528",
+    "\u6b63\u5e38"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 618
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,30 @@
+generate_event_triple_v1.txt
+
+变量: 
+!<INPUT 0>! -- 人格的全名。
+!<INPUT 1>! -- 当前动作的描述
+!<INPUT 2>! -- 人格的全名。
+
+<commentblockmarker>###</commentblockmarker>
+任务：将输入转换为（主词，谓词，宾词）。
+
+输入：Sam Johnson在吃早餐。
+输出：(Dolores Murphy, 吃, 早餐) 
+---
+输入： Joon Park在煮咖啡。
+输出： (Joon Park, 煮, 咖啡)
+---
+输入：Jane Cook在睡觉。
+输出： (Jane Cook, 是, 睡觉)
+---
+输入：Michael Bernstein在电脑上写邮件。
+输出： (Michael Bernstein, 写, 邮件)
+---
+输入：Percy Liang在教室里教学生。
+输出： (Percy Liang, 教, 学生)
+---
+输入：Merrie Morris在跑步机上跑步。
+输出： (Merrie Morris, 跑, 跑步机)
+---
+输入：!<INPUT 0>!在!<INPUT 1>!。 
+输出： (!<INPUT 2>!,

@@ -1,0 +1,12 @@
+变量: 
+!<INPUT 0>! -- 公共集
+!<INPUT 1>! -- 生活方式
+!<INPUT 2>! -- Reverie 当前日期时间
+!<INPUT 3>! -- 人格的名字
+!<INPUT 4>! -- 起床时间
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+
+一般来说，!<INPUT 1>!
+今天是!<INPUT 2>!。这是!<INPUT 3>!今天的大致计划（包括一天中的时间，例如：12:00 pm吃午饭，7 to 8 pm看电视）：1） 在!<INPUT 4>!时醒来并完成早晨的日常任务，2）

@@ -1,0 +1,15 @@
+memo_on_convo_v1.txt
+
+变量: 
+!<INPUT 0>! -- 所有对话内容
+!<INPUT 1>! -- 人格的名字
+!<INPUT 2>! -- 人格的名字
+!<INPUT 3>! -- 人格的名字
+
+<commentblockmarker>###</commentblockmarker>
+[对话]
+!<INPUT 0>!
+
+从!<INPUT 2>!的角度出发，记录下!<INPUT 1>!在对话中可能发现的有趣之处，全句写出。
+
+"!<INPUT 3>!

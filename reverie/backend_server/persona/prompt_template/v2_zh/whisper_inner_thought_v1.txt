@@ -1,0 +1,11 @@
+whisper_inner_thought_v1.txt
+
+变量: 
+!<INPUT 0>! -- 初始人格名称
+!<INPUT 1>! -- 耳语
+
+<commentblockmarker>###</commentblockmarker>
+将以下思想翻译为关于!<INPUT 0>!的陈述。
+
+思想: "!<INPUT 1>!"
+陈述: "

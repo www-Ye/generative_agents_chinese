@@ -1,0 +1,19 @@
+summarize_chat_ideas_v1.txt
+
+变量: 
+!<INPUT 0>! -- 当前日期
+!<INPUT 1>! -- 当前上下文
+!<INPUT 2>! -- 当前情况
+!<INPUT 3>! -- 陈述
+!<INPUT 4>! -- 当前人格名称
+!<INPUT 5>! -- 目标人格模型名称
+
+<commentblockmarker>###</commentblockmarker>
+当前日期: !<INPUT 0>!
+
+!<INPUT 1>!
+
+当前情况: !<INPUT 2>!
+
+!<INPUT 3>!
+总结以上最相关的陈述，这将对!<INPUT 4>!与!<INPUT 5>!的对话提供参考。

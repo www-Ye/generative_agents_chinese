@@ -1,0 +1,16 @@
+generate_obj_event_v1.txt
+
+变量：
+!<INPUT 0>! -- 对象名称
+!<INPUT 1>! -- 人物名称
+!<INPUT 2>! -- 人物行动事件描述
+!<INPUT 3>! -- 对象名称
+!<INPUT 4>! -- 对象名称
+
+<commentblockmarker>###</commentblockmarker>
+任务：我们想了解某人在使用的对象的状态。
+
+让我们逐步思考。
+我们想知道关于!<INPUT 0>!的状态。
+步骤1. !<INPUT 1>!在/使用!<INPUT 2>!。
+步骤2. 描述!<INPUT 3>!的状态：!<INPUT 4>!在

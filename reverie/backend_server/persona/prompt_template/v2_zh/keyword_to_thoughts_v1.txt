@@ -1,0 +1,12 @@
+keyword_to_thoughts_v1.txt
+
+变量: 
+!<INPUT 0>! -- 当前关键词
+!<INPUT 1>! -- 事件/思考列表
+!<INPUT 2>! -- 角色名称
+
+<commentblockmarker>###</commentblockmarker>
+以下事件/思考都发生在"!<INPUT 0>!"上。
+!<INPUT 1>!
+
+这是 !<INPUT 2>! 对于这些事件/思考的一句子思考。这句话需要用第三人称来表示:

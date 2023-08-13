@@ -1,0 +1,15 @@
+poignancy_thought_v1.txt
+
+!<INPUT 1>!: 代理名称
+!<INPUT 1>!: iss
+!<INPUT 2>!: 名称 
+!<INPUT 3>!: 事件描述
+
+<commentblockmarker>###</commentblockmarker>
+这是对!<INPUT 0>!的简短描述。
+!<INPUT 1>!
+
+在1到10的规模上，其中1是纯粹的日常事务（例如，我需要洗碗，我需要遛狗）和10是极其重要的（例如，我希望成为一名教授，我爱Elie），请为!<INPUT 2>!以下想法可能的重要性打分。
+
+思考：!<INPUT 3>!
+评分（返回1到10之间的数字）：

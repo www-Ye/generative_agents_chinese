@@ -1,0 +1,23 @@
+new_decomp_schedule_v1.txt
+
+变量: 
+!<INPUT 0>! -- 人格名字 
+!<INPUT 1>! -- 开始时间
+!<INPUT 2>! -- 结束时间
+!<INPUT 3>! -- 原始计划
+!<INPUT 4>! -- 人格名字
+!<INPUT 5>! -- 新活动
+!<INPUT 6>! -- 新活动持续时间
+!<INPUT 7>! -- 人格名字
+!<INPUT 8>! -- 开始时间
+!<INPUT 9>! -- 结束时间
+!<INPUT 10>! -- 结束时间
+!<INPUT 11>! -- 新的计划开始时间
+
+<commentblockmarker>###</commentblockmarker>
+这是!<INPUT 0>!原本计划的日程，从!<INPUT 1>!开始，到!<INPUT 2>!结束。 
+!<INPUT 3>!
+
+但是!<INPUT 4>!在没预料到的情况下，花了!<INPUT 6>!分钟做了!<INPUT 5>!。请根据此情况修改!<INPUT 7>!的日程，从!<INPUT 8>!开始，至!<INPUT 9>!结束（应该在!<INPUT 10>!之前结束）。 
+修改后的日程：
+!<INPUT 11>!

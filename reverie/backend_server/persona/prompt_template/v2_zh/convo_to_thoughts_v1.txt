@@ -1,0 +1,15 @@
+convo_to_thoughts_v1.txt
+
+变量: 
+!<INPUT 0>! -- 初始人格名称
+!<INPUT 1>! -- 目标人格名称
+!<INPUT 2>! -- 对话字符串
+!<INPUT 3>! -- 初始人格名称
+!<INPUT 4>! -- 目标人格名称 或 "对话"
+
+<commentblockmarker>###</commentblockmarker>
+以下是!<INPUT 0>!和!<INPUT 1>!之间发生的对话。
+
+!<INPUT 2>!
+
+以一句简短的句子概括!<INPUT 3>!对!<INPUT 4>!的想法。句子需要用第三人称：

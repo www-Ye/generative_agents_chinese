@@ -1,0 +1,30 @@
+变量: 
+!<INPUT 0>! -- 人格名称
+!<INPUT 1>! -- 人格当前环境
+!<INPUT 2>! -- 人格当前领域
+!<INPUT 3>! -- 人格名称
+!<INPUT 4>! -- 目标领域
+!<INPUT 5>! -- 人格领域的所有环境 (减去无法获得的)
+!<INPUT 6>! -- 当前活动序列
+!<INPUT 7>! -- 人格名称
+!<INPUT 8>! -- 人格当前领域
+
+<commentblockmarker>###</commentblockmarker>
+Jane Anderson 位于 Jane Anderson的房子的厨房。
+Jane Anderson 安排去 Jane Anderson的房子，该房子有以下区域：{厨房, 卧室, 浴室}
+如果活动可以在当前区域内完成，那么就留在现有区域。除非必要，否则不要进入他人的房间。
+对于烹饪，Jane Anderson 应当去 Jane Anderson的房子的以下区域：
+答案：{厨房}
+---
+Tom Watson 在 Tom Watson的公寓的公共房间。
+Tom Watson 打算去 霍布斯咖啡店，该咖啡厅有以下区域：{咖啡店}
+如果活动可以在当前区域完成，那么就留在现有区域。 除非必要，否则不进入他人的房间。
+对于取咖啡，Tom Watson应去 霍布斯咖啡店 的以下区域：
+答案：{咖啡店}
+---
+
+!<INPUT 0>! 计划去 !<INPUT 1>!，该地有以下区域: {!<INPUT 2>!}
+* 如果活动可以在当前区域完成，那么就留在现有区域。
+* 除非必要，否则不要进入他人的房间。
+!<INPUT 3>!在!<INPUT 4>!。为了!<INPUT 5>!，!<INPUT 6>!应去!<INPUT 7>!的如下区域（必须从 {!<INPUT 8>!} 选择）：
+答案：{

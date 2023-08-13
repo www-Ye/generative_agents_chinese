@@ -1,0 +1,15 @@
+poignancy_event_v1.txt
+
+!<INPUT 1>!: 代理人名字
+!<INPUT 1>!: iss
+!<INPUT 2>!: 名字
+!<INPUT 3>!: 事件描述
+
+<commentblockmarker>###</commentblockmarker>
+这是对!<INPUT 0>!的简单描述。
+!<INPUT 1>!
+
+在1到10的标准上，其中1代表完全平凡的事(例如，刷牙，整理床铺)，10代表极其重要的事(例如，分手，被大学录取)，请对以下事件可能对!<INPUT 2>!产生的重要性进行评估。
+
+事件：!<INPUT 3>!
+评估（返回一个1到10之间的数字）：

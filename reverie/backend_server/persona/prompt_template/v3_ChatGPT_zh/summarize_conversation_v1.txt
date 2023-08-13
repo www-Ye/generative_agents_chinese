@@ -1,0 +1,11 @@
+summarize_conversation_v1.txt
+
+变量: 
+!<INPUT 0>! -- 初始化角色名
+
+<commentblockmarker>###</commentblockmarker>
+对话: 
+!<INPUT 0>!
+
+用一句话总结上述对话：
+这是一次关于

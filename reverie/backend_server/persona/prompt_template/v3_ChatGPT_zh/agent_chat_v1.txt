@@ -1,0 +1,27 @@
+agent_chat_v1.txt
+
+变量: 
+!<INPUT 0>! -- 当前初始化人格
+!<INPUT 1>! -- 当前目标人格
+!<INPUT 2>! -- 之前的对话总结
+!<INPUT 3>! -- 上下文
+!<INPUT 4>! -- 检索到的初始化人格信息
+!<INPUT 5>! -- 检索到的目标人格信息
+!<INPUT 6>! -- 初始化人格的名字
+
+<commentblockmarker>###</commentblockmarker>
+角色1：!<INPUT 0>!
+角色2：!<INPUT 1>!
+
+过去的上下文：!<INPUT 2>!
+
+当前的上下文：!<INPUT 3>!
+当前的位置：!<INPUT 4>!
+
+（这是在!<INPUT 5>!的头脑中：!<INPUT 6>! 除此之外，!<INPUT 7>! 不一定知道!<INPUT 8>!的其它信息）
+
+（这是在!<INPUT 9>!的头脑中：!<INPUT 10>! 除此之外，!<INPUT 11>! 不一定知道!<INPUT 12>!的其它信息）
+
+以下是他们的对话。
+
+!<INPUT 13>!: "

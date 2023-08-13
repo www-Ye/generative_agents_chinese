@@ -1,0 +1,159 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 07:33:10",
+  "curr_tile": [
+    73,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez\u6bcf\u59298am\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\uff0c\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c\u76f4\u52308pm\uff0c\u7136\u540e\u5979\u4f1a\u5173\u95ed\u5496\u5561\u9986\u3002",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "\u53cb\u597d\uff0c\u5916\u5411\uff0c\u597d\u5ba2",
+  "learned": "Isabella Rodriguez\u662f\u970d\u5e03\u65af\u5496\u5561\u5e97\u7684\u8001\u677f\uff0c\u5979\u70ed\u7231\u8ba9\u4eba\u4eec\u611f\u5230\u53d7\u6b22\u8fce\u3002\u5979\u4e00\u76f4\u5728\u5bfb\u627e\u65b9\u6cd5\u8ba9\u5496\u5561\u9986\u6210\u4e3a\u4eba\u4eec\u53ef\u4ee5\u6765\u653e\u677e\u548c\u4eab\u53d7\u81ea\u5df1\u7684\u5730\u65b9\u3002",
+  "currently": "Isabella Rodriguez\u8ba1\u5212\u57282023\u5e742\u670814\u65e5\uff0c5pm\u65f6\uff0c\u5728\u970d\u5e03\u65af\u5496\u5561\u5e97\u4e0e\u5979\u7684\u987e\u5ba2\u4eec\u4e00\u8d77\u4e3e\u529e\u60c5\u4eba\u8282\u6d3e\u5bf9\u3002\u5979\u6b63\u5728\u6536\u96c6\u6d3e\u5bf9\u7528\u54c1\uff0c\u5e76\u544a\u8bc9\u5927\u5bb6\u5230\u970d\u5e03\u65af\u5496\u5561\u5e97\u4e00\u8d77\u53c2\u52a02023\u5e742\u670814\u65e5\uff0c\u4ece5pm\u52307pm\u7684\u6d3e\u5bf9\u3002",
+  "lifestyle": "Isabella Rodriguez\u5927\u7ea6\u572811pm\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57286am\u5de6\u53f3\u9192\u6765\u3002",
+  "living_area": "\u5c0f\u9547Ville:Isabella Rodriguez\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 134,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57286:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+    "\u57288:00 am\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c\u76f4\u52308 pm",
+    "\u57288:30 pm\u5173\u95ed\u970d\u5e03\u65af\u5496\u5561\u5e97",
+    "\u4e4b\u540e\u53ef\u80fd\u53bb\u905b\u72d7\u6216\u505a\u5bb6\u52a1"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      360
+    ],
+    [
+      "\u9192\u6765\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      120
+    ],
+    [
+      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (\u68c0\u67e5\u5496\u5561\u9986\u7684\u5e93\u5b58)",
+      10
+    ],
+    [
+      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u6e05\u6d01\u5496\u5561\u9986\u7684\u684c\u5b50\u548c\u6905\u5b50)",
+      10
+    ],
+    [
+      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u51c6\u5907\u5496\u5561\u9986\u7684\u996e\u6599)",
+      10
+    ],
+    [
+      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u51c6\u5907\u5496\u5561\u9986\u7684\u98df\u7269)",
+      10
+    ],
+    [
+      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u68c0\u67e5\u5496\u5561\u9986\u7684\u6536\u94f6\u673a)",
+      10
+    ],
+    [
+      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u68c0\u67e5\u5496\u5561\u9986\u7684\u5b89\u5168\u8bbe\u65bd)",
+      5
+    ],
+    [
+      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u68c0\u67e5\u5496\u5561\u9986\u7684\u5ba2\u4eba)",
+      5
+    ],
+    [
+      "\u67dc\u53f0\u5de5\u4f5c",
+      540
+    ],
+    [
+      "\u5bb6\u91cc\u505a\u5bb6\u52a1\u6216\u905b\u72d7",
+      120
+    ],
+    [
+      "\u5173\u95ed\u970d\u5e03\u65af\u5496\u5561\u5e97",
+      60
+    ],
+    [
+      "\u5bb6\u91cc\u505a\u5bb6\u52a1\u6216\u905b\u72d7",
+      120
+    ],
+    [
+      "\u7761\u89c9",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      360
+    ],
+    [
+      "\u9192\u6765\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      120
+    ],
+    [
+      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u67dc\u53f0\u5de5\u4f5c",
+      540
+    ],
+    [
+      "\u5bb6\u91cc\u505a\u5bb6\u52a1\u6216\u905b\u72d7",
+      120
+    ],
+    [
+      "\u5173\u95ed\u970d\u5e03\u65af\u5496\u5561\u5e97",
+      60
+    ],
+    [
+      "\u5bb6\u91cc\u505a\u5bb6\u52a1\u6216\u905b\u72d7",
+      120
+    ],
+    [
+      "\u7761\u89c9",
+      60
+    ]
+  ],
+  "act_address": "\u5c0f\u9547Ville:Isabella Rodriguez\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
+  "act_start_time": "February 13, 2023, 07:00:00",
+  "act_duration": 120,
+  "act_description": "\u9192\u6765\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+  "act_pronunciatio": "\ud83d\udecc\ud83d\uddd3\ufe0f",
+  "act_event": [
+    "Isabella Rodriguez",
+    "\u9192\u6765",
+    "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
+  ],
+  "act_obj_description": "\u6b63\u5728\u4f7f\u7528",
+  "act_obj_pronunciatio": "\u2328\ufe0f\ud83d\udda5",
+  "act_obj_event": [
+    "\u5e8a",
+    "\u4f7f\u7528",
+    "\u6b63\u5728"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,12 @@
+insight_and_evidence_v1.txt
+
+变量: 
+!<INPUT 0>! -- 编号列出的事件/想法语句
+!<INPUT 1>! -- 目标人格名称或"对话"
+
+<commentblockmarker>###</commentblockmarker>
+输入:
+!<INPUT 0>!
+
+从以上语句中，您能推断出!<INPUT 1>!的哪些高级见解？（示例格式：见解（由于1,5,3））
+1.

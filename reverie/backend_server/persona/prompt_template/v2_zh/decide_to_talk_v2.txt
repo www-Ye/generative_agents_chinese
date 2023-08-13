@@ -1,0 +1,18 @@
+decide_to_talk_v1.txt
+
+<commentblockmarker>###</commentblockmarker>
+任务 -- 提供上下文，确定主题是否会与他人开启对话。 
+格式: 
+上下文: []
+问题: []
+推理: []
+以"yes"或"no"回答: []
+---
+上下文: !<INPUT 0>! 
+现在是!<INPUT 1>!. !<INPUT 2>! 和 !<INPUT 3>! 上次在 !<INPUT 4>! 时关于 !<INPUT 5>!进行了聊天。 
+!<INPUT 6>! 
+!<INPUT 7>! 
+
+问题: !<INPUT 8>! 会主动与 !<INPUT 9>!开始对话吗？
+
+推理: 让我们一步一步思考。

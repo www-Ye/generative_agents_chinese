@@ -1,0 +1,16 @@
+summarize_ideas_v1.txt
+
+变量: 
+!<INPUT 0>! -- 陈述
+!<INPUT 1>! -- 代理名称
+!<INPUT 2>! -- 访问者问题
+
+<commentblockmarker>###</commentblockmarker>
+陈述: 
+!<INPUT 0>!
+
+一位访问者对!<INPUT 1>!说：
+"!<INPUT 2>!"
+
+总结对访问者问题最相关的陈述：
+"

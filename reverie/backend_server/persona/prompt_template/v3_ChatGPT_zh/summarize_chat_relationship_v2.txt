@@ -1,0 +1,15 @@
+summarize_chat_relationship_v2.txt
+
+变量: 
+!<INPUT 0>! -- 陈述
+!<INPUT 1>! -- 当前人格的名字
+!<INPUT 2>! -- 目标人格的名字
+
+<commentblockmarker>###</commentblockmarker>
+[陈述]
+!<INPUT 0>!
+
+根据以上的陈述，总结一下!<INPUT 1>!和!<INPUT 2>!的关系。他们对彼此的感觉或了解是什么?
+
+
+"

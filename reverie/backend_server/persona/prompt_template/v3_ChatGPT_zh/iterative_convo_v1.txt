@@ -1,0 +1,46 @@
+iterative_convo_v1.txt
+
+变量: 
+!<INPUT 0>! -- 人格 ISS
+!<INPUT 1>! -- 人格名称
+!<INPUT 2>! -- 获取的记忆
+!<INPUT 3>! -- 过去的情境
+!<INPUT 4>! -- 当前位置
+!<INPUT 5>! -- 当前情境
+!<INPUT 6>! -- 人格名称
+!<INPUT 7>! -- 目标人格名称
+!<INPUT 8>! -- 当前对话
+!<INPUT 9>! -- 人格名称
+!<INPUT 10>! -- 目标人格名称
+!<INPUT 11>! -- 人格名称
+!<INPUT 12>! -- 人格名称
+!<INPUT 13>! -- 人格名称
+<commentblockmarker>###</commentblockmarker>
+任务的上下文: 
+
+第一部分. 
+!<INPUT 0>!
+
+这是在!<INPUT 1>!的头脑中的记忆: 
+!<INPUT 2>!
+
+第二部分.
+过去的情境: 
+!<INPUT 3>!
+
+当前位置: !<INPUT 4>!
+
+当前情境: 
+!<INPUT 5>!
+
+!<INPUT 6>!和!<INPUT 7>!正在聊天。这是他们到目前为止的对话: 
+!<INPUT 8>!
+
+---
+任务: 根据上述情况，所有对话均为中文，!<INPUT 9>!接下来在对话中应该对!<INPUT 10>!说什么？对话是否在!<INPUT 13>!的发言结束？
+
+输出格式: 输出为以下格式的json: 
+{
+"!<INPUT 11>!": "<!<INPUT 12>!的发言>",
+"!<INPUT 13>!的发言是否结束了对话?": "<json 布尔值>"
+}

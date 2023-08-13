@@ -1,0 +1,48 @@
+create_conversation_v2.txt
+
+变量: 
+!<INPUT 0>! -- 初始角色iss
+!<INPUT 1>! -- 目标角色iss
+
+!<INPUT 2>! -- 初始角色的名字
+!<INPUT 3>! -- 目标角色的名字
+!<INPUT 4>! -- 初始角色的想法
+
+!<INPUT 5>! -- 目标角色的名字
+!<INPUT 6>! -- 初始角色的名字
+!<INPUT 7>! -- 目标角色的想法
+
+!<INPUT 8>! -- 当前时间
+!<INPUT 9>! -- 初始角色当前行动描述
+!<INPUT 10>! -- 目标角色当前行动描述
+
+!<INPUT 11>! -- 之前的对话
+
+!<INPUT 12>! -- 初始角色的名字
+!<INPUT 13>! -- 目标角色的名字
+!<INPUT 14>! -- 当前位置名称
+!<INPUT 15>! -- 初始角色的名字
+
+<commentblockmarker>###</commentblockmarker>
+
+我们有两个角色。
+
+角色1. 
+!<INPUT 0>!
+
+角色2. 
+!<INPUT 1>!
+---
+上下文: 
+这是!<INPUT 2>!对!<INPUT 3>!的看法:
+!<INPUT 4>!
+这是!<INPUT 5>!对!<INPUT 6>!的看法:
+!<INPUT 7>!
+现在是!<INPUT 8>!
+-- !<INPUT 9>!
+-- !<INPUT 10>!
+!<INPUT 11>!
+
+!<INPUT 12>!和!<INPUT 13>!在!<INPUT 14>!。现在他们会谈论什么？
+
+!<INPUT 15>!: "

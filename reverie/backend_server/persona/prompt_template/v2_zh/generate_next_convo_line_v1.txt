@@ -1,0 +1,23 @@
+generate_next_convo_line_v1.txt
+
+变量: 
+!<INPUT 0>! -- 代理人姓名
+!<INPUT 1>! -- 代理人iss
+!<INPUT 2>! -- 代理人姓名
+!<INPUT 3>! -- 对话者的姓名及描述
+!<INPUT 4>! -- 先前的对话
+!<INPUT 5>! -- 获取摘要
+!<INPUT 6>! -- 代理人姓名
+
+<commentblockmarker>###</commentblockmarker>
+以下是关于!<INPUT 0>!的一些基本信息。
+!<INPUT 1>!
+
+=== 
+以下是!<INPUT 2>!和!<INPUT 3>!之间的对话。
+
+!<INPUT 4>!
+
+（注意 -- 这是!<INPUT 5>!拥有的唯一信息: !<INPUT 6>!)
+
+!<INPUT 7>!: "

@@ -1,0 +1,12 @@
+wake_up_hour_v1.txt
+
+变量: 
+!<INPUT 0>! -- 稳定识别集
+!<INPUT 1>! -- 生活方式
+!<INPUT 2>! -- 人格的名字
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+
+一般来说，!<INPUT 1>!
+!<INPUT 2>!的起床时间：

@@ -1,0 +1,15 @@
+planning_thought_on_convo_v1.txt
+
+变量: 
+!<INPUT 0>! -- 所有对话话语
+!<INPUT 1>! -- 人格名称
+!<INPUT 2>! -- 人格名称
+!<INPUT 3>! -- 人格名称
+
+<commentblockmarker>###</commentblockmarker>
+[对话]
+!<INPUT 0>!
+
+以完整的句子写下从!<INPUT 2>!的视角，!<INPUT 1>!需要从对话中记住的规划信息。
+
+"!<INPUT 3>!

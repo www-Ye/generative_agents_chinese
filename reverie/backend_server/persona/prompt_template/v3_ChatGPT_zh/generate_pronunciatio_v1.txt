@@ -1,0 +1,10 @@
+generate_pronunciatio_v1.txt
+
+变量: 
+!<INPUT 0>! -- 动作描述
+
+<commentblockmarker>###</commentblockmarker>
+将动作描述转换为表情符号（重要：使用两个或更少的表情符号）。
+
+动作描述: !<INPUT 0>!
+表情符号:

@@ -1,0 +1,18 @@
+generate_hourly_schedule_v2.txt
+
+变量: 
+!<INPUT 0>! -- 日程格式
+!<INPUT 1>! -- 公共集
+!<INPUT 2>! -- 之前的日程
+!<INPUT 3>! -- 休息时间字符串
+!<INPUT 4>! -- 休息时间 2
+!<INPUT 5>! -- 提示结束
+
+<commentblockmarker>###</commentblockmarker>
+每小时日程格式： 
+!<INPUT 0>!
+===
+!<INPUT 1>!
+!<INPUT 2>!
+!<INPUT 3>!!<INPUT 4>!
+!<INPUT 5>!

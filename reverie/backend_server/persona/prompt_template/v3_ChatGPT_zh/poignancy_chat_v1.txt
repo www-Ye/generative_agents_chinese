@@ -1,0 +1,17 @@
+poignancy_chat_v1.txt
+
+!<INPUT 1>!: 代理名字
+!<INPUT 1>!: ISS
+!<INPUT 2>!: 名称 
+!<INPUT 3>!: 事件描述
+
+<commentblockmarker>###</commentblockmarker>
+这是对!<INPUT 0>!的简洁描述。 
+!<INPUT 1>!
+
+在1至10的范围内，其中1是十分平常（例如，例行的早晨问候）而10是非常感人（例如，关于分手的对话，争吵），请为!<INPUT 2>!可能的感人度对以下对话进行评分。
+
+对话: 
+!<INPUT 3>!
+
+评分（返回一个1至10之间的数字）：
