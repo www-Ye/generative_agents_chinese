@@ -5,7 +5,7 @@
   "curr_time": "February 13, 2023, 07:33:10",
   "curr_tile": [
     73,
-    14
+    15
   ],
   "daily_plan_req": "Isabella Rodriguez\u6bcf\u59298am\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\uff0c\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c\u76f4\u52308pm\uff0c\u7136\u540e\u5979\u4f1a\u5173\u95ed\u5496\u5561\u9986\u3002",
   "name": "Isabella Rodriguez",
@@ -28,71 +28,99 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 150,
-  "importance_trigger_curr": 134,
+  "importance_trigger_curr": 135,
   "importance_ele_n": 8,
   "thought_count": 5,
   "daily_req": [
-    "\u57286:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
-    "\u57288:00 am\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c\u76f4\u52308 pm",
-    "\u57288:30 pm\u5173\u95ed\u970d\u5e03\u65af\u5496\u5561\u5e97",
-    "\u4e4b\u540e\u53ef\u80fd\u53bb\u905b\u72d7\u6216\u505a\u5bb6\u52a1"
+    "\u57288:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+    "12:00 pm\u5403\u65e9\u9910",
+    "1:00 pm\u5728\u970d\u5e03\u65af\u5496\u5561\u5e97\u5f00\u59cb\u5de5\u4f5c",
+    "7:00 pm\u5de6\u53f3\u56de\u5230\u5bb6\u51c6\u5907\u660e\u5929\u7684\u51c6\u5907"
   ],
   "f_daily_schedule": [
     [
       "\u7761\u89c9",
-      360
+      480
     ],
     [
-      "\u9192\u6765\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
-      120
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u6d17\u6fa1)",
+      15
     ],
     [
-      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (\u68c0\u67e5\u5496\u5561\u9986\u7684\u5e93\u5b58)",
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Isabella\u5728\u7a7f\u8863\u670d)",
       10
     ],
     [
-      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u6e05\u6d01\u5496\u5561\u9986\u7684\u684c\u5b50\u548c\u6905\u5b50)",
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Isabella\u5728\u68b3\u5986)",
       10
     ],
     [
-      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u51c6\u5907\u5496\u5561\u9986\u7684\u996e\u6599)",
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Isabella\u5728\u6536\u62fe\u623f\u95f4)",
       10
     ],
     [
-      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u51c6\u5907\u5496\u5561\u9986\u7684\u98df\u7269)",
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Isabella\u5728\u6536\u62fe\u53a8\u623f)",
       10
     ],
     [
-      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u68c0\u67e5\u5496\u5561\u9986\u7684\u6536\u94f6\u673a)",
-      10
-    ],
-    [
-      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u68c0\u67e5\u5496\u5561\u9986\u7684\u5b89\u5168\u8bbe\u65bd)",
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Isabella\u5728\u51c6\u5907\u51fa\u95e8)",
       5
     ],
     [
-      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c (Isabella\u5728\u68c0\u67e5\u5496\u5561\u9986\u7684\u5ba2\u4eba)",
+      "\u5bb6\u51c6\u5907\u65e9\u9910 (\u51c6\u5907\u98df\u6750)",
+      10
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u65e9\u9910 (Isabella\u5728\u6d17\u6da4\u98df\u6750)",
+      10
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u65e9\u9910 (Isabella\u5728\u70f9\u996a\u98df\u6750)",
+      15
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u65e9\u9910 (Isabella\u5728\u6536\u62fe\u53a8\u623f)",
+      10
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u65e9\u9910 (Isabella\u5728\u6446\u653e\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u65e9\u9910 (Isabella\u5728\u6e05\u7406\u684c\u5b50)",
       5
     ],
     [
-      "\u67dc\u53f0\u5de5\u4f5c",
-      540
-    ],
-    [
-      "\u5bb6\u91cc\u505a\u5bb6\u52a1\u6216\u905b\u72d7",
-      120
-    ],
-    [
-      "\u5173\u95ed\u970d\u5e03\u65af\u5496\u5561\u5e97",
+      "\u5bb6\u5403\u65e9\u9910",
       60
     ],
     [
-      "\u5bb6\u91cc\u505a\u5bb6\u52a1\u6216\u905b\u72d7",
+      "\u5bb6\u51c6\u5907\u51fa\u53d1\u524d\u5f80\u970d\u5e03\u65af\u5496\u5561\u5e97",
+      60
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u65e9\u9910",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5f00\u59cb\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5de5\u4f5c",
+      240
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u660e\u5929\u7684\u5de5\u4f5c",
       120
     ],
     [
-      "\u7761\u89c9",
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
       60
+    ],
+    [
+      "\u5bb6\u4f11\u606f",
+      180
     ],
     [
       "\u7761\u89c9",
@@ -102,53 +130,65 @@
   "f_daily_schedule_hourly_org": [
     [
       "\u7761\u89c9",
-      360
+      480
     ],
     [
-      "\u9192\u6765\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
-      120
-    ],
-    [
-      "\u5f00\u542f\u970d\u5e03\u65af\u5496\u5561\u5e97\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c",
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
       60
     ],
     [
-      "\u67dc\u53f0\u5de5\u4f5c",
-      540
-    ],
-    [
-      "\u5bb6\u91cc\u505a\u5bb6\u52a1\u6216\u905b\u72d7",
-      120
-    ],
-    [
-      "\u5173\u95ed\u970d\u5e03\u65af\u5496\u5561\u5e97",
+      "\u5bb6\u51c6\u5907\u65e9\u9910",
       60
     ],
     [
-      "\u5bb6\u91cc\u505a\u5bb6\u52a1\u6216\u905b\u72d7",
+      "\u5bb6\u5403\u65e9\u9910",
+      60
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u51fa\u53d1\u524d\u5f80\u970d\u5e03\u65af\u5496\u5561\u5e97",
+      60
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u65e9\u9910",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5f00\u59cb\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5de5\u4f5c",
+      240
+    ],
+    [
+      "\u5bb6\u51c6\u5907\u660e\u5929\u7684\u5de5\u4f5c",
       120
     ],
     [
-      "\u7761\u89c9",
+      "\u5bb6\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
       60
+    ],
+    [
+      "\u5bb6\u4f11\u606f",
+      180
     ]
   ],
   "act_address": "\u5c0f\u9547Ville:Isabella Rodriguez\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
   "act_start_time": "February 13, 2023, 07:00:00",
-  "act_duration": 120,
-  "act_description": "\u9192\u6765\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
-  "act_pronunciatio": "\ud83d\udecc\ud83d\uddd3\ufe0f",
+  "act_duration": 480,
+  "act_description": "\u7761\u89c9",
+  "act_pronunciatio": "\ud83d\ude34",
   "act_event": [
     "Isabella Rodriguez",
-    "\u9192\u6765",
-    "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
+    "\u662f",
+    "\u7761\u89c9"
   ],
-  "act_obj_description": "\u6b63\u5728\u4f7f\u7528",
-  "act_obj_pronunciatio": "\u2328\ufe0f\ud83d\udda5",
+  "act_obj_description": "\u5728\u4f7f\u7528",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
   "act_obj_event": [
     "\u5e8a",
     "\u4f7f\u7528",
-    "\u6b63\u5728"
+    "-"
   ],
   "chatting_with": null,
   "chat": null,

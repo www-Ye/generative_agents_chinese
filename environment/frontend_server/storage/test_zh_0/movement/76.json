@@ -3,28 +3,28 @@
     "Isabella Rodriguez": {
       "movement": [
         73,
-        14
+        15
       ],
-      "pronunciatio": "\ud83d\udecc\ud83d\uddd3\ufe0f",
-      "description": "\u9192\u6765\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 @ \u5c0f\u9547Ville:Isabella Rodriguez\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
+      "pronunciatio": "\ud83d\ude34",
+      "description": "\u7761\u89c9 @ \u5c0f\u9547Ville:Isabella Rodriguez\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
       "chat": null
     },
     "Maria Lopez": {
       "movement": [
-        119,
+        113,
         32
       ],
-      "pronunciatio": "\ud83d\udcda\ud83d\udd8a\ufe0f",
-      "description": "\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u4e0a\u8bfe (\u51c6\u5907\u4e0a\u8bfe\u6240\u9700\u7684\u6750\u6599) @ \u5c0f\u9547Ville:\u6a61\u6811\u5c71\u5b66\u9662:\u8d70\u5eca:<random>",
+      "pronunciatio": "\ud83d\udcda\u270f\ufe0f",
+      "description": "\u4e0a\u5b66 (\u51c6\u5907\u4e0a\u8bfe\u6240\u9700\u7684\u6750\u6599) @ \u5c0f\u9547Ville:\u6a61\u6811\u5c71\u5b66\u9662:\u8d70\u5eca:<random>",
       "chat": null
     },
     "Klaus Mueller": {
       "movement": [
-        114,
+        122,
         30
       ],
-      "pronunciatio": "\ud83d\udecf\ufe0f\ud83c\udf05",
-      "description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 @ \u5c0f\u9547Ville:\u6a61\u6811\u5c71\u5b66\u9662:\u8d70\u5eca:<random>",
+      "pronunciatio": "\ud83d\udecf\ufe0f\ud83d\ude34",
+      "description": "\u5b8c\u6210\u4ed6\u7684\u65e9\u6668\u4efb\u52a1 @ \u5c0f\u9547Ville:\u6a61\u6811\u5c71\u5b66\u9662:\u8d70\u5eca:<random>",
       "chat": null
     }
   },
