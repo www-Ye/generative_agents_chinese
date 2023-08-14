@@ -2,6 +2,8 @@
 
 Generative Agents: Interactive Simulacra of Human Behavior
 
+This repository is the Chinese implementation for the paper "[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)".
+
 <p align="center" width="100%">
 <img src="cover.png" alt="Smallville" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
