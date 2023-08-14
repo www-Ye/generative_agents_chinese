@@ -552,7 +552,10 @@ class Scratch:
         x = x.replace(second=0)
         x = (x + datetime.timedelta(minutes=1))
       end_time = (x + datetime.timedelta(minutes=self.act_duration))
-
+    print(self.act_start_time)
+    print(datetime.timedelta(minutes=self.act_duration))
+    print(end_time.strftime("%H:%M:%S"))
+    print(self.curr_time.strftime("%H:%M:%S"))
     if end_time.strftime("%H:%M:%S") == self.curr_time.strftime("%H:%M:%S"): 
       return True
     return False

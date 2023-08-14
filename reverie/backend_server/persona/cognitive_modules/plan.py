@@ -545,6 +545,8 @@ def _determine_action(persona, maze):
     OUTPUT: 
       a boolean. True if we need to decompose, False otherwise. 
     """
+    print('!!!!determine_decomp!!!!')
+    print(act_desp, act_dura)
     if "睡觉" not in act_desp and "床" not in act_desp: 
       return True
     elif "睡觉" in act_desp or "asleep" in act_desp or "in bed" in act_desp:
@@ -563,6 +565,8 @@ def _determine_action(persona, maze):
   curr_index_60 = persona.scratch.get_f_daily_schedule_index(advance=60)
 
   # * Decompose * 
+  print('-------------decompressing-------------')
+  print(persona.name)
   # During the first hour of the day, we need to decompose two hours 
   # sequence. We do that here. 
   if curr_index == 0:
@@ -958,6 +962,10 @@ def plan(persona, maze, personas, new_day, retrieved):
     _long_term_planning(persona, new_day)
 
   # PART 2: If the current action has expired, we want to create a new plan.
+  print(persona.name)
+  print('start checking')
+  print(persona.scratch.act_address)
+  print(persona.scratch.f_daily_schedule)
   if persona.scratch.act_check_finished(): 
     _determine_action(persona, maze)
 
