@@ -545,8 +545,8 @@ def _determine_action(persona, maze):
     OUTPUT: 
       a boolean. True if we need to decompose, False otherwise. 
     """
-    print('!!!!determine_decomp!!!!')
-    print(act_desp, act_dura)
+    # print('!!!!determine_decomp!!!!')
+    # print(act_desp, act_dura)
     if "睡觉" not in act_desp and "床" not in act_desp: 
       return True
     elif "睡觉" in act_desp or "asleep" in act_desp or "in bed" in act_desp:
@@ -565,8 +565,8 @@ def _determine_action(persona, maze):
   curr_index_60 = persona.scratch.get_f_daily_schedule_index(advance=60)
 
   # * Decompose * 
-  print('-------------decompressing-------------')
-  print(persona.name)
+  # print('-------------decompressing-------------')
+  # print(persona.name)
   # During the first hour of the day, we need to decompose two hours 
   # sequence. We do that here. 
   if curr_index == 0:
