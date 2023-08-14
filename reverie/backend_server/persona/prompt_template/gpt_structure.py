@@ -56,7 +56,7 @@ def GPT4_request(prompt):
     return "ChatGPT ERROR"
 
 
-def ChatGPT_request(prompt): 
+def ChatGPT_request(prompt, max_tokens=256): 
   """
   Given a prompt and a dictionary of GPT parameters, make a request to OpenAI
   server and returns the response. 
@@ -72,7 +72,8 @@ def ChatGPT_request(prompt):
   try: 
     completion = openai.ChatCompletion.create(
     model="gpt-3.5-turbo", 
-    messages=[{"role": "user", "content": prompt}]
+    messages=[{"role": "user", "content": prompt}],
+    max_tokens=max_tokens
     )
     return completion["choices"][0]["message"]["content"]
   
@@ -268,7 +269,7 @@ def safe_generate_response(prompt,
 
   for i in range(repeat): 
     # curr_gpt_response = GPT_request(prompt, gpt_parameter)
-    curr_gpt_response = ChatGPT_request(prompt)
+    curr_gpt_response = ChatGPT_request(prompt, gpt_parameter["max_tokens"])
     # print(curr_gpt_response)
     if func_validate(curr_gpt_response, prompt=prompt): 
       return func_clean_up(curr_gpt_response, prompt=prompt)
