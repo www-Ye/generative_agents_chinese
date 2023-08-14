@@ -129,14 +129,12 @@ def ChatGPT_safe_generate_response(prompt,
                                    func_validate=None,
                                    func_clean_up=None,
                                    verbose=False,
-                                   simple_prompt=False): 
-  if simple_prompt:
-    prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
-  else:
-    prompt = '"""\n' + prompt + '\n"""\n'
-    prompt += f"Output the response to the prompt above in json. {special_instruction}\n"
-    prompt += "Example output json:\n"
-    prompt += '{"output": "' + str(example_output) + '"}'
+                                   ): 
+  # prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
+  prompt = '"""\n' + prompt + '\n"""\n'
+  prompt += f"将上述提示的响应输出为json格式。{special_instruction}\n"
+  prompt += "示例输出json:\n"
+  prompt += '{"output": "' + str(example_output) + '"}'
 
   if verbose: 
     print ("CHAT GPT PROMPT")
@@ -146,10 +144,6 @@ def ChatGPT_safe_generate_response(prompt,
 
     try: 
       curr_gpt_response = ChatGPT_request(prompt).strip()
-      if not simple_prompt:
-        end_index = curr_gpt_response.rfind('}') + 1
-        curr_gpt_response = curr_gpt_response[:end_index]
-        curr_gpt_response = json.loads(curr_gpt_response)["output"]
 
       # print ("---ashdfaf")
       # print (curr_gpt_response)
@@ -283,7 +277,7 @@ def safe_generate_response(prompt,
 def get_embedding(text, model="text-embedding-ada-002"):
   text = text.replace("\n", " ")
   if not text: 
-    text = "this is blank"
+    text = "这是空白的"
   return openai.Embedding.create(
           input=[text], model=model)['data'][0]['embedding']
 
