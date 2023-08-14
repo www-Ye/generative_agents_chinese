@@ -1,14 +1,12 @@
 # Generative Agents: Interactive Simulacra of Human Behavior / 生成智能体：交互式的人类行为模拟
 
-Generative Agents: Interactive Simulacra of Human Behavior
-
 This repository is the Chinese implementation for the paper "[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)".
 
 <p align="center" width="100%">
 <img src="cover.png" alt="Smallville" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-这个存储库为论文 "[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)"的中文实现，LLM使用均用更便宜的chatgpt，修复了一部分部署容易出现的bug，但目前时间步长了之后仍然存在一些问题。
+这个存储库为论文 "[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)"的中文实现，LLM均使用更便宜的chatgpt，修复了一部分部署容易出现的bug，但目前时间步长了之后仍然存在一些问题。
 
 ![alt text](fig/zh_1.png)
 

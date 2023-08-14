@@ -217,7 +217,7 @@ def run_gpt_prompt_generate_hourly_schedule(persona,
     return prompt_input
 
   def __func_clean_up(gpt_response, prompt=""):
-    cr = gpt_response.strip()
+    cr = gpt_response.split('\n')[0].strip()
     if cr[-1] == "。":
       cr = cr[:-1]
     return cr
@@ -374,10 +374,14 @@ def run_gpt_prompt_task_decomp(persona,
         _cr += [i]
     print(_cr)
     for count, i in enumerate(_cr): 
-      if "（" in i:
+      if "（持续时间，分钟：" in i:
         k = [j.strip() for j in i.split("（持续时间，分钟：")]
-      else:
+      elif "（持续时间，分钟" in i:
+        k = [j.strip() for j in i.split("（持续时间，分钟")]
+      elif "(持续时间，分钟：" in i:
         k = [j.strip() for j in i.split("(持续时间，分钟：")]
+      elif "(持续时间，分钟" in i:
+        k = [j.strip() for j in i.split("(持续时间，分钟")]
       print(i)
       print(k)
       if len(k) < 2:
