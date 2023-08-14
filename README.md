@@ -9,6 +9,11 @@ This repository is the Chinese implementation for the paper "[Generative Agents:
 这个存储库为论文 "[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)"的中文实现，LLM均使用更便宜的chatgpt，修复了一部分部署容易出现的bug。
 
 <p float="left">
+  <img src="fig/fig3.png" width="40%" />
+  <img src="fig/fig4.png" width="40%" /> 
+</p>
+
+<p float="left">
   <img src="fig/fig1.png" width="40%" />
   <img src="fig/fig2.png" width="40%" /> 
 </p>
