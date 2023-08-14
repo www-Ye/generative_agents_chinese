@@ -12,6 +12,8 @@ This repository is the Chinese implementation for the paper "[Generative Agents:
 
 ![alt text](fig/zh_conv.png)
 
+![alt text](fig/fig1.png)
+
 ## <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Isabella_Rodriguez.png" alt="Generative Isabella">   设置环境 
 为了设置你的环境，你需要生成一个包含你的OpenAI API密钥的 `utils.py` 文件，并下载必要的包。
 

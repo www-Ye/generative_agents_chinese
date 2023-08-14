@@ -1,246 +1,51 @@
 {
-  "vision_r": 8,
-  "att_bandwidth": 8,
-  "retention": 8,
-  "curr_time": "February 13, 2023, 07:33:10",
-  "curr_tile": [
-    114,
-    30
-  ],
-  "daily_plan_req": "Klaus Mueller\u4e00\u65e9\u5c31\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u7684\u56fe\u4e66\u9986\uff0c\u4ed6\u5728\u90a3\u91cc\u5ea6\u8fc7\u4ed6\u7684\u65e5\u5b50\u5199\u4f5c\uff0c\u5e76\u5728\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u996d\u3002",
-  "name": "Klaus Mueller",
-  "first_name": "Klaus",
-  "last_name": "Mueller",
+  "vision_r": 8, 
+  "att_bandwidth": 8, 
+  "retention": 8, 
+  "curr_time": null, 
+  "curr_tile": null, 
+  "daily_plan_req": "Klaus Mueller一早就去橡树山学院的图书馆，他在那里度过他的日子写作，并在霍布斯咖啡店吃饭。", 
+  "name": "Klaus Mueller", 
+  "first_name": "Klaus", 
+  "last_name": "Mueller", 
   "age": 20,
-  "innate": "\u4eb2\u5207\u7684\uff0c\u6c42\u77e5\u6b32\u5f3a\u7684\uff0c\u5bcc\u6709\u6fc0\u60c5\u7684",
-  "learned": "Klaus Mueller\u662f\u6a61\u6811\u5c71\u5b66\u9662\u7684\u4e00\u540d\u5b66\u751f\uff0c\u4e3b\u4fee\u793e\u4f1a\u5b66\u3002\u4ed6\u5bf9\u793e\u4f1a\u516c\u6b63\u5145\u6ee1\u70ed\u60c5\uff0c\u559c\u6b22\u63a2\u7d22\u4e0d\u540c\u7684\u89c2\u70b9\u3002",
-  "currently": "Klaus Mueller\u6b63\u5728\u64b0\u5199\u4e00\u7bc7\u5173\u4e8e\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u5f71\u54cd\u7684\u7814\u7a76\u8bba\u6587\u3002",
-  "lifestyle": "Klaus Mueller\u5927\u7ea6\u572811pm\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57287am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57285pm\u5de6\u53f3\u5403\u665a\u9910\u3002",
-  "living_area": "\u5c0f\u9547Ville:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Klaus Mueller\u7684\u623f\u95f4",
+  "innate": "亲切的，求知欲强的，富有激情的", 
+  "learned": "Klaus Mueller是橡树山学院的一名学生，主修社会学。他对社会公正充满热情，喜欢探索不同的观点。", 
+  "currently": "Klaus Mueller正在撰写一篇关于翻新对低收入社区影响的研究论文。", 
+  "lifestyle": "Klaus Mueller大约在11pm左右去睡觉，大约在7am左右醒来，大约在5pm左右吃晚餐。", 
+  "living_area": "小镇Ville:橡树山学院宿舍:Klaus Mueller的房间",
   "concept_forget": 100,
   "daily_reflection_time": 180,
   "daily_reflection_size": 5,
   "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10,
-  "kw_strg_thought_reflect_th": 9,
+  "kw_strg_event_reflect_th": 10, 
+  "kw_strg_thought_reflect_th": 9, 
+
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 150,
-  "importance_trigger_curr": 97,
-  "importance_ele_n": 16,
-  "thought_count": 5,
-  "daily_req": [
-    "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
-    "\u57288:30 am\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986\uff0c\u5728\u90a3\u91cc\u8fdb\u884c\u7814\u7a76\u5e76\u5199\u4f5c",
-    "\u53ef\u80fd\u572811:00am\u4f11\u606f\u4e00\u4f1a",
-    "\u5728\u4e2d\u534812:00 pm\u53bb\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u5348\u9910",
-    "\u57282-3 pm\u4e4b\u95f4\u4f11\u606f\u4e00\u4f1a",
-    "\u57284:30 pm\u5403\u4e0b\u5348\u8336",
-    "\u5728\u4e0b\u53485:00 pm\u53bb\u56fe\u4e66\u9986\u7ee7\u7eed\u7814\u7a76",
-    "\u5728\u4e0b\u53489:00 pm\u7ed3\u675f\u7814\u7a76"
-  ],
-  "f_daily_schedule": [
-    [
-      "\u7761\u89c9",
-      420
-    ],
-    [
-      "\u5b8c\u6210\u4ed6\u7684\u65e9\u6668\u4efb\u52a1",
-      60
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986 (\u51c6\u5907\u6536\u62fe\u4ed6\u7684\u4e66\u5305)",
-      0
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986 (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8e\u4e24\u4e2a\u4eba\u5546\u91cf\u4e0a\u8bfe\u7684\u5bf9\u8bdd\u3002)",
-      2
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986 (Klaus\u5728\u68c0\u67e5\u4ed6\u7684\u7b14\u8bb0\u672c\u7535\u8111)",
-      10
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986 (Klaus\u5728\u6536\u62fe\u4ed6\u7684\u6587\u4ef6\u5939)",
-      10
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986 (Klaus\u5728\u68c0\u67e5\u4ed6\u7684\u4e66\u7c4d)",
-      10
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986 (Klaus\u5728\u6536\u62fe\u4ed6\u7684\u7b14)",
-      10
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986 (Klaus\u5728\u68c0\u67e5\u4ed6\u7684\u8863\u670d)",
-      5
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986 (Klaus\u5728\u51c6\u5907\u51fa\u53d1)",
-      5
-    ],
-    [
-      "\u56fe\u4e66\u9986\u5f00\u59cb\u7814\u7a76",
-      60
-    ],
-    [
-      "\u56fe\u4e66\u9986\u7814\u7a76",
-      60
-    ],
-    [
-      "\u56fe\u4e66\u9986\u4f11\u606f\u4e00\u4f1a",
-      60
-    ],
-    [
-      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u5348\u9910",
-      120
-    ],
-    [
-      "\u56fe\u4e66\u9986\u7814\u7a76",
-      240
-    ],
-    [
-      "\u5403\u4e0b\u5348\u8336",
-      60
-    ],
-    [
-      "\u5b8c\u6210\u4ed6\u7684\u65e9\u6668\u4efb\u52a1",
-      60
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986",
-      60
-    ],
-    [
-      "\u56de\u5bb6\u51c6\u5907\u7761\u89c9",
-      60
-    ],
-    [
-      "\u51c6\u5907\u7761\u89c9",
-      60
-    ],
-    [
-      "\u7761\u89c9",
-      60
-    ],
-    [
-      "\u7761\u89c9",
-      0
-    ],
-    [
-      "\u7761\u89c9",
-      8
-    ]
-  ],
-  "f_daily_schedule_hourly_org": [
-    [
-      "\u7761\u89c9",
-      420
-    ],
-    [
-      "\u5b8c\u6210\u4ed6\u7684\u65e9\u6668\u4efb\u52a1",
-      60
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986",
-      60
-    ],
-    [
-      "\u56fe\u4e66\u9986\u5f00\u59cb\u7814\u7a76",
-      60
-    ],
-    [
-      "\u56fe\u4e66\u9986\u7814\u7a76",
-      60
-    ],
-    [
-      "\u56fe\u4e66\u9986\u4f11\u606f\u4e00\u4f1a",
-      60
-    ],
-    [
-      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u5348\u9910",
-      120
-    ],
-    [
-      "\u56fe\u4e66\u9986\u7814\u7a76",
-      240
-    ],
-    [
-      "\u5403\u4e0b\u5348\u8336",
-      60
-    ],
-    [
-      "\u5b8c\u6210\u4ed6\u7684\u65e9\u6668\u4efb\u52a1",
-      60
-    ],
-    [
-      "\u51c6\u5907\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986",
-      60
-    ],
-    [
-      "\u56de\u5bb6\u51c6\u5907\u7761\u89c9",
-      60
-    ],
-    [
-      "\u51c6\u5907\u7761\u89c9",
-      60
-    ],
-    [
-      "\u7761\u89c9",
-      60
-    ]
-  ],
-  "act_address": "\u5c0f\u9547Ville:\u6a61\u6811\u5c71\u5b66\u9662:\u8d70\u5eca:<random>",
-  "act_start_time": "February 13, 2023, 07:04:00",
-  "act_duration": 60,
-  "act_description": "\u5b8c\u6210\u4ed6\u7684\u65e9\u6668\u4efb\u52a1",
-  "act_pronunciatio": "\ud83d\udecf\ufe0f\ud83d\ude34",
-  "act_event": [
-    "Klaus Mueller",
-    "\u5b8c\u6210",
-    "\u65e9\u6668\u4efb\u52a1"
-  ],
-  "act_obj_description": "\u5728\u4fee\u590d",
-  "act_obj_pronunciatio": "\ud83d\udd27",
-  "act_obj_event": [
-    "<random>",
-    "\u4fee\u590d",
-    ""
-  ],
-  "chatting_with": null,
+  "importance_trigger_curr": 150,
+  "importance_ele_n": 0, 
+  "thought_count": 5, 
+  
+  "daily_req": [], 
+  "f_daily_schedule": [],
+  "f_daily_schedule_hourly_org": [],
+  "act_address": null, 
+  "act_start_time": null, 
+  "act_duration": null, 
+  "act_description": null, 
+  "act_pronunciatio": null, 
+  "act_event": ["Klaus Mueller", null, null], 
+  "act_obj_description": null, 
+  "act_obj_pronunciatio": null, 
+  "act_obj_event": [null, null, null], 
+  "chatting_with": null, 
   "chat": null,
-  "chatting_with_buffer": {
-    "Maria Lopez": 624
-  },
+  "chatting_with_buffer": {}, 
   "chatting_end_time": null,
-  "act_path_set": true,
-  "planned_path": [
-    [
-      116,
-      30
-    ],
-    [
-      117,
-      30
-    ],
-    [
-      118,
-      30
-    ],
-    [
-      119,
-      30
-    ],
-    [
-      119,
-      31
-    ],
-    [
-      119,
-      32
-    ]
-  ]
+  "act_path_set": false, 
+  "planned_path": []
 }
