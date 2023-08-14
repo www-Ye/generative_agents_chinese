@@ -9,15 +9,17 @@ This repository is the Chinese implementation for the paper "[Generative Agents:
 这个存储库为论文 "[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)"的中文实现，LLM均使用更便宜的chatgpt，修复了一部分部署容易出现的bug。
 
 <p float="left">
-  <img src="fig/fig1.png" width="50%" />
-  <img src="fig/fig2.png" width="50%" /> 
+  <img src="fig/fig1.png" width="40%" />
+  <img src="fig/fig2.png" width="40%" /> 
+</p>
+
+<p float="left">
+  <img src="fig/zh_conv.png" width="60%" />
 </p>
 
 ![alt text](fig/zh_1.png)
 
-![alt text](fig/zh_conv.png)
-
-<!-- ![alt text](fig/fig1.png) -->
+<!-- ![alt text](fig/zh_conv.png) -->
 
 ## <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Isabella_Rodriguez.png" alt="Generative Isabella">   设置环境 
 为了设置你的环境，你需要生成一个包含你的OpenAI API密钥的 `utils.py` 文件，并下载必要的包。
