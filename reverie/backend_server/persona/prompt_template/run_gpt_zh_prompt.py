@@ -879,7 +879,7 @@ def run_gpt_prompt_pronunciatio(action_description, persona, verbose=False):
   prompt_input = create_prompt_input(action_description)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = "🛁🧖‍♀️" ########
-  special_instruction = "The value for the output must ONLY contain the emojis." ########
+  special_instruction = "输出的值必须只包含表情符号。" ########
   fail_safe = get_fail_safe()
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -1055,8 +1055,8 @@ def run_gpt_prompt_act_obj_desc(act_game_object, act_desp, persona, verbose=Fals
   prompt_input = create_prompt_input(act_game_object, act_desp, persona)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = "在修复" ########
-  # special_instruction = "The output should ONLY contain the phrase that should go in <fill in>." ########
-  special_instruction = "" ########
+  special_instruction = "输出应该仅包含应放在<fill in>的短语。" ########
+  # special_instruction = "" ########
   fail_safe = get_fail_safe(act_game_object) ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -1681,7 +1681,7 @@ def run_gpt_prompt_summarize_conversation(persona, conversation, test_input=None
   prompt_input = create_prompt_input(conversation, test_input)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = "讨论午餐要吃什么" ########
-  special_instruction = "The output must continue the sentence above by filling in the <fill in> tag. Don't start with 'this is a conversation about...' Just finish the sentence but do not miss any important details (including who are chatting)." ########
+  special_instruction = '输出必须通过填入<fill in>标签来继续上述句子。不要以"这是关于……的对话"开始，只需完成句子，但不要漏掉任何重要的细节（包括谁在聊天）。' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -1934,7 +1934,7 @@ def run_gpt_prompt_event_poignancy(persona, event_description, test_input=None, 
   prompt_input = create_prompt_input(persona, event_description)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = "5" ########
-  special_instruction = "The output should ONLY contain ONE integer value on the scale of 1 to 10." ########
+  special_instruction = "输出应仅包含范围在1至10之间的一个整数值。" ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -2005,7 +2005,7 @@ def run_gpt_prompt_thought_poignancy(persona, event_description, test_input=None
   prompt_input = create_prompt_input(persona, event_description)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = "5" ########
-  special_instruction = "The output should ONLY contain ONE integer value on the scale of 1 to 10." ########
+  special_instruction = "输出应仅包含范围在1至10之间的一个整数值。" ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -2077,7 +2077,7 @@ def run_gpt_prompt_chat_poignancy(persona, event_description, test_input=None, v
   prompt_input = create_prompt_input(persona, event_description)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = "5" ########
-  special_instruction = "The output should ONLY contain ONE integer value on the scale of 1 to 10." ########
+  special_instruction = "输出应仅包含范围在1至10之间的一个整数值。" ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -2153,7 +2153,7 @@ def run_gpt_prompt_focal_pt(persona, statements, n, test_input=None, verbose=Fal
   prompt_input = create_prompt_input(persona, statements, n)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = '["Jane应该吃什么午餐", "Jane喜欢草莓吗", "Jane是谁"]' ########
-  special_instruction = "Output must be a list of str." ########
+  special_instruction = "输出必须是字符串的列表。" ########
   fail_safe = get_fail_safe(n) ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -2280,7 +2280,7 @@ def run_gpt_prompt_agent_chat_summarize_ideas(persona, target_persona, statement
   prompt_input = create_prompt_input(persona, target_persona, statements, curr_context)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = 'Jane Doe在进行一个项目' ########
-  special_instruction = 'The output should be a string that responds to the question.' ########
+  special_instruction = '输出应该是一个能够回应问题的字符串。' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -2348,7 +2348,7 @@ def run_gpt_prompt_agent_chat_summarize_relationship(persona, target_persona, st
   prompt_input = create_prompt_input(persona, target_persona, statements)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = 'Jane Doe在进行一个项目' ########
-  special_instruction = 'The output should be a string that responds to the question.' ########
+  special_instruction = '输出应该是一个能够回应问题的字符串。' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -2476,7 +2476,7 @@ def run_gpt_prompt_agent_chat(maze, persona, target_persona,
   prompt_input = create_prompt_input(persona, target_persona, curr_context, init_summ_idea, target_summ_idea)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = '[["Jane Doe", "你好！"], ["John Doe", "你好！"] ... ]' ########
-  special_instruction = 'The output should be a list of list where the inner lists are in the form of ["<Name>", "<Utterance>"].' ########
+  special_instruction = '输出应该是一个列表的列表，其中内部列表的格式应为 ["<Name>", "<Utterance>"]。' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -2557,7 +2557,7 @@ def run_gpt_prompt_summarize_ideas(persona, statements, question, test_input=Non
   prompt_input = create_prompt_input(persona, statements, question)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = 'Jane Doe在进行一个项目' ########
-  special_instruction = 'The output should be a string that responds to the question.' ########
+  special_instruction = '输出应该是一个能够回应问题的字符串。' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
@@ -2776,7 +2776,7 @@ def run_gpt_prompt_memo_on_convo(persona, all_utt, test_input=None, verbose=Fals
   prompt_input = create_prompt_input(persona, all_utt)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = '和Jane Doe交谈很有趣。' ########
-  special_instruction = 'The output should ONLY contain a string that summarizes anything interesting that the agent may have noticed' ########
+  special_instruction = '输出内容应仅包含代理可能注意到的任何有趣情况的总结字符串' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
