@@ -374,7 +374,10 @@ def run_gpt_prompt_task_decomp(persona,
         _cr += [i]
     print(_cr)
     for count, i in enumerate(_cr): 
-      k = [j.strip() for j in i.split("（持续时间，分钟：")]
+      if "（" in i:
+        k = [j.strip() for j in i.split("（持续时间，分钟：")]
+      else:
+        k = [j.strip() for j in i.split("(持续时间，分钟：")]
       print(i)
       print(k)
       if len(k) < 2:
@@ -384,9 +387,12 @@ def run_gpt_prompt_task_decomp(persona,
         task = task[:-1]
       duration = int(k[1].split("，")[0].strip())
       cr += [[task, duration]]
-
-    total_expected_min = int(prompt.split("（总持续时间，分钟")[-1]
-                                   .split("）：")[0].strip())
+    if "（" in i:
+      total_expected_min = int(prompt.split("（总持续时间，分钟")[-1]
+                                    .split("）：")[0].strip())
+    else:
+      total_expected_min = int(prompt.split("(总持续时间，分钟")[-1]
+                                    .split(")：")[0].strip())
     
     # TODO -- now, you need to make sure that this is the same as the sum of 
     #         the current action sequence. 
@@ -1438,17 +1444,17 @@ def run_gpt_prompt_decide_to_react(persona, target_persona, retrieved,test_input
   
   def __func_validate(gpt_response, prompt=""): 
     try: 
-      if gpt_response.split("答案：选项")[-1].strip().lower() in ["3", "2", "1"]: 
+      if gpt_response.split("选项")[-1].strip().lower() in ["2", "1"]: 
         return True
       return False     
     except:
       return False 
 
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split("答案：选项")[-1].strip().lower() 
+    return gpt_response.split("选项")[-1].strip().lower() 
 
   def get_fail_safe(): 
-    fs = "3"
+    fs = "2"
     return fs
 
 
