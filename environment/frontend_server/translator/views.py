@@ -46,7 +46,7 @@ def demo(request, sim_code, step, play_speed="2"):
 
   # Loading the movement file
   raw_all_movement = dict()
-  with open(move_file) as json_file: 
+  with open(move_file, encoding='utf-8') as json_file: 
     raw_all_movement = json.load(json_file)
  
   # Loading all names of the personas
@@ -111,10 +111,10 @@ def home(request):
     template = "home/error_start_backend.html"
     return render(request, template, context)
 
-  with open(f_curr_sim_code) as json_file:  
+  with open(f_curr_sim_code, encoding='utf-8') as json_file:  
     sim_code = json.load(json_file)["sim_code"]
   
-  with open(f_curr_step) as json_file:  
+  with open(f_curr_step, encoding='utf-8') as json_file:  
     step = json.load(json_file)["step"]
 
   # os.remove(f_curr_step)
@@ -134,7 +134,7 @@ def home(request):
     if x[0] != ".": 
       file_count += [int(x.split(".")[0])]
   curr_json = f'storage/{sim_code}/environment/{str(max(file_count))}.json'
-  with open(curr_json) as json_file:  
+  with open(curr_json, encoding='utf-8') as json_file:  
     persona_init_pos_dict = json.load(json_file)
     for key, val in persona_init_pos_dict.items(): 
       if key in persona_names_set: 
@@ -168,7 +168,7 @@ def replay(request, sim_code, step):
     if x[0] != ".": 
       file_count += [int(x.split(".")[0])]
   curr_json = f'storage/{sim_code}/environment/{str(max(file_count))}.json'
-  with open(curr_json) as json_file:  
+  with open(curr_json, encoding='utf-8') as json_file:  
     persona_init_pos_dict = json.load(json_file)
     for key, val in persona_init_pos_dict.items(): 
       if key in persona_names_set: 
@@ -193,13 +193,13 @@ def replay_persona_state(request, sim_code, step, persona_name):
   if not os.path.exists(memory): 
     memory = f"compressed_storage/{sim_code}/personas/{persona_name}/bootstrap_memory"
 
-  with open(memory + "/scratch.json") as json_file:  
+  with open(memory + "/scratch.json", encoding='utf-8') as json_file:  
     scratch = json.load(json_file)
 
-  with open(memory + "/spatial_memory.json") as json_file:  
+  with open(memory + "/spatial_memory.json", encoding='utf-8') as json_file:  
     spatial = json.load(json_file)
 
-  with open(memory + "/associative_memory/nodes.json") as json_file:  
+  with open(memory + "/associative_memory/nodes.json", encoding='utf-8') as json_file:  
     associative = json.load(json_file)
 
   a_mem_event = []
@@ -259,7 +259,7 @@ def process_environment(request):
   sim_code = data["sim_code"]
   environment = data["environment"]
 
-  with open(f"storage/{sim_code}/environment/{step}.json", "w") as outfile:
+  with open(f"storage/{sim_code}/environment/{step}.json", "w", encoding='utf-8') as outfile:
     outfile.write(json.dumps(environment, indent=2))
 
   return HttpResponse("received")
@@ -288,7 +288,7 @@ def update_environment(request):
 
   response_data = {"<step>": -1}
   if (check_if_file_exists(f"storage/{sim_code}/movement/{step}.json")):
-    with open(f"storage/{sim_code}/movement/{step}.json") as json_file: 
+    with open(f"storage/{sim_code}/movement/{step}.json", encoding='utf-8') as json_file: 
       response_data = json.load(json_file)
       response_data["<step>"] = step
 
@@ -308,7 +308,7 @@ def path_tester_update(request):
   data = json.loads(request.body)
   camera = data["camera"]
 
-  with open(f"temp_storage/path_tester_env.json", "w") as outfile:
+  with open(f"temp_storage/path_tester_env.json", "w", encoding='utf-8') as outfile:
     outfile.write(json.dumps(camera, indent=2))
 
   return HttpResponse("received")

@@ -28,7 +28,7 @@ def compress(sim_code):
   master_move = dict()  
   for i in range(max_move_count+1): 
     master_move[i] = dict()
-    with open(f"{move_folder}/{str(i)}.json") as json_file:  
+    with open(f"{move_folder}/{str(i)}.json", encoding='utf-8') as json_file:  
       i_move_dict = json.load(json_file)["persona"]
       for p in persona_names: 
         move = False
@@ -52,7 +52,7 @@ def compress(sim_code):
 
 
   create_folder_if_not_there(compressed_storage)
-  with open(f"{compressed_storage}/master_movement.json", "w") as outfile:
+  with open(f"{compressed_storage}/master_movement.json", "w", encoding='utf-8') as outfile:
     outfile.write(json.dumps(master_move, indent=2))
 
   shutil.copyfile(meta_file, f"{compressed_storage}/meta.json")

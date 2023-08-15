@@ -160,7 +160,7 @@ class Scratch:
 
     if check_if_file_exists(f_saved): 
       # If we have a bootstrap file, load that here. 
-      scratch_load = json.load(open(f_saved, encoding='UTF-8'))
+      scratch_load = json.load(open(f_saved, encoding='utf-8'))
 
       self.vision_r = scratch_load["vision_r"]
       self.att_bandwidth = scratch_load["att_bandwidth"]
@@ -306,7 +306,7 @@ class Scratch:
     scratch["act_path_set"] = self.act_path_set
     scratch["planned_path"] = self.planned_path
 
-    with open(out_json, "w", encoding='UTF-8') as outfile:
+    with open(out_json, "w", encoding='utf-8') as outfile:
       json.dump(scratch, outfile, indent=2) 
 
 

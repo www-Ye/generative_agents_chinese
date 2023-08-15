@@ -57,10 +57,10 @@ class ReverieServer:
     sim_folder = f"{fs_storage}/{self.sim_code}"
     copyanything(fork_folder, sim_folder)
 
-    with open(f"{sim_folder}/reverie/meta.json") as json_file:  
+    with open(f"{sim_folder}/reverie/meta.json", encoding='utf-8') as json_file:  
       reverie_meta = json.load(json_file)
 
-    with open(f"{sim_folder}/reverie/meta.json", "w") as outfile: 
+    with open(f"{sim_folder}/reverie/meta.json", "w", encoding='utf-8') as outfile: 
       reverie_meta["fork_sim_code"] = fork_sim_code
       outfile.write(json.dumps(reverie_meta, indent=2))
 
@@ -120,7 +120,7 @@ class ReverieServer:
 
     # Loading in all personas. 
     init_env_file = f"{sim_folder}/environment/{str(self.step)}.json"
-    init_env = json.load(open(init_env_file))
+    init_env = json.load(open(init_env_file, encoding='utf-8'))
     for persona_name in reverie_meta['persona_names']: 
       persona_folder = f"{sim_folder}/personas/{persona_name}"
       p_x = init_env[persona_name]["x"]
@@ -145,12 +145,12 @@ class ReverieServer:
     # simulation. 
     curr_sim_code = dict()
     curr_sim_code["sim_code"] = self.sim_code
-    with open(f"{fs_temp_storage}/curr_sim_code.json", "w") as outfile: 
+    with open(f"{fs_temp_storage}/curr_sim_code.json", "w", encoding='utf-8') as outfile: 
       outfile.write(json.dumps(curr_sim_code, indent=2))
     
     curr_step = dict()
     curr_step["step"] = self.step
-    with open(f"{fs_temp_storage}/curr_step.json", "w") as outfile: 
+    with open(f"{fs_temp_storage}/curr_step.json", "w", encoding='utf-8') as outfile: 
       outfile.write(json.dumps(curr_step, indent=2))
 
 
@@ -178,7 +178,7 @@ class ReverieServer:
     reverie_meta["persona_names"] = list(self.personas.keys())
     reverie_meta["step"] = self.step
     reverie_meta_f = f"{sim_folder}/reverie/meta.json"
-    with open(reverie_meta_f, "w") as outfile: 
+    with open(reverie_meta_f, "w", encoding='utf-8') as outfile: 
       outfile.write(json.dumps(reverie_meta, indent=2))
 
     # Save the personas.
@@ -230,7 +230,7 @@ class ReverieServer:
         curr_dict = {}
         tester_file = fs_temp_storage + "/path_tester_env.json"
         if check_if_file_exists(tester_file): 
-          with open(tester_file) as json_file: 
+          with open(tester_file, encoding='utf-8') as json_file: 
             curr_dict = json.load(json_file)
             os.remove(tester_file)
           
@@ -266,7 +266,7 @@ class ReverieServer:
         # Incrementally outputting the s_mem and saving the json file. 
         print ("= " * 15)
         out_file = fs_temp_storage + "/path_tester_out.json"
-        with open(out_file, "w") as outfile: 
+        with open(out_file, "w", encoding='utf-8') as outfile: 
           outfile.write(json.dumps(s_mem, indent=2))
         print_tree(s_mem)
 
@@ -318,7 +318,7 @@ class ReverieServer:
         # input to our personas. So we first retrieve it.
         try: 
           # Try and save block for robustness of the while loop.
-          with open(curr_env_file) as json_file:
+          with open(curr_env_file, encoding='utf-8') as json_file:
             new_env = json.load(json_file)
             env_retrieved = True
         except: 
@@ -402,7 +402,7 @@ class ReverieServer:
               os.makedirs(movement_folder_path)
 
           curr_move_file = f"{sim_folder}/movement/{self.step}.json"
-          with open(curr_move_file, "w") as outfile: 
+          with open(curr_move_file, "w", encoding='utf-8') as outfile: 
             outfile.write(json.dumps(movements, indent=2))
 
           # After this cycle, the world takes one step forward, and the 
