@@ -144,6 +144,9 @@ def ChatGPT_safe_generate_response(prompt,
 
     try: 
       curr_gpt_response = ChatGPT_request(prompt).strip()
+      end_index = curr_gpt_response.rfind('}') + 1
+      curr_gpt_response = curr_gpt_response[:end_index]
+      curr_gpt_response = json.loads(curr_gpt_response)["output"]
 
       # print ("---ashdfaf")
       # print (curr_gpt_response)
@@ -160,7 +163,7 @@ def ChatGPT_safe_generate_response(prompt,
     except: 
       pass
 
-  return False
+  return fail_safe_response
 
 
 def ChatGPT_safe_generate_response_OLD(prompt, 

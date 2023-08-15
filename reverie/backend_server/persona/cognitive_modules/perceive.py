@@ -13,7 +13,7 @@ from persona.prompt_template.gpt_structure import *
 from persona.prompt_template.run_gpt_zh_prompt import *
 
 def generate_poig_score(persona, event_type, description): 
-  if "在空闲" in description: 
+  if "空闲" in description: 
     return 1
 
   if event_type == "event": 

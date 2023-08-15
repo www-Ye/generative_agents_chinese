@@ -943,7 +943,7 @@ def run_gpt_prompt_event_triple(action_description, persona, verbose=False):
     return True 
 
   def get_fail_safe(persona): 
-    fs = (persona.name, "is", "idle")
+    fs = (persona.name, "在", "空闲")
     return fs
 
 
@@ -1111,7 +1111,7 @@ def run_gpt_prompt_act_obj_event_triple(act_game_object, act_obj_desc, persona, 
     return True 
 
   def get_fail_safe(act_game_object): 
-    fs = (act_game_object, "is", "idle")
+    fs = (act_game_object, "在", "空闲")
     return fs
 
   gpt_param = {"engine": "text-davinci-003", "max_tokens": 30, 

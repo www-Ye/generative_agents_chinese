@@ -225,7 +225,7 @@ def generate_action_event_triple(act_desp, persona):
 def generate_poig_score(persona, event_type, description): 
   if debug: print ("GNS FUNCTION: <generate_poig_score>")
 
-  if "在空闲" in description: 
+  if "空闲" in description: 
     return 1
 
   if event_type == "event" or event_type == "thought": 

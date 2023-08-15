@@ -696,7 +696,7 @@ def _choose_retrieved(persona, retrieved):
   # Skip idle. 
   for event_desc, rel_ctx in retrieved.items(): 
     curr_event = rel_ctx["curr_event"]
-    if "空闲中" not in event_desc: 
+    if "空闲" not in event_desc: 
       priority += [rel_ctx]
   if priority: 
     return random.choice(priority)
