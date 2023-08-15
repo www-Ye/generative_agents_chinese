@@ -605,6 +605,9 @@ class ReverieServer:
 
         print (ret_str)
 
+        error_flag = False
+        error_try = 0
+
       except:
         traceback.print_exc()
         print ("Error.")
