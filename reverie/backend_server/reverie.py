@@ -441,6 +441,8 @@ class ReverieServer:
     error_try = 0
     while True: 
       if (not error_flag) or (error_try >= 3):
+        error_flag = False
+        error_try = 0
         sim_command = input("Enter option: ")
         sim_command = sim_command.strip()
 
