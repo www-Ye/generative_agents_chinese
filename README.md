@@ -75,10 +75,13 @@ debug = True
 打开另一个命令行（你在第一步中使用的那个命令行应该仍在运行环境服务器，所以就让它保持现状）。导航至 `reverie/backend_server` 并运行 `reverie.py`。
 
     python reverie.py
-这会启动模拟服务器。一个命令行提示将出现，询问以下问题："输入forked模拟的名字：". 要开始一个有Isabella Rodriguez, Maria Lopez和Klaus Mueller的3代理模拟，键入以下内容：
+这会启动模拟服务器。一个命令行提示将出现，询问以下问题："输入forked模拟的名字："，要开始一个有Isabella Rodriguez, Maria Lopez和Klaus Mueller的3代理模拟，键入以下内容：
     
     base_the_ville_isabella_maria_klaus_zh
-提示之后会问："输入新模拟的名字：". 键入任何名字来表示你当前的模拟（例如，现在只要"test-simulation"就可以了）。
+或者小镇25人代理模拟：
+
+    base_the_ville_n25_zh
+提示之后会问："输入新模拟的名字："，键入任何名字来表示你当前的模拟（例如，现在只要"test-simulation"就可以了）。
 
     test-simulation
 保持模拟器服务器运行。这个阶段，它会显示以下提示："Enter option："

@@ -426,17 +426,24 @@ class ReverieServer:
     OUTPUT
       None
     """
-    print ("Note: The agents in this simulation package are computational")
-    print ("constructs powered by generative agents architecture and LLM. We")
-    print ("clarify that these agents lack human-like agency, consciousness,")
-    print ("and independent decision-making.\n---")
+    # print ("Note: The agents in this simulation package are computational")
+    # print ("constructs powered by generative agents architecture and LLM. We")
+    # print ("clarify that these agents lack human-like agency, consciousness,")
+    # print ("and independent decision-making.\n---")
+    print ("注意：此模拟包中的代理是由生成代理架构和LLM驱动的计算结构。我们")
+    print ("明确这些代理缺乏类似人类的代理能力、意识和独立决策能力。\n---")
+    # print ("")
 
     # <sim_folder> points to the current simulation folder.
     sim_folder = f"{fs_storage}/{self.sim_code}"
 
+    error_flag = False
+    error_try = 0
     while True: 
-      sim_command = input("Enter option: ")
-      sim_command = sim_command.strip()
+      if (not error_flag) or (error_try >= 3):
+        sim_command = input("Enter option: ")
+        sim_command = sim_command.strip()
+
       ret_str = ""
 
       try: 
@@ -599,6 +606,9 @@ class ReverieServer:
       except:
         traceback.print_exc()
         print ("Error.")
+        error_flag = True
+        error_try += 1
+        print('try nums:', error_try)
         pass
 
 
@@ -609,8 +619,8 @@ if __name__ == '__main__':
   #                    "July1_the_ville_isabella_maria_klaus-step-3-21")
   # rs.open_server()
 
-  origin = input("Enter the name of the forked simulation: ").strip()
-  target = input("Enter the name of the new simulation: ").strip()
+  origin = input("输入forked模拟的名字：").strip()
+  target = input("输入新模拟的名字：").strip()
 
   rs = ReverieServer(origin, target)
   rs.open_server()

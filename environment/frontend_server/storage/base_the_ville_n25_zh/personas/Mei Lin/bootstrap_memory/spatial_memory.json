@@ -1,83 +1,83 @@
 {
-  "the Ville": {
-    "Lin family's house": {
-      "bathroom": [
-        "toilet",
-        "shower",
-        "bathroom sink"
+  "小镇": {
+    "Lin家的房子": {
+      "浴室": [
+        "马桶",
+        "淋浴",
+        "浴室洗手池"
       ],
-      "common room": [
-        "shelf",
-        "common room table"
+      "公共休息室": [
+        "货架",
+        "公共休息室桌子"
       ],
-      "Mei and John Lin's bedroom": [
-        "closet",
-        "desk",
-        "bed"
+      "Mei和John Lin的卧室": [
+        "衣柜",
+        "书桌",
+        "床"
       ],
-      "garden": [
-        "house garden"
+      "花园": [
+        "房子花园"
       ]
     },
-    "The Willows Market and Pharmacy": {
-      "store": [
-        "grocery store shelf",
-        "behind the grocery counter",
-        "grocery store counter",
-        "behind the pharmacy counter",
-        "pharmacy store shelf",
-        "pharmacy store counter"
+    "柳树市场和药店": {
+      "商店": [
+        "杂货店货架",
+        "杂货店柜台后面",
+        "杂货店柜台",
+        "药店柜台后面",
+        "药店货架",
+        "药店柜台"
       ]
     },
-    "Harvey Oak Supply Store": {
-      "supply store": [
-        "supply store product shelf",
-        "behind the supply store counter",
-        "supply store counter"
+    "哈维橡树供应店": {
+      "供应店": [
+        "供应店产品货架",
+        "供应店柜台后面",
+        "供应店柜台"
       ]
     },
-    "Johnson Park": {
-      "park": [
-        "park garden"
+    "约翰逊公园": {
+      "公园": [
+        "公园花园"
       ]
     },
-    "The Rose and Crown Pub": {
-      "pub": [
-        "shelf",
-        "refrigerator",
-        "bar customer seating",
-        "behind the bar counter",
-        "kitchen sink",
-        "cooking area",
-        "microphone"
+    "玫瑰皇冠酒吧": {
+      "酒吧": [
+        "货架",
+        "冰箱",
+        "酒吧顾客座位",
+        "酒吧柜台后面",
+        "厨房水槽",
+        "炊事区",
+        "麦克风"
       ]
     },
-    "Hobbs Cafe": {
-      "cafe": [
-        "refrigerator",
-        "cafe customer seating",
-        "cooking area",
-        "kitchen sink",
-        "behind the cafe counter",
-        "piano"
+    "霍布斯咖啡店": {
+      "咖啡店": [
+        "冰箱",
+        "咖啡店顾客座位",
+        "炊事区",
+        "厨房水槽",
+        "咖啡店柜台后面",
+        "钢琴"
       ]
     },
-    "Oak Hill College": {
-      "hallway": [],
-      "classroom": [
-        "blackboard",
-        "classroom podium",
-        "classroom student seating"
+    "橡树山学院": {
+      "走廊": [],
+      "教室": [
+        "黑板",
+        "教室讲台",
+        "学生座椅"
       ],
-      "library": [
-        "library sofa",
-        "library table",
-        "bookshelf"
+      "图书馆": [
+        "图书馆沙发",
+        "图书馆桌子",
+        "书架"
       ]
     },
-    "Dorm for Oak Hill College": {
-      "garden": [
-        "dorm garden"
+    "橡树山学院宿舍": {
+      "花园": [
+        "宿舍花园"
       ]
     }
   }

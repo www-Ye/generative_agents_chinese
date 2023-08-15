@@ -1,51 +1,51 @@
 {
-  "the Ville": {
-    "Moore family's house": {
-      "main room": [
-        "closet",
-        "bed",
-        "desk",
-        "cooking area",
-        "kitchen sink",
-        "refrigerator",
-        "common room sofa"
+  "小镇": {
+    "Moore家的房子": {
+      "主房间": [
+        "衣柜",
+        "床",
+        "书桌",
+        "炊事区",
+        "厨房水槽",
+        "冰箱",
+        "公共休息室沙发"
       ],
-      "bathroom": [
-        "bathroom sink",
-        "shower",
-        "toilet"
+      "浴室": [
+        "浴室洗手池",
+        "淋浴",
+        "马桶"
       ]
     },
-    "Johnson Park": {
-      "park": [
-        "park garden"
+    "约翰逊公园": {
+      "公园": [
+        "公园花园"
       ]
     },
-    "Harvey Oak Supply Store": {
-      "supply store": [
-        "supply store product shelf",
-        "behind the supply store counter",
-        "supply store counter"
+    "哈维橡树供应店": {
+      "供应店": [
+        "供应店产品货架",
+        "供应店柜台后面",
+        "供应店柜台"
       ]
     },
-    "The Willows Market and Pharmacy": {
-      "store": [
-        "behind the pharmacy counter",
-        "pharmacy store shelf",
-        "pharmacy store counter",
-        "grocery store shelf",
-        "behind the grocery counter",
-        "grocery store counter"
+    "柳树市场和药店": {
+      "商店": [
+        "药店柜台后面",
+        "药店货架",
+        "药店柜台",
+        "杂货店货架",
+        "杂货店柜台后面",
+        "杂货店柜台"
       ]
     },
-    "Hobbs Cafe": {
-      "cafe": [
-        "refrigerator",
-        "cafe customer seating",
-        "cooking area",
-        "kitchen sink",
-        "behind the cafe counter",
-        "piano"
+    "霍布斯咖啡店": {
+      "咖啡店": [
+        "冰箱",
+        "咖啡店顾客座位",
+        "炊事区",
+        "厨房水槽",
+        "咖啡店柜台后面",
+        "钢琴"
       ]
     }
   }
