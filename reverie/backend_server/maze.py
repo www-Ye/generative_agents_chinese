@@ -204,7 +204,7 @@ class Maze:
           else: 
             self.address_tiles[add] = set([(j, i)])
 
-    print(self.address_tiles)
+    # print(self.address_tiles)
     # print(asd)
 
   def turn_coordinate_to_tile(self, px_coordinate): 

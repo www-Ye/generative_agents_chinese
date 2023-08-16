@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83c\udfb5\ud83c\udf89",
+      "description": "\u970d\u5e03\u65af\u5496\u5561\u5e97\u51c6\u5907\u60c5\u4eba\u8282\u6d3e\u5bf9\u6d3b\u52a8 (Isabella\u5728\u51c6\u5907\u60c5\u4eba\u8282\u6d3e\u5bf9\u7684\u97f3\u4e50\u64ad\u653e\u5217\u8868) @ \u5c0f\u9547:Isabella Rodriguez\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u8d27\u67b6",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+      "description": "\u8fdb\u884c\u7269\u7406\u5b66\u7814\u7a76\u548c\u5b66\u4e60 (Maria\u5728\u505a\u4e00\u4e9b\u7ec3\u4e60\u9898\u6765\u5de9\u56fa\u5b66\u4e60\u7684\u77e5\u8bc6) @ \u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662:\u6559\u5ba4:\u6559\u5ba4\u8bb2\u53f0",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        118,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udcad",
+      "description": "\u6a61\u6811\u5c71\u5b66\u9662\u56fe\u4e66\u9986\u5ba1\u67e5\u548c\u4fee\u6539\u4ed6\u7684\u7814\u7a76\u8bba\u6587 (Klaus\u5728\u9605\u8bfb\u6587\u732e\u8bc4\u8bba\u548c\u6279\u6ce8) @ \u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Klaus Mueller\u7684\u623f\u95f4:\u4e66\u684c",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:02:50"
+  }
+}

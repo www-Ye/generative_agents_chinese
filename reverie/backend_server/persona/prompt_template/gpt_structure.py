@@ -118,7 +118,7 @@ def GPT4_safe_generate_response(prompt,
     except: 
       pass
 
-  return False
+  return fail_safe_response
 
 
 def ChatGPT_safe_generate_response(prompt, 
@@ -163,7 +163,7 @@ def ChatGPT_safe_generate_response(prompt,
     except: 
       pass
 
-  return False
+  return fail_safe_response
 
 
 def ChatGPT_safe_generate_response_OLD(prompt, 
