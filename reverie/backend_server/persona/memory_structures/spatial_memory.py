@@ -18,6 +18,9 @@ class MemoryTree:
     if check_if_file_exists(f_saved): 
       self.tree = json.load(open(f_saved, encoding='utf-8'))
 
+    # print(f_saved)
+    # print(self.tree)
+
 
   def print_tree(self): 
     def _print_tree(tree, depth):
@@ -56,7 +59,9 @@ class MemoryTree:
     EXAMPLE STR OUTPUT
       "bedroom, kitchen, dining room, office, bathroom"
     """
-    x = ", ".join(list(self.tree[curr_world].keys()))
+    # print(self.tree)
+    # x = ", ".join(list(self.tree[curr_world].keys()))
+    x = ", ".join([key for key, value in self.tree[curr_world].items() if value])
     return x
 
 

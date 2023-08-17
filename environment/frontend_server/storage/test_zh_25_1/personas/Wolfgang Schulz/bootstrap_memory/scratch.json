@@ -1,0 +1,199 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_tile": [
+    110,
+    54
+  ],
+  "daily_plan_req": "Wolfgang Schulz\u65e9\u6668\u5728\u516c\u56ed\u8dd1\u6b65\uff0c\u767d\u5929\u5b66\u4e60\uff0c\u5e76\u5728\u665a\u4e0a\u5728\u4ed6\u7684\u623f\u95f4\u953b\u70bc\u3002",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 21,
+  "innate": "\u52e4\u594b\u7684\uff0c\u70ed\u60c5\u7684\uff0c\u4e13\u6ce8\u7684",
+  "learned": "Wolfgang Schulz\u662f\u6a61\u6811\u5c71\u5b66\u9662\u7684\u4e00\u540d\u5b66\u751f\uff0c\u4e3b\u4fee\u5316\u5b66\uff0c\u540c\u65f6\u4e5f\u662f\u4e00\u540d\u5b66\u751f\u8fd0\u52a8\u5458\u3002\u4ed6\u5bf9\u5b66\u4e1a\u548c\u8fd0\u52a8\u90fd\u975e\u5e38\u4e13\u6ce8\u3002",
+  "currently": "Wolfgang Schulz\u6b63\u5728\u4e3a\u4ed6\u7684\u4e0b\u4e00\u573a\u6bd4\u8d5b\u548c\u4ed6\u7684\u8003\u8bd5\u8fdb\u884c\u8bad\u7ec3\u548c\u5b66\u4e60\u3002\u4ed6\u4e5f\u5728\u5bfb\u627e\u8ba9\u5b66\u4e60\u66f4\u6709\u6548\u7387\u7684\u65b9\u6cd5\u3002",
+  "lifestyle": "Wolfgang Schulz\u5927\u7ea6\u57289pm\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57285am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57286pm\u5de6\u53f3\u5403\u665a\u9910\u3002",
+  "living_area": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Wolfgang Schulz\u7684\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 155,
+  "importance_ele_n": 41,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57285:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+    "\u57286:00 am\u65f6\u5728\u516c\u56ed\u8dd1\u6b65",
+    "\u4ece7:00 am\u5f00\u59cb\u5b66\u4e60\u5316\u5b66",
+    "12:00 pm\u5403\u5348\u996d",
+    "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66\u76f4\u52305:00 pm",
+    "5:30 pm\u5f00\u59cb\u51c6\u5907\u665a\u9910",
+    "6:00 pm\u5403\u665a\u996d",
+    "7:00 pm\u52308:00 pm\u8fdb\u884c\u623f\u95f4\u953b\u70bc"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      300
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u5237\u7259\u6d17\u8138)",
+      5
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u5403\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u6574\u7406\u623f\u95f4)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u505a\u4e00\u4e9b\u7b80\u5355\u7684\u65e5\u5e38\u953b\u70bc)",
+      15
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u67e5\u770b\u5f53\u5929\u7684\u5b66\u4e60\u548c\u8bad\u7ec3\u8ba1\u5212)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u51c6\u5907\u884c\u674e\u548c\u4f4f\u5bbf)",
+      10
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65 (\u8dd1\u524d\u70ed\u8eab)",
+      5
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65 (Wolfgang\u5728\u516c\u56ed\u8dd1\u6b65)",
+      40
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65 (Wolfgang\u5728\u505a\u62c9\u4f38\u8fd0\u52a8)",
+      15
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      240
+    ],
+    [
+      "\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      300
+    ],
+    [
+      "\u623f\u95f4\u953b\u70bc",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      300
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      300
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65",
+      60
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      240
+    ],
+    [
+      "\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      300
+    ],
+    [
+      "\u623f\u95f4\u953b\u70bc",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      300
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Wolfgang Schulz\u7684\u623f\u95f4:\u8863\u67dc",
+  "act_start_time": "February 13, 2023, 05:50:00",
+  "act_duration": 10,
+  "act_description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u51c6\u5907\u884c\u674e\u548c\u4f4f\u5bbf)",
+  "act_pronunciatio": "\ud83e\uddf3\ud83c\udfe8",
+  "act_event": [
+    "Wolfgang Schulz",
+    "\u51c6\u5907",
+    "\u884c\u674e\u548c\u4f4f\u5bbf"
+  ],
+  "act_obj_description": "\u5728\u51c6\u5907\u884c\u674e\u548c\u4f4f\u5bbf",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_event": [
+    "\u8863\u67dc",
+    "\u5728",
+    "\u51c6\u5907\u884c\u674e\u548c\u4f4f\u5bbf"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

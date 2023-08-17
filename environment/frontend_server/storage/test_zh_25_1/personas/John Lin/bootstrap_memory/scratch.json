@@ -1,0 +1,236 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_tile": [
+    91,
+    74
+  ],
+  "daily_plan_req": "John Lin\u5927\u7ea6\u57289am\u53bb\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97\u5f00\u8bbe\u836f\u5e97\u67dc\u53f0\u3002\u4ed6\u7ad9\u5728\u67dc\u53f0\u540e\u9762\u76f4\u52305pm\uff0c\u7136\u540e\u56de\u5bb6\u3002",
+  "name": "John Lin",
+  "first_name": "John",
+  "last_name": "Lin",
+  "age": 45,
+  "innate": "\u6709\u8010\u5fc3\uff0c\u5584\u826f\uff0c\u6709\u7ec4\u7ec7\u80fd\u529b",
+  "learned": "John Lin\u662f\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97\u7684\u836f\u5e97\u5e97\u4e3b\uff0c\u4ed6\u70ed\u7231\u5e2e\u52a9\u4eba\u4eec\u3002\u4ed6\u4e00\u76f4\u5728\u5bfb\u627e\u8ba9\u987e\u5ba2\u83b7\u53d6\u836f\u54c1\u66f4\u65b9\u4fbf\u7684\u65b9\u6cd5\u3002",
+  "currently": "John Lin\u548c\u4ed6\u7684\u59bb\u5b50Mei Lin\u4ee5\u53ca\u4ed6\u4eec\u7684\u513f\u5b50Eddy Lin\u4f4f\u5728\u4e00\u8d77\uff0c\u4ed6\u5728\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97\u7ba1\u7406\u836f\u5e97\u3002\u4ed6\u8fd8\u5728\u8fdb\u884c\u5728\u7ebf\u5b66\u4e60\uff0c\u4ee5\u4fbf\u4e86\u89e3\u65b0\u836f\u548c\u65b0\u7684\u6cbb\u7597\u65b9\u6cd5\u3002John\u4e5f\u5bf9\u4e0b\u4e2a\u6708\u7684\u672c\u5730\u5e02\u957f\u9009\u4e3e\u4e2d\u7684\u5019\u9009\u4eba\u611f\u5230\u597d\u5947\uff0c\u4ed6\u5411\u9047\u5230\u7684\u6bcf\u4e2a\u4eba\u8be2\u95ee\u8c01\u5c06\u53c2\u9009\u3002",
+  "lifestyle": "John Lin\u5927\u7ea6\u572810pm\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57286am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57285pm\u5de6\u53f3\u5403\u665a\u9910\u3002",
+  "living_area": "\u5c0f\u9547:Lin\u5bb6\u7684\u623f\u5b50:Mei\u548cJohn Lin\u7684\u5367\u5ba4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 235,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57286:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      360
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u6d17\u6f31\u548c\u5237\u7259)",
+      5
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (John\u5728\u51c6\u5907\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (John\u5728\u5582\u72d7\u548c\u732b)",
+      5
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (John\u5728\u68c0\u67e5\u513f\u5b50Eddy\u662f\u5426\u8d77\u5e8a)",
+      5
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (John\u5728\u7ed9\u513f\u5b50Eddy\u51c6\u5907\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (John\u5728\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d\u8feb\u5207\u7684\u90ae\u4ef6)",
+      5
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (John\u5728\u4e3a\u513f\u5b50Eddy\u51c6\u5907\u4e0a\u5b66\u6240\u9700\u7684\u4e66\u548c\u6750\u6599)",
+      10
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (John\u5728\u786e\u8ba4\u4ed6\u81ea\u5df1\u7684\u836f\u5e97\u6240\u9700\u7684\u5e93\u5b58)",
+      5
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (John\u5728\u68c0\u67e5\u81ea\u5bb6\u836f\u5e97\u7684\u793e\u4ea4\u5a92\u4f53\u8d26\u6237\u5e76\u56de\u590d\u8bc4\u8bba)",
+      5
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d",
+      60
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1",
+      60
+    ],
+    [
+      "\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97\u5f00\u8bbe\u836f\u5e97\u67dc\u53f0",
+      60
+    ],
+    [
+      "\u68c0\u67e5\u5e93\u5b58\u5e76\u4e0b\u8ba2\u5355",
+      60
+    ],
+    [
+      "\u63a5\u5f85\u987e\u5ba2\u5e76\u63d0\u4f9b\u836f\u54c1\u54a8\u8be2\u548c\u5efa\u8bae",
+      60
+    ],
+    [
+      "\u76d1\u7763\u5458\u5de5\u5de5\u4f5c\u548c\u4ea4\u63a5\u7ec6\u8282",
+      60
+    ],
+    [
+      "\u68c0\u67e5\u4ed3\u5e93\u662f\u5426\u9700\u8981\u8fdb\u8d27",
+      60
+    ],
+    [
+      "\u901a\u8fc7\u5728\u7ebf\u5b66\u4e60\u4e86\u89e3\u65b0\u836f\u548c\u6cbb\u7597\u65b9\u6cd5",
+      60
+    ],
+    [
+      "\u63a5\u5f85\u987e\u5ba2\u5e76\u63d0\u4f9b\u836f\u54c1\u54a8\u8be2\u548c\u5efa\u8bae",
+      60
+    ],
+    [
+      "\u56de\u5bb6",
+      60
+    ],
+    [
+      "\u5403\u665a\u9910",
+      60
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d",
+      60
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      180
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      360
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d",
+      60
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1",
+      60
+    ],
+    [
+      "\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97\u5f00\u8bbe\u836f\u5e97\u67dc\u53f0",
+      60
+    ],
+    [
+      "\u68c0\u67e5\u5e93\u5b58\u5e76\u4e0b\u8ba2\u5355",
+      60
+    ],
+    [
+      "\u63a5\u5f85\u987e\u5ba2\u5e76\u63d0\u4f9b\u836f\u54c1\u54a8\u8be2\u548c\u5efa\u8bae",
+      60
+    ],
+    [
+      "\u76d1\u7763\u5458\u5de5\u5de5\u4f5c\u548c\u4ea4\u63a5\u7ec6\u8282",
+      60
+    ],
+    [
+      "\u68c0\u67e5\u4ed3\u5e93\u662f\u5426\u9700\u8981\u8fdb\u8d27",
+      60
+    ],
+    [
+      "\u901a\u8fc7\u5728\u7ebf\u5b66\u4e60\u4e86\u89e3\u65b0\u836f\u548c\u6cbb\u7597\u65b9\u6cd5",
+      60
+    ],
+    [
+      "\u63a5\u5f85\u987e\u5ba2\u5e76\u63d0\u4f9b\u836f\u54c1\u54a8\u8be2\u548c\u5efa\u8bae",
+      60
+    ],
+    [
+      "\u56de\u5bb6",
+      60
+    ],
+    [
+      "\u5403\u665a\u9910",
+      60
+    ],
+    [
+      "\u8d77\u5e8a\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d",
+      60
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      180
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:Lin\u5bb6\u7684\u623f\u5b50:Mei\u548cJohn Lin\u7684\u5367\u5ba4:\u5e8a",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 360,
+  "act_description": "\u7761\u89c9",
+  "act_pronunciatio": "\ud83d\udca4",
+  "act_event": [
+    "John Lin",
+    "\u662f",
+    "\u7761\u89c9"
+  ],
+  "act_obj_description": "\u5728\u4f7f\u7528",
+  "act_obj_pronunciatio": "\ud83d\udcbb\ud83e\udd14",
+  "act_obj_event": [
+    "\u5e8a",
+    "\u4f7f\u7528",
+    "\u5e8a"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

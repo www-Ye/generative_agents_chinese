@@ -1,0 +1,212 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_tile": [
+    58,
+    74
+  ],
+  "daily_plan_req": "Carmen\u6bcf\u59298am\u5f00\u542f\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\uff0c\u7ad9\u5728\u67dc\u53f0\u540e\u9762\uff0c\u5e76\u57286pm\u5173\u95ed\u95e8\u5e97\uff0c\u7136\u540e\u5979\u559c\u6b22\u53bb\u73ab\u7470\u7687\u51a0\u9152\u5427\u653e\u677e\u3002",
+  "name": "Carmen Ortiz",
+  "first_name": "Carmen",
+  "last_name": "Ortiz",
+  "age": 33,
+  "innate": "\u53cb\u597d\u7684\uff0c\u5916\u5411\u7684\uff0c\u4e50\u4e8e\u52a9\u4eba\u7684",
+  "learned": "Carmen Ortiz\u5728\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u505a\u5e97\u4e3b\uff0c\u5979\u559c\u6b22\u5e2e\u52a9\u4eba\u4eec\u627e\u5230\u4ed6\u4eec\u9700\u8981\u7684\u6742\u8d27\u3002\u5979\u603b\u662f\u5728\u627e\u9014\u5f84\u4f7f\u987e\u5ba2\u611f\u5230\u53d7\u6b22\u8fce\u3002",
+  "currently": "Carmen Ortiz\u5728\u7ba1\u7406\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\uff0c\u5e76\u4e0e\u5979\u7684\u5ba4\u53cbTamara Taylor\u4e00\u8d77\u751f\u6d3b\u3002\u5979\u4e5f\u5728\u52aa\u529b\u628a\u81ea\u5df1\u7684\u5546\u5e97\u6269\u5c55\u81f3\u7f51\u7edc\u4e0a\u3002",
+  "lifestyle": "Carmen Ortiz\u5728\u5927\u7ea611pm\u5de6\u53f3\u4e0a\u5e8a\u7761\u89c9\uff0c\u5927\u7ea6\u57287am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57288pm\u5de6\u53f3\u5403\u665a\u996d\u3002",
+  "living_area": "\u5c0f\u9547:Tamara Taylor\u548cCarmen Ortiz\u7684\u623f\u5b50:Carmen Ortiz\u7684\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 237,
+  "importance_ele_n": 6,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (\u8d77\u5e8a\u5e76\u6d17\u6f31)",
+      5
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u51c6\u5907\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u5582\u517b\u5ba0\u7269\u72d7)",
+      5
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u7ed9\u690d\u7269\u6d47\u6c34)",
+      5
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u6e05\u6d01\u536b\u751f\u95f4)",
+      10
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u6536\u62fe\u5367\u5ba4)",
+      10
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u67e5\u770b\u624b\u673a\u548c\u56de\u590d\u6d88\u606f)",
+      15
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u63a5\u5f85\u987e\u5ba2",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u63a5\u5f85\u987e\u5ba2\u5e76\u63a8\u9500\u7279\u522b\u5546\u54c1",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u7ee7\u7eed\u5de5\u4f5c",
+      120
+    ],
+    [
+      "\u5e97\u91cc\u6e05\u7406\u548c\u6574\u7406\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u4e2d\u6536\u62fe\u548c\u6574\u7406\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5173\u95ed\u5e97\u94fa\uff0c\u7ed3\u675f\u4e00\u5929\u7684\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u73ab\u7470\u7687\u51a0\u9152\u5427\u653e\u677e",
+      180
+    ],
+    [
+      "\u7761\u89c9",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5de5\u4f5c\u5b8c\u6210\u5e76\u51c6\u5907\u7761\u89c9",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u63a5\u5f85\u987e\u5ba2",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u63a5\u5f85\u987e\u5ba2\u5e76\u63a8\u9500\u7279\u522b\u5546\u54c1",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u7ee7\u7eed\u5de5\u4f5c",
+      120
+    ],
+    [
+      "\u5e97\u91cc\u6e05\u7406\u548c\u6574\u7406\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u4e2d\u6536\u62fe\u548c\u6574\u7406\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5173\u95ed\u5e97\u94fa\uff0c\u7ed3\u675f\u4e00\u5929\u7684\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u73ab\u7470\u7687\u51a0\u9152\u5427\u653e\u677e",
+      180
+    ],
+    [
+      "\u7761\u89c9",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5de5\u4f5c\u5b8c\u6210\u5e76\u51c6\u5907\u7761\u89c9",
+      60
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:Tamara Taylor\u548cCarmen Ortiz\u7684\u623f\u5b50:Carmen Ortiz\u7684\u623f\u95f4:\u5e8a",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 420,
+  "act_description": "\u7761\u89c9",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Carmen Ortiz",
+    "\u7761\u89c9",
+    "None"
+  ],
+  "act_obj_description": "\u5728\u4fee\u7406",
+  "act_obj_pronunciatio": "\ud83d\udd27\ud83d\udc77",
+  "act_obj_event": [
+    "\u5e8a",
+    "\u4fee\u7406",
+    "\u5728\u4fee\u7406"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

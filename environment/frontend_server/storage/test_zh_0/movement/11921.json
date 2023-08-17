@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83e\udd64",
+      "description": "\u7ee7\u7eed\u7ba1\u7406\u5496\u5561\u5e97\u7684\u8fd0\u8425 (Isabella\u5728\u6e05\u7406\u548c\u6446\u653e\u9910\u5177\u548c\u676f\u5b50) @ \u5c0f\u9547:\u970d\u5e03\u65af\u5496\u5561\u5e97:\u5496\u5561\u5e97:\u708a\u4e8b\u533a",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        110,
+        44
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "\u5173\u4e8e\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u6709\u79ef\u6781\u5f71\u54cd\uff0c\u6539\u5584\u4e86\u5c45\u6c11\u751f\u6d3b\u8d28\u91cf\u3002 @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "\u4f60\u597d\uff0cKlaus\uff01\u65e9\u4e0a\u597d\uff01\u4f60\u4eca\u5929\u5728\u5199\u4e9b\u4ec0\u4e48\u5462\uff1f"
+        ],
+        [
+          "Klaus Mueller",
+          "\u55e8\uff0cMaria\uff01\u65e9\u4e0a\u597d\uff01\u6211\u6b63\u5728\u5199\u4e00\u7bc7\u5173\u4e8e\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u5f71\u54cd\u7684\u7814\u7a76\u8bba\u6587\u3002"
+        ],
+        [
+          "Maria Lopez",
+          "\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u6709\u79ef\u6781\u5f71\u54cd\uff0c\u6539\u5584\u4e86\u5c45\u6c11\u751f\u6d3b\u8d28\u91cf\u3002"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        116,
+        39
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "\u5173\u4e8e\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u6709\u79ef\u6781\u5f71\u54cd\uff0c\u6539\u5584\u4e86\u5c45\u6c11\u751f\u6d3b\u8d28\u91cf\u3002 @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "\u4f60\u597d\uff0cKlaus\uff01\u65e9\u4e0a\u597d\uff01\u4f60\u4eca\u5929\u5728\u5199\u4e9b\u4ec0\u4e48\u5462\uff1f"
+        ],
+        [
+          "Klaus Mueller",
+          "\u55e8\uff0cMaria\uff01\u65e9\u4e0a\u597d\uff01\u6211\u6b63\u5728\u5199\u4e00\u7bc7\u5173\u4e8e\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u5f71\u54cd\u7684\u7814\u7a76\u8bba\u6587\u3002"
+        ],
+        [
+          "Maria Lopez",
+          "\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u6709\u79ef\u6781\u5f71\u54cd\uff0c\u6539\u5584\u4e86\u5c45\u6c11\u751f\u6d3b\u8d28\u91cf\u3002"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:06:50"
+  }
+}

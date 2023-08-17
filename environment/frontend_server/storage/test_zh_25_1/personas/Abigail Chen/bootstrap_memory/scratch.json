@@ -1,0 +1,204 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_tile": [
+    36,
+    18
+  ],
+  "daily_plan_req": "",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "\u80f8\u6000\u5f00\u653e\uff0c\u5145\u6ee1\u597d\u5947\uff0c\u575a\u5b9a\u51b3\u5fc3",
+  "learned": "Abigail Chen\u662f\u4e00\u540d\u6570\u5b57\u827a\u672f\u5bb6\u548c\u52a8\u753b\u5e08\uff0c\u70ed\u8877\u4e8e\u63a2\u7d22\u5982\u4f55\u4f7f\u7528\u6280\u672f\u6765\u8868\u8fbe\u89c2\u70b9\u3002\u5979\u603b\u5728\u5bfb\u627e\u65b0\u7684\u65b9\u6cd5\u6765\u7ed3\u5408\u827a\u672f\u548c\u6280\u672f\u3002",
+  "currently": "Abigail Chen\u6b63\u5728\u4e3a\u5ba2\u6237\u5f00\u5c55\u4e00\u4e2a\u52a8\u753b\u9879\u76ee\u3002\u5979\u4e5f\u5728\u5c1d\u8bd5\u4f7f\u7528\u4e0d\u540c\u7684\u5de5\u5177\u548c\u6280\u672f\u6765\u521b\u5efa\u4e92\u52a8\u827a\u672f\u3002",
+  "lifestyle": "Abigail Chen\u5927\u7ea6\u572812am\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57288am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57286pm\u5de6\u53f3\u5403\u665a\u9910\u3002",
+  "living_area": "\u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:Abigail Chen\u7684\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 238,
+  "importance_ele_n": 6,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57288:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      480
+    ],
+    [
+      "\u6d17\u6f31\u5e76\u5403\u65e9\u9910 (\u8d77\u5e8a\u5e76\u4f38\u5c55\u8eab\u4f53)",
+      5
+    ],
+    [
+      "\u6d17\u6f31\u5e76\u5403\u65e9\u9910 (Abigail\u5728\u5237\u7259\u548c\u6f31\u53e3)",
+      5
+    ],
+    [
+      "\u6d17\u6f31\u5e76\u5403\u65e9\u9910 (Abigail\u5728\u6d17\u8138\u548c\u6d17\u624b)",
+      5
+    ],
+    [
+      "\u6d17\u6f31\u5e76\u5403\u65e9\u9910 (Abigail\u5728\u6d82\u62b9\u62a4\u80a4\u971c\u548c\u5316\u5986)",
+      10
+    ],
+    [
+      "\u6d17\u6f31\u5e76\u5403\u65e9\u9910 (Abigail\u5728\u9009\u62e9\u5408\u9002\u7684\u8863\u670d\u5e76\u66f4\u6362)",
+      10
+    ],
+    [
+      "\u6d17\u6f31\u5e76\u5403\u65e9\u9910 (Abigail\u5728\u6574\u7406\u5934\u53d1\u548c\u9020\u578b)",
+      10
+    ],
+    [
+      "\u6d17\u6f31\u5e76\u5403\u65e9\u9910 (Abigail\u5728\u6574\u7406\u4e2a\u4eba\u7269\u54c1\u548c\u51c6\u5907\u5305)",
+      15
+    ],
+    [
+      "\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u7814\u7a76\u548c\u8ba1\u5212",
+      60
+    ],
+    [
+      "\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      60
+    ],
+    [
+      "\u4f7f\u7528\u4f20\u7edf\u7ed8\u753b\u6280\u5de7\u8fdb\u884c\u521b\u4f5c",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      180
+    ],
+    [
+      "\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      120
+    ],
+    [
+      "\u5403\u665a\u9910",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      60
+    ],
+    [
+      "\u4f7f\u7528Photoshop\u8f6f\u4ef6\u8fdb\u884c\u52a8\u753b\u8bbe\u8ba1",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u52a8\u753b\u9879\u76ee\u4e2d\u7684\u6700\u540e\u4e00\u90e8\u5206",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      480
+    ],
+    [
+      "\u6d17\u6f31\u5e76\u5403\u65e9\u9910",
+      60
+    ],
+    [
+      "\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u7814\u7a76\u548c\u8ba1\u5212",
+      60
+    ],
+    [
+      "\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      60
+    ],
+    [
+      "\u4f7f\u7528\u4f20\u7edf\u7ed8\u753b\u6280\u5de7\u8fdb\u884c\u521b\u4f5c",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      180
+    ],
+    [
+      "\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      120
+    ],
+    [
+      "\u5403\u665a\u9910",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      60
+    ],
+    [
+      "\u4f7f\u7528Photoshop\u8f6f\u4ef6\u8fdb\u884c\u52a8\u753b\u8bbe\u8ba1",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884c\u52a8\u753b\u9879\u76ee\u7684\u5236\u4f5c",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u52a8\u753b\u9879\u76ee\u4e2d\u7684\u6700\u540e\u4e00\u90e8\u5206",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      60
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:Abigail Chen\u7684\u623f\u95f4:\u5e8a",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 480,
+  "act_description": "\u7761\u89c9",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Abigail Chen",
+    "\u662f",
+    "\u7761\u89c9"
+  ],
+  "act_obj_description": "\u5728\u4f7f\u7528",
+  "act_obj_pronunciatio": "\u270d\ufe0f\u2728",
+  "act_obj_event": [
+    "\u5e8a",
+    "\u4f7f\u7528",
+    "\u5e94\u7528"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

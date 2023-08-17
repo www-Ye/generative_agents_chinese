@@ -1,0 +1,200 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_tile": [
+    54,
+    14
+  ],
+  "daily_plan_req": "Arthur Burton\u6bcf\u59295pm\u5f00\u542f\u73ab\u7470\u7687\u51a0\u9152\u5427\uff0c\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c\u76f4\u523010pm\uff0c\u7136\u540e\u4ed6\u4f1a\u5173\u95ed\u9152\u5427\u3002",
+  "name": "Arthur Burton",
+  "first_name": "Arthur",
+  "last_name": "Burton",
+  "age": 42,
+  "innate": "\u53cb\u597d\uff0c\u5916\u5411\uff0c\u5927\u65b9",
+  "learned": "Arthur Burton\u662fRose and Crown\u9152\u5427\u7684\u8c03\u9152\u5e08\u548c\u8001\u677f\uff0c\u4ed6\u559c\u6b22\u8ba9\u4eba\u4eec\u6709\u5bbe\u81f3\u5982\u5f52\u7684\u611f\u89c9\u3002\u4ed6\u4e00\u76f4\u5728\u5bfb\u627e\u8ba9\u4ed6\u7684\u987e\u5ba2\u611f\u5230\u7279\u522b\u7684\u65b9\u6cd5\u3002",
+  "currently": "Arthur Burton\u6b63\u5728\u7ecf\u8425\u4e00\u4e2a\u5df2\u7ecf\u5f00\u4e1a10\u5e74\u7684\u6df1\u53d7\u5927\u5bb6\u559c\u7231\u7684\u5c0f\u9547\u9152\u5427\u3002\u4ed6\u4e5f\u5728\u5b66\u4e60\u66f4\u591a\u5173\u4e8e\u8c03\u9152\u7684\u77e5\u8bc6\u5e76\u521b\u9020\u72ec\u7279\u7684\u9e21\u5c3e\u9152\u3002",
+  "lifestyle": "Arthur Burton\u5927\u7ea6\u5728\u5348\u591c\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57287am\u9192\u6765\uff0c\u5927\u7ea6\u57284pm\u5403\u665a\u9910\u3002",
+  "living_area": "\u5c0f\u9547:Arthur Burton\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 236,
+  "importance_ele_n": 10,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u6d17\u8138\u548c\u5237\u7259)",
+      5
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Arthur\u5728\u68b3\u7406\u5934\u53d1\u548c\u7406\u987a\u8863\u670d)",
+      5
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Arthur\u5582\u517b\u4ed6\u7684\u5ba0\u7269\u72d7)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Arthur\u5728\u51c6\u5907\u65e9\u9910)",
+      15
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Arthur\u5728\u5582\u517b\u81ea\u5df1\u7684\u5ba0\u7269\u732b)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Arthur\u5728\u4eab\u7528\u4ed6\u7684\u65e9\u9910)",
+      15
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269",
+      60
+    ],
+    [
+      "\u6253\u5f00\u9152\u5427\u5e76\u51c6\u5907\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u5b66\u4e60\u65b0\u7684\u8c03\u9152\u6280\u5de7\u548c\u7814\u7a76\u521b\u65b0\u7684\u9e21\u5c3e\u9152\u98df\u8c31",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u65b0\u7684\u8c03\u9152\u6280\u5de7\u548c\u7814\u7a76\u521b\u65b0\u7684\u9e21\u5c3e\u9152\u98df\u8c31",
+      60
+    ],
+    [
+      "\u51c6\u5907\u5348\u9910\u548c\u56de\u590d\u90ae\u4ef6",
+      120
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u65b0\u7684\u8c03\u9152\u6280\u5de7\u548c\u7814\u7a76\u521b\u65b0\u7684\u9e21\u5c3e\u9152\u98df\u8c31",
+      60
+    ],
+    [
+      "\u51c6\u5907\u9152\u5427\u5e76\u5f00\u59cb\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910",
+      60
+    ],
+    [
+      "\u51c6\u5907\u9152\u5427\u5e76\u5f00\u59cb\u5de5\u4f5c",
+      120
+    ],
+    [
+      "\u5173\u95ed\u9152\u5427",
+      60
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269",
+      120
+    ],
+    [
+      "\u51c6\u5907\u5c31\u5bdd\uff0c\u5e76\u8fdb\u5165\u7761\u7720\u72b6\u6001",
+      120
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269",
+      60
+    ],
+    [
+      "\u6253\u5f00\u9152\u5427\u5e76\u51c6\u5907\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u5b66\u4e60\u65b0\u7684\u8c03\u9152\u6280\u5de7\u548c\u7814\u7a76\u521b\u65b0\u7684\u9e21\u5c3e\u9152\u98df\u8c31",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u65b0\u7684\u8c03\u9152\u6280\u5de7\u548c\u7814\u7a76\u521b\u65b0\u7684\u9e21\u5c3e\u9152\u98df\u8c31",
+      60
+    ],
+    [
+      "\u51c6\u5907\u5348\u9910\u548c\u56de\u590d\u90ae\u4ef6",
+      120
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u65b0\u7684\u8c03\u9152\u6280\u5de7\u548c\u7814\u7a76\u521b\u65b0\u7684\u9e21\u5c3e\u9152\u98df\u8c31",
+      60
+    ],
+    [
+      "\u51c6\u5907\u9152\u5427\u5e76\u5f00\u59cb\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910",
+      60
+    ],
+    [
+      "\u51c6\u5907\u9152\u5427\u5e76\u5f00\u59cb\u5de5\u4f5c",
+      120
+    ],
+    [
+      "\u5173\u95ed\u9152\u5427",
+      60
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269",
+      120
+    ],
+    [
+      "\u51c6\u5907\u5c31\u5bdd\uff0c\u5e76\u8fdb\u5165\u7761\u7720\u72b6\u6001",
+      120
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:Arthur Burton\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 420,
+  "act_description": "\u7761\u89c9",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Arthur Burton",
+    "\u662f",
+    "\u7761\u89c9"
+  ],
+  "act_obj_description": "\u5728\u4fee\u590d",
+  "act_obj_pronunciatio": "\ud83d\udd27",
+  "act_obj_event": [
+    "\u5e8a",
+    "\u4fee\u590d",
+    ""
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

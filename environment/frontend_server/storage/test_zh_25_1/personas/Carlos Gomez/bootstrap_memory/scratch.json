@@ -1,0 +1,212 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_tile": [
+    93,
+    18
+  ],
+  "daily_plan_req": "",
+  "name": "Carlos Gomez",
+  "first_name": "Carlos",
+  "last_name": "Gomez",
+  "age": 32,
+  "innate": "\u5927\u58f0\u7684\uff0c\u7c97\u9c81\u7684\uff0c\u6709\u6bd2\u7684",
+  "learned": "Carlos Gomez\u662f\u4e00\u540d\u8bd7\u4eba\uff0c\u559c\u6b22\u63a2\u7d22\u4ed6\u7684\u5185\u5fc3\u601d\u7eea\u548c\u611f\u53d7\u3002\u4ed6\u603b\u662f\u5728\u5bfb\u627e\u65b0\u7684\u65b9\u5f0f\u6765\u8868\u8fbe\u81ea\u5df1\u3002",
+  "currently": "Carlos Gomez\u6b63\u5728\u521b\u4f5c\u4e00\u7cfb\u5217\u63a2\u7d22\u81ea\u7136\u4e16\u754c\u4e4b\u7f8e\u7684\u8bd7\u6b4c\u96c6\u3002\u4ed6\u8fd8\u5728\u53c2\u52a0\u521b\u610f\u5199\u4f5c\u7814\u8ba8\u4f1a\u4ee5\u63d0\u9ad8\u4ed6\u7684\u6280\u5de7\u3002",
+  "lifestyle": "Carlos Gomez\u5927\u7ea6\u572810pm\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57287am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57285pm\u5de6\u53f3\u5403\u665a\u9910\u3002",
+  "living_area": "\u5c0f\u9547:Carlos Gomez\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 234,
+  "importance_ele_n": 9,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09 (\u5237\u7259)",
+      5
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09 (Carlos\u5728\u6d17\u8138)",
+      5
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09 (Carlos\u5728\u6d17\u6fa1)",
+      15
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09 (Carlos\u5728\u6d17\u53d1)",
+      10
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09 (Carlos\u5728\u68b3\u5934)",
+      5
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09 (Carlos\u5728\u7a7f\u8863\u670d)",
+      10
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09 (Carlos\u5728\u5316\u5986)",
+      10
+    ],
+    [
+      "\u5403\u65e9\u9910\u548c\u559d\u5496\u5561",
+      60
+    ],
+    [
+      "\u51c6\u5907\u5199\u4f5c\u7814\u8ba8\u4f1a\u7684\u6750\u6599",
+      60
+    ],
+    [
+      "\u53c2\u52a0\u521b\u4f5c\u7814\u8ba8\u4f1a",
+      60
+    ],
+    [
+      "\u51c6\u5907\u5199\u4f5c\u7814\u8ba8\u4f1a\u7684\u6750\u6599",
+      60
+    ],
+    [
+      "\u5199\u4f5c\u7814\u8ba8\u4f1a\u671f\u95f4\u7684\u5348\u9910\u4f11\u606f",
+      60
+    ],
+    [
+      "\u505a\u5348\u9910\u4f11\u606f\u671f\u95f4\u7684\u5348\u9910",
+      60
+    ],
+    [
+      "\u521b\u4f5c\u8bd7\u6b4c\u96c6",
+      180
+    ],
+    [
+      "\u5199\u4f5c\u7814\u8ba8\u4f1a",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910",
+      60
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09\u3002 2) \u57288:00 am\u5403\u65e9\u9910\u548c\u559d",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910",
+      60
+    ],
+    [
+      "\u521b\u4f5c\u8bd7\u6b4c\u96c6",
+      60
+    ],
+    [
+      "\u5199\u4f5c\u5b8c\u6210\u7684\u65f6\u95f4",
+      120
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09",
+      60
+    ],
+    [
+      "\u5403\u65e9\u9910\u548c\u559d\u5496\u5561",
+      60
+    ],
+    [
+      "\u51c6\u5907\u5199\u4f5c\u7814\u8ba8\u4f1a\u7684\u6750\u6599",
+      60
+    ],
+    [
+      "\u53c2\u52a0\u521b\u4f5c\u7814\u8ba8\u4f1a",
+      60
+    ],
+    [
+      "\u51c6\u5907\u5199\u4f5c\u7814\u8ba8\u4f1a\u7684\u6750\u6599",
+      60
+    ],
+    [
+      "\u5199\u4f5c\u7814\u8ba8\u4f1a\u671f\u95f4\u7684\u5348\u9910\u4f11\u606f",
+      60
+    ],
+    [
+      "\u505a\u5348\u9910\u4f11\u606f\u671f\u95f4\u7684\u5348\u9910",
+      60
+    ],
+    [
+      "\u521b\u4f5c\u8bd7\u6b4c\u96c6",
+      180
+    ],
+    [
+      "\u5199\u4f5c\u7814\u8ba8\u4f1a",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910",
+      60
+    ],
+    [
+      "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09\u3002 2) \u57288:00 am\u5403\u65e9\u9910\u548c\u559d",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910",
+      60
+    ],
+    [
+      "\u521b\u4f5c\u8bd7\u6b4c\u96c6",
+      60
+    ],
+    [
+      "\u5199\u4f5c\u5b8c\u6210\u7684\u65f6\u95f4",
+      120
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:Carlos Gomez\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 420,
+  "act_description": "\u7761\u89c9",
+  "act_pronunciatio": "\ud83d\udca4",
+  "act_event": [
+    "Carlos Gomez",
+    "\u662f",
+    "\u7761\u89c9"
+  ],
+  "act_obj_description": "\u5728\u4fee\u7406",
+  "act_obj_pronunciatio": "\ud83d\udd27\ud83d\udee0\ufe0f",
+  "act_obj_event": [
+    "\u5e8a",
+    "\u4fee\u7406",
+    ""
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

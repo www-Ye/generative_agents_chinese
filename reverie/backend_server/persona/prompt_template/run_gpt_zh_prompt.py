@@ -179,7 +179,7 @@ def run_gpt_prompt_generate_hourly_schedule(persona,
     schedule_format = schedule_format[:-1]
 
     intermission_str = f"以下是按小时划分的原本预期"
-    intermission_str += f" {persona.scratch.get_str_firstname()}今日的日程：: "
+    intermission_str += f" {persona.scratch.get_str_firstname()}今日的日程: "
     for count, i in enumerate(persona.scratch.daily_req): 
       intermission_str += f"{str(count+1)}) {i}, "
     intermission_str = intermission_str[:-2]
@@ -228,7 +228,7 @@ def run_gpt_prompt_generate_hourly_schedule(persona,
     return True
 
   def get_fail_safe(): 
-    fs = "asleep"
+    fs = "睡觉"
     return fs
 
   # # ChatGPT Plugin ===========================================================
@@ -444,7 +444,7 @@ def run_gpt_prompt_task_decomp(persona,
     return gpt_response
 
   def get_fail_safe(): 
-    fs = ["asleep"]
+    fs = ["睡觉"]
     return fs
 
   gpt_param = {"engine": "text-davinci-003", "max_tokens": 1000, 
@@ -541,6 +541,8 @@ def run_gpt_prompt_action_sector(action_description,
 
     # MAR 11 TEMP
     accessible_sector_str = persona.s_mem.get_str_accessible_sectors(act_world)
+    print(accessible_sector_str)
+    
     curr = accessible_sector_str.split(", ")
     fin_accessible_sectors = []
     for i in curr: 
