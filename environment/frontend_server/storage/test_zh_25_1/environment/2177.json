@@ -37,7 +37,7 @@
   "Isabella Rodriguez": {
     "maze": "the_ville",
     "x": 76,
-    "y": 22
+    "y": 21
   },
   "Giorgio Rossi": {
     "maze": "the_ville",
@@ -66,8 +66,8 @@
   },
   "Wolfgang Schulz": {
     "maze": "the_ville",
-    "x": 118,
-    "y": 41
+    "x": 116,
+    "y": 39
   },
   "Mei Lin": {
     "maze": "the_ville",
@@ -106,8 +106,8 @@
   },
   "Adam Smith": {
     "maze": "the_ville",
-    "x": 33,
-    "y": 46
+    "x": 31,
+    "y": 40
   },
   "Yuriko Yamamoto": {
     "maze": "the_ville",
@@ -121,7 +121,7 @@
   },
   "Jennifer Moore": {
     "maze": "the_ville",
-    "x": 67,
-    "y": 46
+    "x": 62,
+    "y": 40
   }
 }

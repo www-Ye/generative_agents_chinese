@@ -1,0 +1,306 @@
+{
+  "persona": {
+    "Latoya Williams": {
+      "movement": [
+        40,
+        25
+      ],
+      "pronunciatio": "\ud83e\uddca\ud83c\udf5e",
+      "description": "\u51c6\u5907\u548c\u4eab\u7528\u65e9\u9910 (Latoya\u6d82\u679c\u9171\u5728\u571f\u53f8\u4e0a) @ \u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:\u53a8\u623f:\u70e4\u9762\u5305\u673a",
+      "chat": null
+    },
+    "Rajiv Patel": {
+      "movement": [
+        25,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "\u7761\u89c9 @ \u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:Rajiv Patel\u7684\u623f\u95f4:\u5e8a",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "\u7761\u89c9 @ \u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:Abigail Chen\u7684\u623f\u95f4:\u5e8a",
+      "chat": null
+    },
+    "Francisco Lopez": {
+      "movement": [
+        15,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcbb\u2709\ufe0f",
+      "description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Francisco\u5728\u56de\u590d\u7535\u5b50\u90ae\u4ef6\u548c\u5904\u7406\u5de5\u4f5c\u4e8b\u9879) @ \u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:Francisco Lopez\u7684\u623f\u95f4:\u8d27\u67b6",
+      "chat": null
+    },
+    "Hailey Johnson": {
+      "movement": [
+        26,
+        32
+      ],
+      "pronunciatio": "\ud83d\udca4",
+      "description": "\u7761\u89c9 @ \u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:Hailey Johnson\u7684\u623f\u95f4:\u5e8a",
+      "chat": null
+    },
+    "Arthur Burton": {
+      "movement": [
+        55,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73\u2615",
+      "description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Arthur\u5728\u51c6\u5907\u65e9\u9910) @ \u5c0f\u9547:Arthur Burton\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u51b0\u7bb1",
+      "chat": null
+    },
+    "Ryan Park": {
+      "movement": [
+        66,
+        19
+      ],
+      "pronunciatio": "\ud83d\udca4",
+      "description": "\u7761\u89c9 @ \u5c0f\u9547:Ryan Park\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
+      "chat": null
+    },
+    "Isabella Rodriguez": {
+      "movement": [
+        71,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "\u5173\u4e8e\u4e24\u4e2a\u670b\u53cb\u8c08\u8bba\u4e86\u4fdd\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u548c\u6bcf\u5929\u65e9\u6668\u8fdb\u884c\u953b\u70bc\u7684\u91cd\u8981\u6027\u3002 @ <persona> Yuriko Yamamoto",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "\u65e9\u4e0a\u597dYuriko\uff0c\u4f60\u611f\u89c9\u600e\u4e48\u6837\uff1f"
+        ],
+        [
+          "Yuriko Yamamoto",
+          "\u65e9\u4e0a\u597d\uff0c\u6211\u611f\u89c9\u5f88\u597d\uff0c\u8c22\u8c22\u4f60\uff01\u4f60\u6b63\u5728\u8fdb\u884c\u5fc3\u80ba\u8fd0\u52a8\u5417\uff1f"
+        ],
+        [
+          "Isabella Rodriguez",
+          "\u662f\u7684\uff0c\u6211\u6b63\u5728\u8fdb\u884c\u5fc3\u80ba\u953b\u70bc\u3002\u8fd9\u662f\u6211\u6bcf\u5929\u65e9\u4e0a\u7684\u4f8b\u884c\u7a0b\u5e8f\u3002"
+        ],
+        [
+          "Yuriko Yamamoto",
+          "\u4f60\u662f\u4e00\u4e2a\u5f88\u6709\u6bc5\u529b\u7684\u4eba\uff0c\u6bcf\u5929\u65e9\u4e0a\u8fdb\u884c\u953b\u70bc\u5bf9\u4e8e\u4fdd\u6301\u5065\u5eb7\u548c\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u975e\u5e38\u91cd\u8981\u3002"
+        ],
+        [
+          "Isabella Rodriguez",
+          "\u662f\u7684\uff0c\u575a\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u5bf9\u4e8e\u4fdd\u6301\u8eab\u4f53\u548c\u7cbe\u795e\u7684\u5065\u5eb7\u975e\u5e38\u91cd\u8981\u3002"
+        ],
+        [
+          "Yuriko Yamamoto",
+          "\u4f60\u5728\u65e9\u6668\u8fdb\u884c\u953b\u70bc\u662f\u4e00\u4e2a\u5f88\u597d\u7684\u4e60\u60ef\u3002\u6211\u4e5f\u559c\u6b22\u4fdd\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\uff0c\u5c24\u5176\u662f\u5728\u5de5\u4f5c\u7e41\u5fd9\u7684\u65f6\u5019\u3002"
+        ],
+        [
+          "Isabella Rodriguez",
+          "\u5f88\u9ad8\u5174\u542c\u5230\u4f60\u4e5f\u559c\u6b22\u4fdd\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u3002\u6211\u53d1\u73b0\u953b\u70bc\u8ba9\u6211\u6709\u66f4\u591a\u7684\u7cbe\u529b\u548c\u52a8\u529b\u53bb\u5e94\u5bf9\u7e41\u5fd9\u7684\u5de5\u4f5c\u65e5\u7a0b\u3002"
+        ],
+        [
+          "Yuriko Yamamoto",
+          "\u662f\u7684\uff0c\u575a\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u5bf9\u4e8e\u4fdd\u6301\u8eab\u4f53\u548c\u7cbe\u795e\u7684\u5065\u5eb7\u975e\u5e38\u91cd\u8981\u3002"
+        ],
+        [
+          "Isabella Rodriguez",
+          "\u662f\u7684\uff0c\u4fdd\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u5bf9\u4e8e\u4fdd\u6301\u8eab\u4f53\u548c\u7cbe\u795e\u7684\u5065\u5eb7\u975e\u5e38\u91cd\u8981\u3002"
+        ]
+      ]
+    },
+    "Giorgio Rossi": {
+      "movement": [
+        87,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "\u7761\u89c9 @ \u5c0f\u9547:Giorgio Rossi\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        13
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udc86",
+      "description": "\u505a\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1\uff08\u5982\u5237\u7259\u3001\u6d17\u8138\u3001\u6d17\u6fa1\u7b49\uff09 (Carlos\u5728\u6d17\u53d1) @ \u5c0f\u9547:Carlos Gomez\u7684\u516c\u5bd3:\u6d74\u5ba4:\u6dcb\u6d74",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udd2c\ud83d\udd0e",
+      "description": "\u6a61\u6811\u5c71\u5b66\u9662\u7684\u56fe\u4e66\u9986\u7814\u7a76\u5173\u4e8e\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u5f71\u54cd\u7684\u8d44\u6599 (Klaus\u5728\u5206\u6790\u5148\u524d\u7684\u7814\u7a76\u7ed3\u679c) @ \u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662:\u56fe\u4e66\u9986:\u56fe\u4e66\u9986\u684c\u5b50",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "\u7761\u89c9 @ \u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Maria Lopez\u7684\u623f\u95f4:\u5e8a",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        131,
+        53
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+      "description": "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (Ayesha\u5728\u6d17\u8138) @ \u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:\u5973\u6027\u6d74\u5ba4:\u6d74\u5ba4\u6d17\u624b\u6c60",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udd0d",
+      "description": "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (\u56de\u987e\u5316\u5b66\u7b14\u8bb0) @ \u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662:\u56fe\u4e66\u9986:\u56fe\u4e66\u9986\u684c\u5b50",
+      "chat": null
+    },
+    "Mei Lin": {
+      "movement": [
+        91,
+        69
+      ],
+      "pronunciatio": "\ud83d\udc68\u200d\ud83d\udc69",
+      "description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Mei\u5728\u548c\u5bb6\u4eba\u6253\u62db\u547c\u5e76\u804a\u5929) @ \u5c0f\u9547:Lin\u5bb6\u7684\u623f\u5b50:\u516c\u5171\u4f11\u606f\u5ba4:\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        61,
+        35
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u56de\u590d\u5ba2\u6237\u53cd\u9988) @ \u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662:\u8d70\u5eca:<random>",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83e\udd50",
+      "description": "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Eddy\u5728\u5403\u65e9\u9910) @ \u5c0f\u9547:Lin\u5bb6\u7684\u623f\u5b50:\u53a8\u623f:\u708a\u4e8b\u533a",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        55
+      ],
+      "pronunciatio": "\ud83d\udc55\ud83d\udc56",
+      "description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Tom\u5728\u66f4\u8863\u5ba4\u66f4\u6362\u5de5\u4f5c\u670d) @ \u5c0f\u9547:\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97:\u5546\u5e97:\u6742\u8d27\u5e97\u67dc\u53f0",
+      "chat": null
+    },
+    "Jane Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83d\udc8f",
+      "description": "\u4e0e\u4e08\u592b\u4e00\u8d77\u5403\u65e9\u9910 (Jane\u5728\u4e0e\u4e08\u592b\u4ea4\u8c08) @ \u5c0f\u9547:Moreno\u5bb6\u7684\u623f\u5b50:\u516c\u5171\u4f11\u606f\u5ba4:\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        79,
+        47
+      ],
+      "pronunciatio": "\ud83d\udd8c\ud83d\udcd6",
+      "description": "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66 (Tamara\u5728\u4e66\u4e2d\u63cf\u7ed8\u51fa\u5173\u952e\u573a\u666f) @ \u5c0f\u9547:\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97:\u5546\u5e97:\u836f\u5e97\u8d27\u67b6",
+      "chat": null
+    },
+    "Carmen Ortiz": {
+      "movement": [
+        62,
+        65
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f\u2728",
+      "description": "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u6536\u62fe\u5367\u5ba4) @ \u5c0f\u9547:Tamara Taylor\u548cCarmen Ortiz\u7684\u623f\u5b50:Carmen Ortiz\u7684\u623f\u95f4:\u8863\u67dc",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        33,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcf8",
+      "description": "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u62cd\u6444\u516c\u56ed\u7684\u7167\u7247) @ \u5c0f\u9547:\u7ea6\u7ff0\u900a\u516c\u56ed:\u516c\u56ed:\u516c\u56ed\u82b1\u56ed",
+      "chat": null
+    },
+    "Jennifer Moore": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83c\udfa8\ud83d\udd8c\ufe0f",
+      "description": "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (Jennifer\u5728\u5f00\u59cb\u521b\u4f5c\u5e76\u5b8c\u6210\u7b2c\u4e00\u5e45\u753b) (Jennifer\u5728\u51c6\u5907\u753b\u677f\u548c\u753b\u7b14) @ \u5c0f\u9547:\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97:\u5546\u5e97:\u836f\u5e97\u67dc\u53f0",
+      "chat": null
+    },
+    "Yuriko Yamamoto": {
+      "movement": [
+        67,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "\u5173\u4e8e\u4e24\u4e2a\u670b\u53cb\u8c08\u8bba\u4e86\u4fdd\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u548c\u6bcf\u5929\u65e9\u6668\u8fdb\u884c\u953b\u70bc\u7684\u91cd\u8981\u6027\u3002 @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "\u65e9\u4e0a\u597dYuriko\uff0c\u4f60\u611f\u89c9\u600e\u4e48\u6837\uff1f"
+        ],
+        [
+          "Yuriko Yamamoto",
+          "\u65e9\u4e0a\u597d\uff0c\u6211\u611f\u89c9\u5f88\u597d\uff0c\u8c22\u8c22\u4f60\uff01\u4f60\u6b63\u5728\u8fdb\u884c\u5fc3\u80ba\u8fd0\u52a8\u5417\uff1f"
+        ],
+        [
+          "Isabella Rodriguez",
+          "\u662f\u7684\uff0c\u6211\u6b63\u5728\u8fdb\u884c\u5fc3\u80ba\u953b\u70bc\u3002\u8fd9\u662f\u6211\u6bcf\u5929\u65e9\u4e0a\u7684\u4f8b\u884c\u7a0b\u5e8f\u3002"
+        ],
+        [
+          "Yuriko Yamamoto",
+          "\u4f60\u662f\u4e00\u4e2a\u5f88\u6709\u6bc5\u529b\u7684\u4eba\uff0c\u6bcf\u5929\u65e9\u4e0a\u8fdb\u884c\u953b\u70bc\u5bf9\u4e8e\u4fdd\u6301\u5065\u5eb7\u548c\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u975e\u5e38\u91cd\u8981\u3002"
+        ],
+        [
+          "Isabella Rodriguez",
+          "\u662f\u7684\uff0c\u575a\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u5bf9\u4e8e\u4fdd\u6301\u8eab\u4f53\u548c\u7cbe\u795e\u7684\u5065\u5eb7\u975e\u5e38\u91cd\u8981\u3002"
+        ],
+        [
+          "Yuriko Yamamoto",
+          "\u4f60\u5728\u65e9\u6668\u8fdb\u884c\u953b\u70bc\u662f\u4e00\u4e2a\u5f88\u597d\u7684\u4e60\u60ef\u3002\u6211\u4e5f\u559c\u6b22\u4fdd\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\uff0c\u5c24\u5176\u662f\u5728\u5de5\u4f5c\u7e41\u5fd9\u7684\u65f6\u5019\u3002"
+        ],
+        [
+          "Isabella Rodriguez",
+          "\u5f88\u9ad8\u5174\u542c\u5230\u4f60\u4e5f\u559c\u6b22\u4fdd\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u3002\u6211\u53d1\u73b0\u953b\u70bc\u8ba9\u6211\u6709\u66f4\u591a\u7684\u7cbe\u529b\u548c\u52a8\u529b\u53bb\u5e94\u5bf9\u7e41\u5fd9\u7684\u5de5\u4f5c\u65e5\u7a0b\u3002"
+        ],
+        [
+          "Yuriko Yamamoto",
+          "\u662f\u7684\uff0c\u575a\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u5bf9\u4e8e\u4fdd\u6301\u8eab\u4f53\u548c\u7cbe\u795e\u7684\u5065\u5eb7\u975e\u5e38\u91cd\u8981\u3002"
+        ],
+        [
+          "Isabella Rodriguez",
+          "\u662f\u7684\uff0c\u4fdd\u6301\u5065\u5eb7\u7684\u751f\u6d3b\u65b9\u5f0f\u5bf9\u4e8e\u4fdd\u6301\u8eab\u4f53\u548c\u7cbe\u795e\u7684\u5065\u5eb7\u975e\u5e38\u91cd\u8981\u3002"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u64b0\u5199\u4e66\u7c4d\u7684\u5f15\u8a00\u90e8\u5206) @ \u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:\u516c\u5171\u4f11\u606f\u5ba4:\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:33:10"
+  }
+}

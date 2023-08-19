@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
-    58,
-    74
+    57,
+    66
   ],
   "daily_plan_req": "Carmen\u6bcf\u59298am\u5f00\u542f\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\uff0c\u7ad9\u5728\u67dc\u53f0\u540e\u9762\uff0c\u5e76\u57286pm\u5173\u95ed\u95e8\u5e97\uff0c\u7136\u540e\u5979\u559c\u6b22\u53bb\u73ab\u7470\u7687\u51a0\u9152\u5427\u653e\u677e\u3002",
   "name": "Carmen Ortiz",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 237,
-  "importance_ele_n": 6,
+  "importance_trigger_curr": 202,
+  "importance_ele_n": 21,
   "thought_count": 5,
   "daily_req": [
     "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
@@ -68,8 +68,40 @@
       15
     ],
     [
-      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269",
-      60
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (\u6574\u7406\u5e97\u5185\u8d27\u7269\u6446\u653e)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u68c0\u67e5\u8d27\u7269\u5e93\u5b58)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u8865\u5145\u8d27\u7269\uff0c\u5c06\u9700\u8981\u7684\u5546\u54c1\u653e\u5728\u5408\u9002\u7684\u4f4d\u7f6e)",
+      10
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u6574\u7406\u5e76\u6e05\u7406\u67dc\u53f0\u548c\u6536\u94f6\u673a)",
+      10
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u5907\u8d27\u65f6\u68c0\u67e5\u5e76\u6574\u7406\u524d\u4e00\u5929\u7684\u9500\u552e\u548c\u5e93\u5b58\u8bb0\u5f55)",
+      10
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u68c0\u67e5\u548c\u51c6\u5907\u5e97\u5185\u5783\u573e\u6876\u548c\u56de\u6536\u7bb1)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u5e97\u94fa\u5916\u6e05\u7406\u7a97\u6237\u548c\u95e8)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u68c0\u67e5\u5e97\u94fa\u5916\u7684\u6807\u8bc6\u548c\u5e7f\u544a\u724c\uff0c\u786e\u4fdd\u5b83\u4eec\u6e05\u6670\u53ef\u89c1)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u6574\u7406\u548c\u51c6\u5907\u5e97\u5185\u97f3\u54cd\u7cfb\u7edf\uff0c\u786e\u4fdd\u97f3\u4e50\u6b63\u5e38\u64ad\u653e)",
+      5
     ],
     [
       "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27",
@@ -118,6 +150,14 @@
     [
       "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5de5\u4f5c\u5b8c\u6210\u5e76\u51c6\u5907\u7761\u89c9",
       60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ],
     [
       "\u7761\u89c9",
@@ -186,22 +226,22 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:Tamara Taylor\u548cCarmen Ortiz\u7684\u623f\u5b50:Carmen Ortiz\u7684\u623f\u95f4:\u5e8a",
-  "act_start_time": "February 13, 2023, 00:00:00",
-  "act_duration": 420,
-  "act_description": "\u7761\u89c9",
-  "act_pronunciatio": "\ud83d\ude34",
+  "act_address": "\u5c0f\u9547:Tamara Taylor\u548cCarmen Ortiz\u7684\u623f\u5b50:\u53a8\u623f:\u708a\u4e8b\u533a",
+  "act_start_time": "February 13, 2023, 07:05:00",
+  "act_duration": 10,
+  "act_description": "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u51c6\u5907\u65e9\u9910)",
+  "act_pronunciatio": "\ud83c\udf73\ud83e\udd53",
   "act_event": [
     "Carmen Ortiz",
-    "\u7761\u89c9",
-    "None"
+    "\u51c6\u5907",
+    "\u65e9\u9910"
   ],
-  "act_obj_description": "\u5728\u4fee\u7406",
-  "act_obj_pronunciatio": "\ud83d\udd27\ud83d\udc77",
+  "act_obj_description": "\u5728\u51c6\u5907\u65e9\u9910",
+  "act_obj_pronunciatio": "\ud83c\udf73\u2615",
   "act_obj_event": [
-    "\u5e8a",
-    "\u4fee\u7406",
-    "\u5728\u4fee\u7406"
+    "\u708a\u4e8b\u533a",
+    "\u51c6\u5907",
+    "\u65e9\u9910"
   ],
   "chatting_with": null,
   "chat": null,

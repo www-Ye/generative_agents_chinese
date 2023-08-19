@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
-    38,
-    54
+    41,
+    36
   ],
   "daily_plan_req": "",
   "name": "Jennifer Moore",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 220,
-  "importance_ele_n": 13,
+  "importance_trigger_curr": 200,
+  "importance_ele_n": 10,
   "thought_count": 5,
   "daily_req": [
     "\u57285:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -92,8 +92,12 @@
       10
     ],
     [
-      "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (Jennifer\u5728\u6df1\u601d\u719f\u8651\uff0c\u9009\u62e9\u7ed8\u753b\u6280\u5de7\u548c\u98ce\u683c)",
-      20
+      "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (\u51c6\u5907Jennifer\u5728\u6df1\u601d\u719f\u8651\uff0c\u9009\u62e9\u7ed8\u753b\u6280\u5de7\u548c\u98ce\u683c)",
+      0
+    ],
+    [
+      "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (\u5173\u4e8eJennifer\u8ba1\u5212\u5728\u4f5c\u54c1\u5c55\u89c8\u4e2d\u5c55\u793a\u5979\u7684\u4e00\u7cfb\u5217\u5145\u6ee1\u6e29\u6696\u60c5\u611f\u548c\u81ea\u7136\u7f8e\u666f\u7684\u6c34\u5f69\u753b\uff0cWolfgang\u5bf9\u6b64\u975e\u5e38\u611f\u5174\u8da3\uff0c\u5e76\u671f\u5f85\u53c2\u89c2Jennifer\u7684\u4f5c\u54c1\u5c55\u89c8\u3002)",
+      2
     ],
     [
       "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (Jennifer\u5728\u5f00\u59cb\u521b\u4f5c\u5e76\u5b8c\u6210\u7b2c\u4e00\u5e45\u753b) (\u9192\u6765\u5e76\u8d77\u5e8a)",
@@ -120,8 +124,12 @@
       25
     ],
     [
-      "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (Jennifer\u5728\u4f11\u606f\uff0c\u6b23\u8d4f\u81ea\u5df1\u7684\u4f5c\u54c1)",
-      10
+      "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (\u51c6\u5907Jennifer\u5728\u4f11\u606f\uff0c\u6b23\u8d4f\u81ea\u5df1\u7684\u4f5c\u54c1)",
+      0
+    ],
+    [
+      "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8eTamara Taylor\u6b63\u5728\u521b\u4f5c\u513f\u7ae5\u56fe\u4e66\uff0cJennifer Moore\u6b63\u5728\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8\u7684\u5bf9\u8bdd\u3002)",
+      1
     ],
     [
       "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (Jennifer\u5728\u9009\u62e9\u4e0b\u4e00\u5e45\u8981\u7ed8\u753b\u7684\u4e3b\u9898)",
@@ -278,6 +286,46 @@
     [
       "\u7761\u89c9",
       0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      18
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      9
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -322,235 +370,61 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97:\u5546\u5e97:\u836f\u5e97\u8d27\u67b6",
-  "act_start_time": "February 13, 2023, 05:46:00",
-  "act_duration": 5,
-  "act_description": "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (\u9009\u62e9\u753b\u5e03\u548c\u753b\u7b14)",
+  "act_address": "\u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:\u53a8\u623f:\u708a\u4e8b\u533a",
+  "act_start_time": "February 13, 2023, 07:03:00",
+  "act_duration": 25,
+  "act_description": "\u753b\u753b\u5e76\u51c6\u5907\u4f5c\u54c1\u5c55\u89c8 (Jennifer\u5728\u5f00\u59cb\u521b\u4f5c\u5e76\u5b8c\u6210\u7b2c\u4e00\u5e45\u753b) (Jennifer\u5728\u51c6\u5907\u753b\u677f\u548c\u753b\u7b14)",
   "act_pronunciatio": "\ud83c\udfa8\ud83d\udd8c\ufe0f",
   "act_event": [
     "Jennifer Moore",
-    "\u9009\u62e9",
-    "\u753b\u5e03\u548c\u753b\u7b14"
+    "\u51c6\u5907",
+    "\u753b\u677f\u548c\u753b\u7b14"
   ],
-  "act_obj_description": "\u88c5\u6ee1\u4e86\u836f\u54c1",
-  "act_obj_pronunciatio": "\ud83e\uddea\ud83e\uddfc",
+  "act_obj_description": "\u5728\u51c6\u5907\u753b\u677f\u548c\u753b\u7b14",
+  "act_obj_pronunciatio": "\ud83c\udfa8\ud83d\udd8c\ufe0f",
   "act_obj_event": [
-    "\u836f\u5e97\u8d27\u67b6",
-    "\u88c5\u6ee1\u4e86",
-    "\u836f\u54c1"
+    "\u708a\u4e8b\u533a",
+    "\u51c6\u5907",
+    "\u753b\u677f\u548c\u753b\u7b14"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Sam Moore": 512,
-    "Adam Smith": 608
+    "Sam Moore": 36,
+    "Adam Smith": 132,
+    "Wolfgang Schulz": 506,
+    "Tamara Taylor": 758
   },
   "chatting_end_time": null,
   "act_path_set": true,
   "planned_path": [
     [
-      40,
-      37
+      41,
+      34
     ],
     [
       41,
-      37
+      33
     ],
     [
-      42,
-      37
+      41,
+      32
     ],
     [
-      43,
-      37
+      41,
+      31
     ],
     [
-      44,
-      37
+      41,
+      30
     ],
     [
-      45,
-      37
+      41,
+      29
     ],
     [
-      46,
-      37
-    ],
-    [
-      47,
-      37
-    ],
-    [
-      48,
-      37
-    ],
-    [
-      49,
-      37
-    ],
-    [
-      50,
-      37
-    ],
-    [
-      51,
-      37
-    ],
-    [
-      52,
-      37
-    ],
-    [
-      53,
-      37
-    ],
-    [
-      54,
-      37
-    ],
-    [
-      55,
-      37
-    ],
-    [
-      56,
-      37
-    ],
-    [
-      57,
-      37
-    ],
-    [
-      58,
-      37
-    ],
-    [
-      59,
-      37
-    ],
-    [
-      60,
-      37
-    ],
-    [
-      61,
-      37
-    ],
-    [
-      62,
-      37
-    ],
-    [
-      63,
-      37
-    ],
-    [
-      64,
-      37
-    ],
-    [
-      65,
-      37
-    ],
-    [
-      66,
-      37
-    ],
-    [
-      67,
-      37
-    ],
-    [
-      68,
-      37
-    ],
-    [
-      69,
-      37
-    ],
-    [
-      70,
-      37
-    ],
-    [
-      71,
-      37
-    ],
-    [
-      72,
-      37
-    ],
-    [
-      73,
-      37
-    ],
-    [
-      74,
-      37
-    ],
-    [
-      75,
-      37
-    ],
-    [
-      76,
-      37
-    ],
-    [
-      77,
-      37
-    ],
-    [
-      78,
-      37
-    ],
-    [
-      79,
-      37
-    ],
-    [
-      80,
-      37
-    ],
-    [
-      80,
-      38
-    ],
-    [
-      80,
-      39
-    ],
-    [
-      80,
-      40
-    ],
-    [
-      80,
-      41
-    ],
-    [
-      80,
-      42
-    ],
-    [
-      80,
-      43
-    ],
-    [
-      80,
-      44
-    ],
-    [
-      79,
-      44
-    ],
-    [
-      79,
-      45
-    ],
-    [
-      79,
-      46
+      41,
+      28
     ]
   ]
 }

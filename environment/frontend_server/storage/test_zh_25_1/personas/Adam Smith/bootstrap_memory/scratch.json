@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:50:50",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
-    26,
-    42
+    39,
+    30
   ],
   "daily_plan_req": "",
   "name": "Adam Smith",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 42,
-  "importance_ele_n": 84,
+  "importance_trigger_curr": 157,
+  "importance_ele_n": 35,
   "thought_count": 5,
   "daily_req": [
     "\u57284:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -127,8 +127,12 @@
       5
     ],
     [
-      "\u5403\u65e9\u9910 (Adam\u5728\u716e\u5496\u5561)",
-      5
+      "\u5403\u65e9\u9910 (\u51c6\u5907Adam\u5728\u716e\u5496\u5561)",
+      0
+    ],
+    [
+      "\u5403\u65e9\u9910 (\u5173\u4e8e\u5173\u4e8e\u53c2\u52a0\u672c\u5730\u5e02\u957f\u9009\u4e3e\u7684\u8ba8\u8bba)",
+      3
     ],
     [
       "\u5403\u65e9\u9910 (Adam\u5728\u70e4\u9762\u5305\u7247)",
@@ -151,12 +155,72 @@
       20
     ],
     [
-      "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d",
-      60
+      "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (\u6574\u7406\u5199\u4f5c\u684c\u9762)",
+      5
     ],
     [
-      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d",
-      240
+      "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u67e5\u9605\u76f8\u5173\u7684\u7814\u7a76\u8d44\u6599)",
+      10
+    ],
+    [
+      "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u601d\u8003\u5e76\u786e\u5b9a\u4e66\u7c4d\u7684\u4e3b\u9898\u548c\u7ed3\u6784)",
+      10
+    ],
+    [
+      "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u8fdb\u884c\u5934\u8111\u98ce\u66b4\uff0c\u6536\u96c6\u521b\u9020\u529b\u7684\u4f8b\u5b50\u548c\u6545\u4e8b)",
+      10
+    ],
+    [
+      "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u64b0\u5199\u4e66\u7c4d\u7684\u5f15\u8a00\u90e8\u5206)",
+      10
+    ],
+    [
+      "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u6574\u7406\u548c\u4fee\u6539\u5f15\u8a00\u7684\u8349\u7a3f)",
+      10
+    ],
+    [
+      "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u5b58\u50a8\u5e76\u5907\u4efd\u4e66\u7c4d\u7684\u8349\u7a3f)",
+      5
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (\u56de\u987e\u4e4b\u524d\u5199\u4f5c\u7684\u5185\u5bb9)",
+      5
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u6574\u7406\u81ea\u5df1\u7684\u601d\u8def\uff0c\u51b3\u5b9a\u63a5\u4e0b\u6765\u8981\u5199\u4ec0\u4e48)",
+      10
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u67e5\u627e\u548c\u6536\u96c6\u76f8\u5173\u7684\u8d44\u6599\u548c\u5f15\u7528)",
+      15
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u8fdb\u884c\u6df1\u5165\u601d\u8003\u548c\u53cd\u601d\uff0c\u4ee5\u786e\u4fdd\u81ea\u5df1\u7684\u89c2\u70b9\u6709\u903b\u8f91\u548c\u5408\u7406\u6027)",
+      20
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u5199\u4f5c\u8349\u7a3f)",
+      30
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u5bf9\u4e4b\u524d\u5199\u7684\u5185\u5bb9\u8fdb\u884c\u7f16\u8f91\u548c\u4fee\u8ba2)",
+      15
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u7ee7\u7eed\u5199\u4f5c\u4e0b\u4e00\u7ae0\u8282\u7684\u5185\u5bb9)",
+      40
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u5bf9\u4e4b\u524d\u5199\u7684\u5185\u5bb9\u8fdb\u884c\u518d\u6b21\u5ba1\u67e5\u548c\u4fee\u6539)",
+      20
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u8fdb\u884c\u6700\u540e\u7684\u6da6\u8272\u548c\u7f16\u8f91)",
+      25
+    ],
+    [
+      "\u7ee7\u7eed\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d () Adam\u5728\u4fdd\u5b58\u5e76\u5907\u4efd\u81ea\u5df1\u7684\u5199\u4f5c\u6587\u4ef6)",
+      60
     ],
     [
       "\u5403\u5348\u996d\u5e76\u4f11\u606f\u4e00\u4e0b",
@@ -265,6 +329,50 @@
     [
       "\u7761\u89c9",
       0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      2
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -329,27 +437,28 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:\u7ea6\u7ff0\u900a\u516c\u56ed:\u516c\u56ed:\u516c\u56ed\u82b1\u56ed",
-  "act_start_time": "February 13, 2023, 05:49:00",
-  "act_duration": 5,
-  "act_description": "\u8fdb\u884c\u6668\u95f4\u953b\u70bc\u548c\u51a5\u60f3 () Adam\u5728\u8fdb\u884c\u4e00\u7ec4\u4fa7\u817f\u5e73\u8861)",
-  "act_pronunciatio": "\ud83d\ude44",
+  "act_address": "\u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:\u516c\u5171\u4f11\u606f\u5ba4:\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+  "act_start_time": "February 13, 2023, 07:00:00",
+  "act_duration": 10,
+  "act_description": "\u5f00\u59cb\u5199\u4f5c\u5173\u4e8e\u521b\u9020\u529b\u7684\u4e66\u7c4d (Adam\u5728\u67e5\u9605\u76f8\u5173\u7684\u7814\u7a76\u8d44\u6599)",
+  "act_pronunciatio": "\ud83d\udcda\ud83d\udcbb",
   "act_event": [
     "Adam Smith",
-    "",
-    ""
+    "\u67e5\u9605",
+    "\u7814\u7a76\u8d44\u6599"
   ],
-  "act_obj_description": "\u5728\u4fee\u590d",
-  "act_obj_pronunciatio": "\ud83d\udd27\ud83d\udd28",
+  "act_obj_description": "Adam\u6b63\u5728\u4f7f\u7528",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
   "act_obj_event": [
-    "\u516c\u56ed\u82b1\u56ed",
-    "\u5728",
-    "\u4fee\u590d"
+    "\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+    "\u5728\u4f7f\u7528",
+    "Adam"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Jennifer Moore": 608
+    "Jennifer Moore": 134,
+    "Sam Moore": 392
   },
   "chatting_end_time": null,
   "act_path_set": true,

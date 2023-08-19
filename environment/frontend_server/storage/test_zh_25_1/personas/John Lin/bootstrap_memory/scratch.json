@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
-    91,
-    74
+    93,
+    70
   ],
   "daily_plan_req": "John Lin\u5927\u7ea6\u57289am\u53bb\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97\u5f00\u8bbe\u836f\u5e97\u67dc\u53f0\u3002\u4ed6\u7ad9\u5728\u67dc\u53f0\u540e\u9762\u76f4\u52305pm\uff0c\u7136\u540e\u56de\u5bb6\u3002",
   "name": "John Lin",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 235,
-  "importance_ele_n": 8,
+  "importance_trigger_curr": 46,
+  "importance_ele_n": 90,
   "thought_count": 5,
   "daily_req": [
     "\u57286:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
@@ -76,12 +76,68 @@
       5
     ],
     [
-      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d",
-      60
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (\u68c0\u67e5\u6536\u4ef6\u7bb1)",
+      5
     ],
     [
-      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1",
-      60
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u5728\u5220\u9664\u5783\u573e\u90ae\u4ef6)",
+      5
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (\u51c6\u5907John\u56de\u590d\u987e\u5ba2\u7684\u95ee\u9898)",
+      0
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (\u5173\u4e8e\u7ea6\u7ff0\u548c\u57c3\u8fea\u8ba1\u5212\u7684\u4e00\u5929)",
+      1
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u5904\u7406\u9000\u8d27\u8bf7\u6c42)",
+      10
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u56de\u590d\u4f9b\u5e94\u5546\u7684\u8be2\u95ee)",
+      5
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u53d1\u9001\u8ba2\u8d2d\u8bf7\u6c42)",
+      5
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u56de\u590d\u5408\u4f5c\u4f19\u4f34\u7684\u5408\u4f5c\u5efa\u8bae)",
+      10
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u56de\u590d\u50a8\u5907\u836f\u54c1\u7684\u8bf7\u6c42)",
+      5
+    ],
+    [
+      "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u56de\u590d\u5ba2\u6237\u53cd\u9988)",
+      5
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1 (\u68c0\u67e5\u5e93\u5b58\u6570\u91cf\u548c\u8bb0\u5f55)",
+      5
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1 (John\u5728\u67e5\u627e\u9700\u8865\u5145\u7684\u836f\u54c1)",
+      10
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1 (John\u5728\u4e0e\u4f9b\u5e94\u5546\u8054\u7cfb\u5e76\u4e0b\u8ba2\u5355)",
+      10
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1 (John\u5728\u6574\u7406\u548c\u6574\u7406\u836f\u54c1\u67b6)",
+      10
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1 (John\u5728\u6e05\u6d01\u548c\u6d88\u6bd2\u67dc\u53f0\u533a\u57df)",
+      10
+    ],
+    [
+      "\u67e5\u770b\u5e93\u5b58\uff0c\u51c6\u5907\u836f\u54c1 (John\u5728\u4e3a\u987e\u5ba2\u8bbe\u7f6e\u836f\u54c1\u5c55\u793a)",
+      15
     ],
     [
       "\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97\u5f00\u8bbe\u836f\u5e97\u67dc\u53f0",
@@ -138,6 +194,54 @@
     [
       "\u7761\u89c9",
       0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      9
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -210,27 +314,46 @@
       180
     ]
   ],
-  "act_address": "\u5c0f\u9547:Lin\u5bb6\u7684\u623f\u5b50:Mei\u548cJohn Lin\u7684\u5367\u5ba4:\u5e8a",
-  "act_start_time": "February 13, 2023, 00:00:00",
-  "act_duration": 360,
-  "act_description": "\u7761\u89c9",
-  "act_pronunciatio": "\ud83d\udca4",
+  "act_address": "\u5c0f\u9547:Lin\u5bb6\u7684\u623f\u5b50:\u53a8\u623f:\u53a8\u623f\u6c34\u69fd",
+  "act_start_time": "February 13, 2023, 07:09:00",
+  "act_duration": 5,
+  "act_description": "\u68c0\u67e5\u90ae\u4ef6\u5e76\u56de\u590d (John\u5728\u5220\u9664\u5783\u573e\u90ae\u4ef6)",
+  "act_pronunciatio": "\ud83d\udeae",
   "act_event": [
     "John Lin",
-    "\u662f",
-    "\u7761\u89c9"
+    "\u5220\u9664",
+    "\u5783\u573e\u90ae\u4ef6"
   ],
-  "act_obj_description": "\u5728\u4f7f\u7528",
-  "act_obj_pronunciatio": "\ud83d\udcbb\ud83e\udd14",
+  "act_obj_description": "\u5728\u4fee\u7406",
+  "act_obj_pronunciatio": "\ud83d\udd27\ud83d\udc69\u200d",
   "act_obj_event": [
-    "\u5e8a",
-    "\u4f7f\u7528",
-    "\u5e8a"
+    "\u53a8\u623f\u6c34\u69fd",
+    "\u4fee\u7406",
+    "\u65e0"
   ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Eddy Lin": 794
+  },
   "chatting_end_time": null,
   "act_path_set": true,
-  "planned_path": []
+  "planned_path": [
+    [
+      93,
+      68
+    ],
+    [
+      93,
+      67
+    ],
+    [
+      93,
+      66
+    ],
+    [
+      93,
+      65
+    ]
+  ]
 }

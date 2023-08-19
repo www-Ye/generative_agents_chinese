@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
-    37,
-    60
+    30,
+    42
   ],
   "daily_plan_req": "Sam Moore\u559c\u6b22\u5728\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65\uff0c\u5e76\u5750\u5728\u970d\u5e03\u65af\u5496\u5561\u5e97\u9605\u8bfb\u3002",
   "name": "Sam Moore",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 93,
-  "importance_ele_n": 78,
+  "importance_trigger_curr": 158,
+  "importance_ele_n": 24,
   "thought_count": 5,
   "daily_req": [
     "\u57285:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -86,8 +86,12 @@
       5
     ],
     [
-      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed (Sam\u5728\u6253\u5f00\u7535\u89c6\u5e76\u6536\u770b\u65b0\u95fb)",
-      10
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[ (\u51c6\u5907Sam\u5728\u6253\u5f00\u7535\u89c6\u5e76\u6536\u770b\u65b0\u95fb)",
+      0
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[ (\u5173\u4e8e\u5173\u4e8e\u53c2\u52a0\u672c\u5730\u5e02\u957f\u9009\u4e3e\u7684\u8ba8\u8bba)",
+      3
     ],
     [
       "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed (Sam\u5728\u8bfb\u4e00\u4efd\u65e9\u62a5)",
@@ -110,12 +114,88 @@
       10
     ],
     [
-      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65",
-      60
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (\u5230\u8fbe\u7ea6\u7ff0\u900a\u516c\u56ed)",
+      5
     ],
     [
-      "\u505a\u5bb6\u52a1",
-      60
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u6cbf\u7740\u516c\u56ed\u5c0f\u5f84\u6f2b\u6b65)",
+      10
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (\u51c6\u5907Sam\u5728\u6b23\u8d4f\u516c\u56ed\u7684\u82b1\u575b)",
+      0
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (\u5173\u4e8e\u4e24\u4e2a\u4eba\u5728\u516c\u56ed\u91cc\u804a\u5929\uff0c\u8c08\u8bba\u4e86\u4ed6\u4eec\u559c\u6b22\u7684\u6d3b\u52a8\u4ee5\u53ca\u63a8\u8350\u7684\u4e66\u7c4d\u3002)",
+      3
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u516c\u56ed\u7684\u6e56\u8fb9\u4f11\u606f)",
+      10
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u516c\u56ed\u91cc\u548c\u670b\u53cb\u4ea4\u8c08)",
+      10
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u63a2\u7d22\u516c\u56ed\u7684\u8ff7\u5bab)",
+      10
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u62cd\u6444\u516c\u56ed\u7684\u7167\u7247)",
+      5
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u4ed4\u7ec6\u89c2\u5bdf\u516c\u56ed\u7684\u9e1f\u7c7b)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (\u6574\u7406\u5ba2\u5385)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6e05\u6d17\u53a8\u623f)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6574\u7406\u9910\u5385)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6d17\u8863\u670d)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6e05\u6d17\u6d74\u5ba4)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6536\u62fe\u5367\u5ba4)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u64e6\u6d17\u9633\u53f0)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6574\u7406\u8d70\u5eca)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6574\u7406\u529e\u516c\u5ba4)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 () Sam\u5728\u62d6\u5730)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 () Sam\u5728\u6574\u7406\u6742\u7269)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 () Sam\u5728\u68c0\u67e5\u5bb6\u4e2d\u662f\u5426\u6709\u9700\u8981\u4fee\u7406\u7684\u5730\u65b9)",
+      5
     ],
     [
       "\u7167\u987e\u516c\u56ed",
@@ -196,6 +276,54 @@
     [
       "\u7761\u89c9",
       0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      7
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      2
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -268,29 +396,44 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:Moore\u5bb6\u7684\u623f\u5b50:\u4e3b\u623f\u95f4:\u8863\u67dc",
-  "act_start_time": "February 13, 2023, 05:48:00",
-  "act_duration": 5,
-  "act_description": "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Sam\u5728\u7a7f\u8863\u670d)",
-  "act_pronunciatio": "\ud83d\udc55\u2728",
+  "act_address": "\u5c0f\u9547:\u7ea6\u7ff0\u900a\u516c\u56ed:\u516c\u56ed:\u516c\u56ed\u82b1\u56ed",
+  "act_start_time": "February 13, 2023, 07:09:00",
+  "act_duration": 10,
+  "act_description": "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u516c\u56ed\u7684\u6e56\u8fb9\u4f11\u606f)",
+  "act_pronunciatio": "\ud83c\udf33\ud83d\ude34",
   "act_event": [
     "Sam Moore",
-    "\u7a7f",
-    "\u8863\u670d"
+    "\u4f11\u606f",
+    "None"
   ],
-  "act_obj_description": "\u4f7f\u7528\u4e2d",
-  "act_obj_pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbb",
+  "act_obj_description": "\u5728\u4fee\u590d",
+  "act_obj_pronunciatio": "\ud83d\udd27\u2728",
   "act_obj_event": [
-    "\u8863\u67dc",
-    "\u4f7f\u7528\u4e2d",
-    "\u4f7f\u7528\u4e2d"
+    "\u516c\u56ed\u82b1\u56ed",
+    "\u4fee\u590d",
+    "\u5728\u4fee\u590d"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Jennifer Moore": 500
+    "Jennifer Moore": 24,
+    "Adam Smith": 390,
+    "Wolfgang Schulz": 734
   },
   "chatting_end_time": null,
   "act_path_set": true,
-  "planned_path": []
+  "planned_path": [
+    [
+      32,
+      42
+    ],
+    [
+      33,
+      42
+    ],
+    [
+      34,
+      42
+    ]
+  ]
 }

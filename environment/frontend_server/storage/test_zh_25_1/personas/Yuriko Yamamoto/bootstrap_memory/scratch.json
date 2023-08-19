@@ -2,7 +2,7 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:50:50",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
     29,
     65
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 234,
-  "importance_ele_n": 16,
+  "importance_trigger_curr": 210,
+  "importance_ele_n": 38,
   "thought_count": 5,
   "daily_req": [
     "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -71,8 +71,32 @@
       10
     ],
     [
-      "\u53c2\u52a0\u4f1a\u8bae\uff0c\u8ba8\u8bba\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55",
-      240
+      "\u53c2\u52a0\u4f1a\u8bae\uff0c\u8ba8\u8bba\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55 (\u51c6\u5907\u4f1a\u8bae\u8d44\u6599\u548c\u7b14\u8bb0)",
+      15
+    ],
+    [
+      "\u53c2\u52a0\u4f1a\u8bae\uff0c\u8ba8\u8bba\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55 (Yuriko\u5728\u4f1a\u8bae\u4e0a\u4e0e\u56e2\u961f\u6210\u5458\u4ea4\u6d41\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55)",
+      30
+    ],
+    [
+      "\u53c2\u52a0\u4f1a\u8bae\uff0c\u8ba8\u8bba\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55 (Yuriko\u5728\u5ba1\u6838\u5e76\u63d0\u4f9b\u7a0e\u52a1\u6cd5\u5f8b\u5efa\u8bae)",
+      45
+    ],
+    [
+      "\u53c2\u52a0\u4f1a\u8bae\uff0c\u8ba8\u8bba\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55 (Yuriko\u5728\u5206\u6790\u548c\u6574\u7406\u9879\u76ee\u6570\u636e\u4e0e\u62a5\u544a)",
+      60
+    ],
+    [
+      "\u53c2\u52a0\u4f1a\u8bae\uff0c\u8ba8\u8bba\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55 (Yuriko\u5728\u4e0e\u5176\u4ed6\u90e8\u95e8\u534f\u8c03\u5de5\u4f5c\uff0c\u4ee5\u786e\u4fdd\u5408\u89c4\u9879\u76ee\u7684\u987a\u5229\u8fdb\u884c)",
+      30
+    ],
+    [
+      "\u53c2\u52a0\u4f1a\u8bae\uff0c\u8ba8\u8bba\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55 (Yuriko\u5728\u51c6\u5907\u4e0b\u4e00\u6b21\u4f1a\u8bae\u7684\u8bae\u7a0b\u548c\u8d44\u6599)",
+      30
+    ],
+    [
+      "\u53c2\u52a0\u4f1a\u8bae\uff0c\u8ba8\u8bba\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u7684\u8fdb\u5c55 (Yuriko\u5728\u6574\u7406\u4f1a\u8bae\u8bb0\u5f55\u548c\u5f62\u6210\u4e0b\u4e00\u6b65\u884c\u52a8\u8ba1\u5212)",
+      30
     ],
     [
       "\u5403\u5348\u996d",
@@ -109,6 +133,14 @@
     [
       "\u505a\u4e00\u4e9b\u653e\u677e\u7684\u6d3b\u52a8\uff0c\u4f8b\u5982\u770b\u7535\u89c6\u6216\u9605\u8bfb",
       60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ],
     [
       "\u7761\u89c9",
@@ -166,21 +198,21 @@
     ]
   ],
   "act_address": "\u5c0f\u9547:Yuriko Yamamoto\u7684\u623f\u5b50:\u4e3b\u623f\u95f4:\u5e8a",
-  "act_start_time": "February 13, 2023, 00:00:00",
-  "act_duration": 420,
-  "act_description": "\u7761\u89c9",
-  "act_pronunciatio": "\ud83d\ude34",
+  "act_start_time": "February 13, 2023, 07:05:00",
+  "act_duration": 10,
+  "act_description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Yuriko\u5728\u6574\u7406\u5e8a\u94fa)",
+  "act_pronunciatio": "\ud83d\udecf\ufe0f\ud83e\uddfa",
   "act_event": [
     "Yuriko Yamamoto",
-    "\u662f",
-    "\u7761\u89c9"
+    "\u6574\u7406",
+    "\u5e8a\u94fa"
   ],
-  "act_obj_description": "\u5728\u4f7f\u7528",
-  "act_obj_pronunciatio": "\ud83d\udcbb",
+  "act_obj_description": "\u5728\u6574\u7406\u5e8a\u94fa",
+  "act_obj_pronunciatio": "\ud83d\udecf\ufe0f\ud83d\udecc",
   "act_obj_event": [
     "\u5e8a",
-    "\u4f7f\u7528",
-    "\u5e8a"
+    "\u6574\u7406",
+    "\u5e8a\u94fa"
   ],
   "chatting_with": null,
   "chat": null,

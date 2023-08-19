@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
-    90,
-    74
+    94,
+    78
   ],
   "daily_plan_req": "Mei Lin\u5f00\u59cb\u4e8e10am\u53bb\u6a61\u6811\u5c71\u5b66\u9662\u6559\u4e66\uff0c\u4e00\u76f4\u6559\u52302pm\uff0c\u7136\u540e\u8fd4\u56de\u5bb6\u4e2d\u5de5\u4f5c\u3002",
   "name": "Mei Lin",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 237,
-  "importance_ele_n": 8,
+  "importance_trigger_curr": 161,
+  "importance_ele_n": 33,
   "thought_count": 5,
   "daily_req": [
     "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -55,8 +55,12 @@
       5
     ],
     [
-      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Mei\u5728\u5582\u517b\u5bb6\u4e2d\u7684\u5ba0\u7269)",
-      5
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u51c6\u5907Mei\u5728\u5582\u517b\u5bb6\u4e2d\u7684\u5ba0\u7269)",
+      0
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u5173\u4e8eEddy\u4eca\u5929\u8981\u4e0a\u8bfe\u5b66\u4e60\u97f3\u4e50\u7406\u8bba\u548c\u4f5c\u66f2\uff0c\u4e0b\u8bfe\u540e\u53bb\u970d\u5e03\u65af\u5496\u5561\u5e97\u5403\u996d\u548c\u5b66\u4e60\u3002)",
+      1
     ],
     [
       "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Mei\u5728\u505a\u6668\u95f4\u51a5\u60f3\u548c\u547c\u5438\u7ec3\u4e60)",
@@ -83,8 +87,24 @@
       5
     ],
     [
-      "\u51c6\u5907\u65e9\u9910\u5e76\u4e0e\u5bb6\u4eba\u4e00\u8d77\u5403\u65e9\u9910",
-      60
+      "\u51c6\u5907\u65e9\u9910\u5e76\u4e0e\u5bb6\u4eba\u4e00\u8d77\u5403\u65e9\u9910 (\u51c6\u5907\u5496\u5561\u548c\u8336)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u5e76\u4e0e\u5bb6\u4eba\u4e00\u8d77\u5403\u65e9\u9910 (Mei\u5728\u716e\u71d5\u9ea6\u7ca5\u548c\u70e4\u571f\u53f8)",
+      15
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u5e76\u4e0e\u5bb6\u4eba\u4e00\u8d77\u5403\u65e9\u9910 (Mei\u5728\u5207\u6c34\u679c\u548c\u51c6\u5907\u9178\u5976)",
+      10
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u5e76\u4e0e\u5bb6\u4eba\u4e00\u8d77\u5403\u65e9\u9910 (Mei\u5728\u51c6\u5907\u9e21\u86cb\u548c\u57f9\u6839)",
+      15
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u5e76\u4e0e\u5bb6\u4eba\u4e00\u8d77\u5403\u65e9\u9910 (Mei\u5728\u6446\u653e\u98df\u7269\u548c\u9910\u5177)",
+      15
     ],
     [
       "\u51c6\u5907\u5e76\u5b8c\u6210\u5bb6\u52a1\u4e8b",
@@ -121,6 +141,18 @@
     [
       "\u7761\u89c9",
       0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      4
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -169,26 +201,28 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:Lin\u5bb6\u7684\u623f\u5b50:Mei\u548cJohn Lin\u7684\u5367\u5ba4:\u5e8a",
-  "act_start_time": "February 13, 2023, 00:00:00",
-  "act_duration": 420,
-  "act_description": "\u7761\u89c9",
-  "act_pronunciatio": "\ud83d\ude34",
+  "act_address": "\u5c0f\u9547:Lin\u5bb6\u7684\u623f\u5b50:\u82b1\u56ed:\u623f\u5b50\u82b1\u56ed",
+  "act_start_time": "February 13, 2023, 07:07:00",
+  "act_duration": 5,
+  "act_description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Mei\u5728\u6253\u5f00\u7a97\u5e18\u5e76\u6b23\u8d4f\u65e9\u6668\u7684\u9633\u5149)",
+  "act_pronunciatio": "\ud83e\ude9f\u2600\ufe0f",
   "act_event": [
     "Mei Lin",
-    "\u662f",
-    "\u7761\u89c9"
+    "\u6253\u5f00",
+    "\u7a97\u5e18"
   ],
-  "act_obj_description": "\u5728\u4f7f\u7528",
-  "act_obj_pronunciatio": "\ud83d\udec1",
+  "act_obj_description": "\u5728\u4fee\u526a",
+  "act_obj_pronunciatio": "\u2702\ufe0f",
   "act_obj_event": [
-    "\u5e8a",
-    "\u4f7f\u7528",
-    "\u5e8a"
+    "\u623f\u5b50\u82b1\u56ed",
+    "\u4fee\u526a",
+    "\u7a7a"
   ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Eddy Lin": 782
+  },
   "chatting_end_time": null,
   "act_path_set": true,
   "planned_path": []

@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
     54,
-    14
+    17
   ],
   "daily_plan_req": "Arthur Burton\u6bcf\u59295pm\u5f00\u542f\u73ab\u7470\u7687\u51a0\u9152\u5427\uff0c\u5e76\u5728\u67dc\u53f0\u5de5\u4f5c\u76f4\u523010pm\uff0c\u7136\u540e\u4ed6\u4f1a\u5173\u95ed\u9152\u5427\u3002",
   "name": "Arthur Burton",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 236,
-  "importance_ele_n": 10,
+  "importance_trigger_curr": 209,
+  "importance_ele_n": 29,
   "thought_count": 5,
   "daily_req": [
     "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
@@ -64,8 +64,28 @@
       15
     ],
     [
-      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269",
-      60
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269 (\u51c6\u5907\u5496\u5561\u548c\u65e9\u9910)",
+      15
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269 (Arthur\u5728\u7ed9\u732b\u5582\u98df)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269 (Arthur\u5728\u51c6\u5907\u72d7\u7684\u98df\u7269)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269 (Arthur\u5728\u5582\u517b\u72d7\u5e76\u6362\u6c34)",
+      10
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269 (Arthur\u5728\u6d17\u7897\u548c\u6e05\u7406\u53a8\u623f)",
+      10
+    ],
+    [
+      "\u51c6\u5907\u65e9\u9910\u548c\u5582\u517b\u5ba0\u7269\u52a8\u7269 (Arthur\u5728\u4e3a\u81ea\u5df1\u51c6\u5907\u65e9\u9910)",
+      15
     ],
     [
       "\u6253\u5f00\u9152\u5427\u5e76\u51c6\u5907\u5de5\u4f5c",
@@ -110,6 +130,14 @@
     [
       "\u51c6\u5907\u5c31\u5bdd\uff0c\u5e76\u8fdb\u5165\u7761\u7720\u72b6\u6001",
       120
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ],
     [
       "\u7761\u89c9",
@@ -174,22 +202,22 @@
       120
     ]
   ],
-  "act_address": "\u5c0f\u9547:Arthur Burton\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
-  "act_start_time": "February 13, 2023, 00:00:00",
-  "act_duration": 420,
-  "act_description": "\u7761\u89c9",
-  "act_pronunciatio": "\ud83d\ude34",
+  "act_address": "\u5c0f\u9547:Arthur Burton\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u4e66\u684c",
+  "act_start_time": "February 13, 2023, 07:05:00",
+  "act_duration": 5,
+  "act_description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Arthur\u5728\u68b3\u7406\u5934\u53d1\u548c\u7406\u987a\u8863\u670d)",
+  "act_pronunciatio": "\ud83d\udc87\u200d\u2642",
   "act_event": [
     "Arthur Burton",
-    "\u662f",
-    "\u7761\u89c9"
+    "\u68b3\u7406",
+    "\u5934\u53d1\u548c\u7406\u987a\u8863\u670d"
   ],
-  "act_obj_description": "\u5728\u4fee\u590d",
-  "act_obj_pronunciatio": "\ud83d\udd27",
+  "act_obj_description": "\u5728\u6574\u7406",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
   "act_obj_event": [
-    "\u5e8a",
-    "\u4fee\u590d",
-    ""
+    "\u4e66\u684c",
+    "\u6574\u7406",
+    "None"
   ],
   "chatting_with": null,
   "chat": null,

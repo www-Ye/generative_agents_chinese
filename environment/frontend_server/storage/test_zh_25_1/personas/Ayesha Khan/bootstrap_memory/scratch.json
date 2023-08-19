@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_time": "February 13, 2023, 07:09:50",
   "curr_tile": [
-    119,
-    61
+    120,
+    45
   ],
   "daily_plan_req": "Ayesha Khan\u5728\u6a61\u6811\u5c71\u5b66\u9662\u7684\u56fe\u4e66\u9986\u4ece10am\u52302pm\u4e0a\u8bfe\uff0c\u7136\u540e\u5979\u5728\u56fe\u4e66\u9986\u5ea6\u8fc7\u5979\u7684\u65e5\u5b50\u5b66\u4e60\u3002",
   "name": "Ayesha Khan",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 238,
-  "importance_ele_n": 7,
+  "importance_trigger_curr": 119,
+  "importance_ele_n": 79,
   "thought_count": 5,
   "daily_req": [
     "\u57286:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -79,12 +79,52 @@
       5
     ],
     [
-      "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406",
-      60
+      "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (\u51c6\u5907\u65e9\u9910)",
+      10
     ],
     [
-      "\u6668\u95f4\u953b\u70bc",
-      60
+      "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (Ayesha\u5728\u5403\u65e9\u9910)",
+      15
+    ],
+    [
+      "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (Ayesha\u5728\u5237\u7259)",
+      5
+    ],
+    [
+      "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (Ayesha\u5728\u6d17\u8138)",
+      5
+    ],
+    [
+      "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (Ayesha\u5728\u5316\u5986)",
+      10
+    ],
+    [
+      "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (Ayesha\u5728\u9009\u62e9\u5f53\u5929\u7684\u670d\u88c5)",
+      15
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (\u8fdb\u884c\u62c9\u4f38\u548c\u70ed\u8eab\u8fd0\u52a8)",
+      10
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (Ayesha\u5728\u8fdb\u884c\u6668\u95f4\u8dd1\u6b65)",
+      15
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (Ayesha\u5728\u505a\u4fef\u5367\u6491)",
+      10
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (Ayesha\u5728\u8fdb\u884c\u4ef0\u5367\u8d77\u5750)",
+      10
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (Ayesha\u5728\u505a\u5e73\u677f\u652f\u6491)",
+      10
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (Ayesha\u5728\u505a\u6df1\u8e72)",
+      5
     ],
     [
       "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60",
@@ -129,6 +169,46 @@
     [
       "\u56fe\u4e66\u9986\u5b66\u4e60\u838e\u58eb\u6bd4\u4e9a\u620f\u5267\u4e2d\u7684\u8bed\u8a00\u4f7f\u7528",
       60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ],
     [
       "\u7761\u89c9",
@@ -197,22 +277,22 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Ayesha Khan\u7684\u623f\u95f4:\u5e8a",
-  "act_start_time": "February 13, 2023, 00:00:00",
-  "act_duration": 360,
-  "act_description": "\u7761\u89c9",
-  "act_pronunciatio": "\ud83d\ude34",
+  "act_address": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:\u53a8\u623f:\u70e4\u9762\u5305\u673a",
+  "act_start_time": "February 13, 2023, 07:00:00",
+  "act_duration": 10,
+  "act_description": "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (\u51c6\u5907\u65e9\u9910)",
+  "act_pronunciatio": "\ud83c\udf73\ud83e\udd50",
   "act_event": [
     "Ayesha Khan",
-    "\u7761\u89c9\uff0c\u662f",
-    "\u7761\u89c9"
+    "\u51c6\u5907",
+    "\u65e9\u9910"
   ],
   "act_obj_description": "\u5728\u4f7f\u7528",
-  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_pronunciatio": "\ud83d\udcbb",
   "act_obj_event": [
-    "\u5e8a",
+    "\u70e4\u9762\u5305\u673a",
     "\u4f7f\u7528",
-    "\u5e8a"
+    "None"
   ],
   "chatting_with": null,
   "chat": null,

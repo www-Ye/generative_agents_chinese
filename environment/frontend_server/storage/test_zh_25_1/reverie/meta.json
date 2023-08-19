@@ -1,7 +1,7 @@
 {
   "fork_sim_code": "test_zh_25_0",
   "start_date": "February 13, 2023",
-  "curr_time": "February 13, 2023, 05:51:00",
+  "curr_time": "February 13, 2023, 07:10:00",
   "sec_per_step": 10,
   "maze_name": "the_ville",
   "persona_names": [
@@ -31,5 +31,5 @@
     "Yuriko Yamamoto",
     "Adam Smith"
   ],
-  "step": 2106
+  "step": 2580
 }
