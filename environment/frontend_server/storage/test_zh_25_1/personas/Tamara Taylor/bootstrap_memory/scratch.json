@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 07:09:50",
+  "curr_time": "February 13, 2023, 09:03:50",
   "curr_tile": [
-    55,
-    67
+    88,
+    46
   ],
   "daily_plan_req": "",
   "name": "Tamara Taylor",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 109,
-  "importance_ele_n": 53,
+  "importance_trigger_curr": 92,
+  "importance_ele_n": 48,
   "thought_count": 5,
   "daily_req": [
     "\u57286:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -85,8 +85,16 @@
       30
     ],
     [
-      "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66 (Tamara\u5728\u7f16\u5199\u6545\u4e8b\u6846\u67b6)",
-      30
+      "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66 (\u51c6\u5907\u51c6\u5907Tamara\u5728\u7f16\u5199\u6545\u4e8b\u6846\u67b6)",
+      0
+    ],
+    [
+      "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66 (\u5173\u4e8e\u5173\u4e8eTamara Taylor\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66\u7684\u5bf9\u8bdd)",
+      3
+    ],
+    [
+      "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66 (\u5173\u4e8e\u8ba8\u8bba\u4e86\u4e00\u672c\u5173\u4e8e\u4e00\u53ea\u5c0f\u72d7\u5192\u9669\u7684\u6545\u4e8b)",
+      2
     ],
     [
       "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66 (Tamara\u5728\u7f16\u5199\u6545\u4e8b\u7684\u7b2c\u4e00\u7ae0\u8282)",
@@ -122,7 +130,7 @@
     ],
     [
       "\u5403\u5348\u996d",
-      60
+      57
     ],
     [
       "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66",
@@ -187,6 +195,26 @@
     [
       "\u7761\u89c9",
       29
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      28
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -235,27 +263,29 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:Tamara Taylor\u548cCarmen Ortiz\u7684\u623f\u5b50:\u516c\u5171\u4f11\u606f\u5ba4:\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
-  "act_start_time": "February 13, 2023, 07:03:00",
-  "act_duration": 15,
-  "act_description": "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66 (\u601d\u8003\u65b0\u7684\u6545\u4e8b\u6784\u601d)",
-  "act_pronunciatio": "\ud83e\udd14",
+  "act_address": "\u5c0f\u9547:\u67f3\u6811\u5e02\u573a\u548c\u836f\u5e97:\u5546\u5e97:\u6742\u8d27\u5e97\u67dc\u53f0",
+  "act_start_time": "February 13, 2023, 08:37:00",
+  "act_duration": 30,
+  "act_description": "\u521b\u4f5c\u65b0\u7684\u513f\u7ae5\u56fe\u4e66 (Tamara\u5728\u521b\u4f5c\u6545\u4e8b\u7684\u7b2c\u4e8c\u7ae0\u8282)",
+  "act_pronunciatio": "\u270d\ufe0f\ud83d\udcda",
   "act_event": [
     "Tamara Taylor",
-    "\u601d\u8003",
-    "\u6545\u4e8b\u6784\u601d"
+    "\u521b\u4f5c",
+    "\u6545\u4e8b\u7684\u7b2c\u4e8c\u7ae0\u8282"
   ],
-  "act_obj_description": "\u5728\u4f7f\u7528",
-  "act_obj_pronunciatio": "\ud83d\udcbb",
+  "act_obj_description": "\u521b\u9020\u6545\u4e8b\u7684\u7b2c\u4e8c\u7ae0",
+  "act_obj_pronunciatio": "\ud83d\udca1",
   "act_obj_event": [
-    "\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
-    "\u4f7f\u7528",
-    "\u4f7f\u7528"
+    "\u6742\u8d27\u5e97\u67dc\u53f0",
+    "\u521b\u9020",
+    "\u6545\u4e8b\u7684\u7b2c\u4e8c\u7ae0"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Jennifer Moore": 758
+    "Jennifer Moore": 73,
+    "Carmen Ortiz": 181,
+    "Tom Moreno": 277
   },
   "chatting_end_time": null,
   "act_path_set": true,

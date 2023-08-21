@@ -2,9 +2,9 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 07:09:50",
+  "curr_time": "February 13, 2023, 09:04:00",
   "curr_tile": [
-    25,
+    26,
     18
   ],
   "daily_plan_req": "",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 237,
-  "importance_ele_n": 7,
+  "importance_trigger_curr": 231,
+  "importance_ele_n": 9,
   "thought_count": 5,
   "daily_req": [
     "\u57289:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -75,8 +75,52 @@
       15
     ],
     [
-      "\u753b\u753b",
-      120
+      "\u753b\u753b (\u8bbe\u7acb\u753b\u753b\u7684\u5de5\u4f5c\u533a\u57df)",
+      5
+    ],
+    [
+      "\u753b\u753b (Rajiv\u5728\u9009\u62e9\u8981\u4f7f\u7528\u7684\u753b\u7b14\u548c\u989c\u6599)",
+      10
+    ],
+    [
+      "\u753b\u753b (Rajiv\u5728\u9009\u62e9\u8981\u7ed8\u5236\u7684\u4e3b\u9898\u6216\u666f\u8272)",
+      10
+    ],
+    [
+      "\u753b\u753b (Rajiv\u5728\u786e\u5b9a\u753b\u5e03\u7684\u5c3a\u5bf8\u548c\u5f62\u72b6)",
+      5
+    ],
+    [
+      "\u753b\u753b (Rajiv\u5728\u753b\u753b)",
+      20
+    ],
+    [
+      "\u753b\u753b (Rajiv\u5728\u6da6\u9970\u7ec6\u8282\u548c\u6dfb\u52a0\u9634\u5f71\u548c\u5149\u7ebf)",
+      15
+    ],
+    [
+      "\u753b\u753b (Rajiv\u5728\u8bc4\u4f30\u753b\u4f5c\u7684\u8fdb\u5c55\u548c\u8fdb\u884c\u4fee\u6539)",
+      10
+    ],
+    [
+      "\u753b\u753b (Rajiv\u5728\u4e3a\u753b\u4f5c\u9009\u62e9\u5408\u9002\u7684\u753b\u6846)",
+      10
+    ],
+    [
+      "\u753b\u753b (Rajiv\u5728\u7b7e\u540d\u5e76\u5b8c\u6210\u753b\u4f5c)",
+      10
+    ],
+    [
+      "\u753b\u753b () Rajiv\u5728\u6e05\u7406\u548c\u6574\u7406\u753b\u753b\u5de5\u5177)",
+      10
+    ],
+    [
+      "\u753b\u753b () Rajiv\u5728\u6b23\u8d4f\u4ed6\u521a\u5b8c\u6210\u7684\u4f5c\u54c1)",
+      10
+    ],
+    [
+      "\u753b\u753b () Rajiv\u5728\u6574\u7406\u753b\u4f5c\u548c\u51c6\u5907\u4e0b\u4e00\u6b21\u4f5c\u753b)",
+      5
     ],
     [
       "\u5403\u5348\u9910",
@@ -117,6 +161,10 @@
     [
       "\u4f11\u606f\uff0c\u4f34\u968f\u97f3\u4e50\u6216\u9605\u8bfb",
       60
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ],
     [
       "\u7761\u89c9",
@@ -178,21 +226,21 @@
     ]
   ],
   "act_address": "\u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:Rajiv Patel\u7684\u623f\u95f4:\u5e8a",
-  "act_start_time": "February 13, 2023, 00:00:00",
-  "act_duration": 540,
-  "act_description": "\u7761\u89c9",
-  "act_pronunciatio": "\ud83d\ude34",
+  "act_start_time": "February 13, 2023, 09:00:00",
+  "act_duration": 5,
+  "act_description": "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u8d77\u5e8a\u5e76\u4f38\u4e2a\u61d2\u8170)",
+  "act_pronunciatio": "\ud83d\ude34\ud83d\udca4",
   "act_event": [
     "Rajiv Patel",
-    "\u662f",
-    "\u7761\u89c9"
+    "\u8d77\u5e8a\u5e76\u4f38\u61d2\u8170",
+    "None"
   ],
-  "act_obj_description": "\u4f7f\u7528",
-  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_description": "\u5728\u4f7f\u7528",
+  "act_obj_pronunciatio": "\ud83d\udcbb",
   "act_obj_event": [
     "\u5e8a",
     "\u4f7f\u7528",
-    "\u5e8a"
+    "None"
   ],
   "chatting_with": null,
   "chat": null,

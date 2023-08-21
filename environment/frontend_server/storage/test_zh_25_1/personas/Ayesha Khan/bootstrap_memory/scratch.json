@@ -2,9 +2,9 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 07:09:50",
+  "curr_time": "February 13, 2023, 09:04:00",
   "curr_tile": [
-    120,
+    119,
     45
   ],
   "daily_plan_req": "Ayesha Khan\u5728\u6a61\u6811\u5c71\u5b66\u9662\u7684\u56fe\u4e66\u9986\u4ece10am\u52302pm\u4e0a\u8bfe\uff0c\u7136\u540e\u5979\u5728\u56fe\u4e66\u9986\u5ea6\u8fc7\u5979\u7684\u65e5\u5b50\u5b66\u4e60\u3002",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 119,
-  "importance_ele_n": 79,
+  "importance_trigger_curr": 219,
+  "importance_ele_n": 8,
   "thought_count": 5,
   "daily_req": [
     "\u57286:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -111,8 +111,24 @@
       15
     ],
     [
-      "\u6668\u95f4\u953b\u70bc (Ayesha\u5728\u505a\u4fef\u5367\u6491)",
-      10
+      "\u6668\u95f4\u953b\u70bc (\u51c6\u5907\u51c6\u5907\u51c6\u5907\u51c6\u5907Ayesha\u5728\u505a\u4fef\u5367\u6491)",
+      0
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (\u5173\u4e8e\u5173\u4e8e\u65e9\u8d77\u953b\u70bc\u7684\u8ba8\u8bba)",
+      2
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (\u5173\u4e8eCarlos Gomez\u548cAyesha Khan\u8ba8\u8bba\u4e86\u65e9\u4e0a\u7684\u953b\u70bc\u548cAyesha Khan\u7684\u8ba1\u5212)",
+      1
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (\u5173\u4e8e\u5173\u4e8e\u521b\u9020\u529b\u548c\u5b83\u5728\u4e2a\u4eba\u548c\u793e\u4f1a\u53d1\u5c55\u4e2d\u7684\u91cd\u8981\u6027\u7684\u5bf9\u8bdd)",
+      1
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (\u5173\u4e8eFrancisco Lopez\u8ba1\u5212\u5728\u4ed6\u7684\u7f51\u7edc\u5267\u4e2d\u52a0\u5165\u4e00\u4e9b\u838e\u58eb\u6bd4\u4e9a\u620f\u5267\u5143\u7d20\u3002)",
+      2
     ],
     [
       "\u6668\u95f4\u953b\u70bc (Ayesha\u5728\u8fdb\u884c\u4ef0\u5367\u8d77\u5750)",
@@ -123,16 +139,76 @@
       10
     ],
     [
-      "\u6668\u95f4\u953b\u70bc (Ayesha\u5728\u505a\u6df1\u8e72)",
+      "\u6668\u95f4\u953b\u70bc (\u51c6\u5907Ayesha\u5728\u505a\u6df1\u8e72)",
+      0
+    ],
+    [
+      "\u6668\u95f4\u953b\u70bc (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8e\u7814\u7a76\u6210\u679c\u4ea4\u6d41\u7684\u5bf9\u8bdd)",
+      2
+    ],
+    [
+      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (\u9605\u8bfb\u76f8\u5173\u7684\u6587\u732e\u548c\u7814\u7a76\u8d44\u6599)",
+      10
+    ],
+    [
+      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (\u51c6\u5907\u51c6\u5907Ayesha\u5728\u6574\u7406\u7b14\u8bb0)",
+      0
+    ],
+    [
+      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8e\u838e\u58eb\u6bd4\u4e9a\u620f\u5267\u8bed\u8a00\u4f7f\u7528\u548c\u7ffb\u65b0\u5bf9\u4f4e\u6536\u5165\u793e\u533a\u5f71\u54cd\u7684\u5bf9\u8bdd\u3002)",
+      3
+    ],
+    [
+      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (\u5173\u4e8e\u5173\u4e8e\u838e\u58eb\u6bd4\u4e9a\u620f\u5267\u4e2d\u7684\u8bed\u8a00\u4f7f\u7528\u7684\u8ba8\u8bba)",
+      4
+    ],
+    [
+      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (Ayesha\u5728\u67e5\u627e\u5f15\u7528\u548c\u53c2\u8003\u6587\u732e)",
+      10
+    ],
+    [
+      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (Ayesha\u5728\u8fdb\u884c\u5173\u952e\u8bcd\u641c\u7d22)",
+      10
+    ],
+    [
+      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (Ayesha\u5728\u9605\u8bfb\u548c\u6458\u8981\u6587\u7ae0)",
+      10
+    ],
+    [
+      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (Ayesha\u5728\u51c6\u5907\u4ece\u56fe\u4e66\u9986\u501f\u9605\u7684\u4e66\u7c4d\u6e05\u5355)",
+      10
+    ],
+    [
+      "\u4e0a\u8bfe (\u6574\u7406\u4e66\u5305\u548c\u5fc5\u9700\u7684\u5b66\u4e60\u6750\u6599)",
       5
     ],
     [
-      "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60",
-      60
+      "\u4e0a\u8bfe (Ayesha\u5728\u67e5\u627e\u76f8\u5173\u7814\u7a76\u6587\u732e)",
+      12
     ],
     [
-      "\u4e0a\u8bfe",
-      120
+      "\u4e0a\u8bfe (Ayesha\u5728\u9605\u8bfb\u548c\u6458\u5f55\u91cd\u8981\u4fe1\u606f)",
+      20
+    ],
+    [
+      "\u4e0a\u8bfe (Ayesha\u5728\u6574\u7406\u548c\u5f52\u6863\u6458\u5f55\u7684\u4fe1\u606f)",
+      10
+    ],
+    [
+      "\u4e0a\u8bfe (Ayesha\u5728\u601d\u8003\u548c\u8bb0\u5f55\u5979\u7684\u89c2\u70b9\u548c\u60f3\u6cd5)",
+      15
+    ],
+    [
+      "\u4e0a\u8bfe (Ayesha\u5728\u5206\u4eab\u548c\u8ba8\u8bba\u5979\u7684\u89c2\u70b9\u548c\u60f3\u6cd5)",
+      10
+    ],
+    [
+      "\u4e0a\u8bfe (Ayesha\u5728\u53c2\u4e0e\u5c0f\u7ec4\u6d3b\u52a8\u548c\u8ba8\u8bba)",
+      30
+    ],
+    [
+      "\u4e0a\u8bfe (Ayesha\u5728\u603b\u7ed3\u548c\u56de\u987e\u4eca\u5929\u7684\u8bfe\u7a0b)",
+      11
     ],
     [
       "\u56fe\u4e66\u9986\u5b66\u4e60",
@@ -209,6 +285,86 @@
     [
       "\u7761\u89c9",
       0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      8
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      3
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      6
     ],
     [
       "\u7761\u89c9",
@@ -277,27 +433,40 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:\u53a8\u623f:\u70e4\u9762\u5305\u673a",
-  "act_start_time": "February 13, 2023, 07:00:00",
+  "act_address": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:\u516c\u5171\u4f11\u606f\u5ba4:\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+  "act_start_time": "February 13, 2023, 09:02:00",
   "act_duration": 10,
-  "act_description": "\u65e9\u9910\u548c\u4e2a\u4eba\u62a4\u7406 (\u51c6\u5907\u65e9\u9910)",
-  "act_pronunciatio": "\ud83c\udf73\ud83e\udd50",
+  "act_description": "\u4e0a\u56fe\u4e66\u9986\u5b66\u4e60 (\u9605\u8bfb\u76f8\u5173\u7684\u6587\u732e\u548c\u7814\u7a76\u8d44\u6599)",
+  "act_pronunciatio": "\ud83d\udcda\ud83d\udca1",
   "act_event": [
     "Ayesha Khan",
-    "\u51c6\u5907",
-    "\u65e9\u9910"
+    "\u9605\u8bfb",
+    "\u6587\u732e\u548c\u7814\u7a76\u8d44\u6599"
   ],
   "act_obj_description": "\u5728\u4f7f\u7528",
-  "act_obj_pronunciatio": "\ud83d\udcbb",
+  "act_obj_pronunciatio": "\ud83d\ude4c\ud83d\udc69\u200d",
   "act_obj_event": [
-    "\u70e4\u9762\u5305\u673a",
+    "\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
     "\u4f7f\u7528",
-    "None"
+    "\u4f7f\u7528"
   ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Francisco Lopez": 521,
+    "Adam Smith": 539,
+    "Carlos Gomez": 551,
+    "Latoya Williams": 563,
+    "Giorgio Rossi": 677,
+    "Wolfgang Schulz": 767,
+    "Klaus Mueller": 785
+  },
   "chatting_end_time": null,
   "act_path_set": true,
-  "planned_path": []
+  "planned_path": [
+    [
+      119,
+      49
+    ]
+  ]
 }

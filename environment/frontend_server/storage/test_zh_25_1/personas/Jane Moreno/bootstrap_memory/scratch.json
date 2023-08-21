@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 07:09:50",
+  "curr_time": "February 13, 2023, 09:04:00",
   "curr_tile": [
-    75,
-    66
+    78,
+    78
   ],
   "daily_plan_req": "",
   "name": "Jane Moreno",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 83,
-  "importance_ele_n": 58,
+  "importance_trigger_curr": 195,
+  "importance_ele_n": 22,
   "thought_count": 5,
   "daily_req": [
     "\u57286:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -123,8 +123,48 @@
       15
     ],
     [
-      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c",
-      180
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (\u6536\u96c6\u5e76\u5206\u62e3\u810f\u8863\u670d)",
+      10
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (Jane\u5728\u542f\u52a8\u6d17\u8863\u673a\u5e76\u5c06\u810f\u8863\u670d\u653e\u5165\u5176\u4e2d)",
+      5
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (Jane\u5728\u5f00\u59cb\u6e05\u6d01\u5ba2\u5385)",
+      20
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (Jane\u5728\u6e05\u6d01\u9910\u5385)",
+      15
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (Jane\u5728\u6574\u7406\u5367\u5ba4)",
+      25
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (Jane\u5728\u6e05\u6d01\u6d74\u5ba4)",
+      15
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (Jane\u5728\u6574\u7406\u6742\u7269)",
+      20
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (Jane\u5728\u6536\u62fe\u529e\u516c\u5ba4)",
+      30
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (Jane\u5728\u6253\u626b\u8d70\u5eca)",
+      10
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c () Jane\u5728\u6574\u7406\u9633\u53f0)",
+      15
+    ],
+    [
+      "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c () Jane\u5728\u6e05\u6d01\u53a8\u623f)",
+      15
     ],
     [
       "\u51c6\u5907\u5348\u9910",
@@ -197,6 +237,74 @@
     [
       "\u7761\u89c9",
       8
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -257,27 +365,27 @@
       60
     ]
   ],
-  "act_address": "\u5c0f\u9547:Moreno\u5bb6\u7684\u623f\u5b50:\u53a8\u623f:\u708a\u4e8b\u533a",
-  "act_start_time": "February 13, 2023, 07:09:00",
-  "act_duration": 15,
-  "act_description": "\u4e0e\u4e08\u592b\u4e00\u8d77\u5403\u65e9\u9910 (\u51c6\u5907\u65e9\u9910\u98df\u7269)",
-  "act_pronunciatio": "\ud83c\udf73\ud83c\udf5e",
+  "act_address": "\u5c0f\u9547:Moreno\u5bb6\u7684\u623f\u5b50:\u82b1\u56ed:\u623f\u5b50\u82b1\u56ed",
+  "act_start_time": "February 13, 2023, 08:54:00",
+  "act_duration": 10,
+  "act_description": "\u7ee7\u7eed\u5b8c\u6210\u5bb6\u52a1\u5de5\u4f5c (\u6536\u96c6\u5e76\u5206\u62e3\u810f\u8863\u670d)",
+  "act_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
   "act_event": [
     "Jane Moreno",
-    "\u51c6\u5907",
-    "\u65e9\u9910\u98df\u7269"
+    "\u6536\u96c6",
+    "\u810f\u8863\u670d"
   ],
-  "act_obj_description": "\u4f7f\u7528\u4e0e\u4e08\u592b\u4e00\u8d77\u5403\u65e9\u9910",
-  "act_obj_pronunciatio": "\ud83c\udf73\ud83d\udc6b",
+  "act_obj_description": "\u5728\u6536\u96c6\u5e76\u5206\u62e3\u810f\u8863\u670d",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
   "act_obj_event": [
-    "\u708a\u4e8b\u533a",
-    "\u4f7f\u7528",
-    "\u4e0e\u4e08\u592b\u4e00\u8d77\u5403\u65e9\u9910"
+    "\u623f\u5b50\u82b1\u56ed",
+    "\u6536\u96c6\u5e76\u5206\u62e3",
+    "\u810f\u8863\u670d"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Tom Moreno": 794
+    "Tom Moreno": 109
   },
   "chatting_end_time": null,
   "act_path_set": true,

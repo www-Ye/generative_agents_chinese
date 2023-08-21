@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 07:09:50",
+  "curr_time": "February 13, 2023, 09:04:00",
   "curr_tile": [
-    66,
-    19
+    67,
+    14
   ],
   "daily_plan_req": "",
   "name": "Ryan Park",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 240,
-  "importance_ele_n": 10,
+  "importance_trigger_curr": 229,
+  "importance_ele_n": 21,
   "thought_count": 5,
   "daily_req": [
     "\u57289:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
@@ -71,8 +71,40 @@
       15
     ],
     [
-      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6",
-      60
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (\u6253\u5f00\u7535\u5b50\u90ae\u4ef6\u5e94\u7528\u7a0b\u5e8f\u5e76\u767b\u5f55\u90ae\u7bb1)",
+      5
+    ],
+    [
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (Ryan\u5728\u68c0\u67e5\u6536\u4ef6\u7bb1\u4e2d\u7684\u65b0\u90ae\u4ef6)",
+      5
+    ],
+    [
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (Ryan\u5728\u56de\u590d\u4e00\u5c01\u91cd\u8981\u7684\u5de5\u4f5c\u90ae\u4ef6)",
+      10
+    ],
+    [
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (Ryan\u5728\u6807\u8bb0\u6765\u81ea\u91cd\u8981\u5ba2\u6237\u7684\u90ae\u4ef6)",
+      5
+    ],
+    [
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (Ryan\u5728\u5220\u9664\u5783\u573e\u90ae\u4ef6)",
+      5
+    ],
+    [
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (Ryan\u5728\u5f52\u6863\u5df2\u7ecf\u5904\u7406\u7684\u90ae\u4ef6)",
+      5
+    ],
+    [
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (Ryan\u5728\u67e5\u770b\u65e5\u7a0b\u5b89\u6392\uff0c\u4ee5\u786e\u4fdd\u6ca1\u6709\u91cd\u8981\u4f1a\u8bae\u6216\u671f\u9650)",
+      5
+    ],
+    [
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (Ryan\u5728\u56de\u590d\u5176\u4ed6\u91cd\u8981\u90ae\u4ef6)",
+      10
+    ],
+    [
+      "\u67e5\u770b\u548c\u56de\u590d\u7535\u5b50\u90ae\u4ef6 (Ryan\u5728\u521b\u5efa\u5f85\u529e\u4e8b\u9879\u6e05\u5355\uff0c\u5e76\u5c06\u91cd\u8981\u7684\u4efb\u52a1\u6dfb\u52a0\u5230\u6e05\u5355\u4e2d)",
+      10
     ],
     [
       "\u9605\u8bfb\u6700\u65b0\u7684\u6280\u672f\u8d44\u6599",
@@ -105,6 +137,10 @@
     [
       "\u4f11\u606f\u5e76\u51c6\u5907\u7761\u89c9",
       180
+    ],
+    [
+      "\u7761\u89c9",
+      0
     ],
     [
       "\u7761\u89c9",
@@ -157,22 +193,22 @@
       180
     ]
   ],
-  "act_address": "\u5c0f\u9547:Ryan Park\u7684\u516c\u5bd3:\u4e3b\u623f\u95f4:\u5e8a",
-  "act_start_time": "February 13, 2023, 00:00:00",
-  "act_duration": 540,
-  "act_description": "\u7761\u89c9",
-  "act_pronunciatio": "\ud83d\udca4",
+  "act_address": "\u5c0f\u9547:Ryan Park\u7684\u516c\u5bd3:\u6d74\u5ba4:\u6d74\u5ba4\u6d17\u624b\u6c60",
+  "act_start_time": "February 13, 2023, 09:00:00",
+  "act_duration": 5,
+  "act_description": "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u5237\u7259)",
+  "act_pronunciatio": "\ud83d\udeb0\ud83e\uddb7",
   "act_event": [
     "Ryan Park",
-    "\u662f",
-    "\u7761\u89c9"
+    "\u5237",
+    "\u7259"
   ],
-  "act_obj_description": "\u5728\u4f7f\u7528",
-  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_description": "\u7a7a\u95f2",
+  "act_obj_pronunciatio": "\ud83d\ude10",
   "act_obj_event": [
-    "\u5e8a",
-    "\u4f7f\u7528",
-    "\u5e8a"
+    "\u6d74\u5ba4\u6d17\u624b\u6c60",
+    "\u662f",
+    "\u7a7a\u95f2"
   ],
   "chatting_with": null,
   "chat": null,
