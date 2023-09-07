@@ -1,0 +1,506 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:03:50",
+  "curr_tile": [
+    88,
+    54
+  ],
+  "daily_plan_req": "Carmen\u6bcf\u59298am\u5f00\u542f\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\uff0c\u7ad9\u5728\u67dc\u53f0\u540e\u9762\uff0c\u5e76\u57286pm\u5173\u95ed\u95e8\u5e97\uff0c\u7136\u540e\u5979\u559c\u6b22\u53bb\u73ab\u7470\u7687\u51a0\u9152\u5427\u653e\u677e\u3002",
+  "name": "Carmen Ortiz",
+  "first_name": "Carmen",
+  "last_name": "Ortiz",
+  "age": 33,
+  "innate": "\u53cb\u597d\u7684\uff0c\u5916\u5411\u7684\uff0c\u4e50\u4e8e\u52a9\u4eba\u7684",
+  "learned": "Carmen Ortiz\u5728\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u505a\u5e97\u4e3b\uff0c\u5979\u559c\u6b22\u5e2e\u52a9\u4eba\u4eec\u627e\u5230\u4ed6\u4eec\u9700\u8981\u7684\u6742\u8d27\u3002\u5979\u603b\u662f\u5728\u627e\u9014\u5f84\u4f7f\u987e\u5ba2\u611f\u5230\u53d7\u6b22\u8fce\u3002",
+  "currently": "Carmen Ortiz\u5728\u7ba1\u7406\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\uff0c\u5e76\u4e0e\u5979\u7684\u5ba4\u53cbTamara Taylor\u4e00\u8d77\u751f\u6d3b\u3002\u5979\u4e5f\u5728\u52aa\u529b\u628a\u81ea\u5df1\u7684\u5546\u5e97\u6269\u5c55\u81f3\u7f51\u7edc\u4e0a\u3002",
+  "lifestyle": "Carmen Ortiz\u5728\u5927\u7ea611pm\u5de6\u53f3\u4e0a\u5e8a\u7761\u89c9\uff0c\u5927\u7ea6\u57287am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57288pm\u5de6\u53f3\u5403\u665a\u996d\u3002",
+  "living_area": "\u5c0f\u9547:Tamara Taylor\u548cCarmen Ortiz\u7684\u623f\u5b50:Carmen Ortiz\u7684\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 199,
+  "importance_ele_n": 17,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (\u8d77\u5e8a\u5e76\u6d17\u6f31)",
+      5
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u51c6\u5907\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u5582\u517b\u5ba0\u7269\u72d7)",
+      5
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (\u51c6\u5907Carmen\u5728\u7ed9\u690d\u7269\u6d47\u6c34)",
+      0
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (\u5173\u4e8e\u8ba8\u8bba\u4e86\u4e00\u672c\u5173\u4e8e\u4e00\u53ea\u5c0f\u72d7\u5192\u9669\u7684\u6545\u4e8b)",
+      2
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u6e05\u6d01\u536b\u751f\u95f4)",
+      10
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u6536\u62fe\u5367\u5ba4)",
+      10
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1 (Carmen\u5728\u67e5\u770b\u624b\u673a\u548c\u56de\u590d\u6d88\u606f)",
+      15
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (\u6574\u7406\u5e97\u5185\u8d27\u7269\u6446\u653e)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u68c0\u67e5\u8d27\u7269\u5e93\u5b58)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (\u51c6\u5907Carmen\u5728\u8865\u5145\u8d27\u7269\uff0c\u5c06\u9700\u8981\u7684\u5546\u54c1\u653e\u5728\u5408\u9002\u7684\u4f4d\u7f6e)",
+      0
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (\u5173\u4e8e\u5173\u4e8e\u68c0\u67e5\u8d27\u7269\u5e93\u5b58\u7684\u5bf9\u8bdd)",
+      1
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u6574\u7406\u5e76\u6e05\u7406\u67dc\u53f0\u548c\u6536\u94f6\u673a)",
+      10
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u5907\u8d27\u65f6\u68c0\u67e5\u5e76\u6574\u7406\u524d\u4e00\u5929\u7684\u9500\u552e\u548c\u5e93\u5b58\u8bb0\u5f55)",
+      10
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (\u51c6\u5907Carmen\u68c0\u67e5\u548c\u51c6\u5907\u5e97\u5185\u5783\u573e\u6876\u548c\u56de\u6536\u7bb1)",
+      0
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (\u5173\u4e8e\u8fd9\u662f\u5173\u4e8e\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u8fdb\u5c55\u7684\u5bf9\u8bdd)",
+      3
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (\u51c6\u5907Carmen\u5728\u5e97\u94fa\u5916\u6e05\u7406\u7a97\u6237\u548c\u95e8)",
+      0
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (\u5173\u4e8e\u5173\u4e8eLatoya Williams\u5e2e\u52a9Carmen Ortiz\u6574\u7406\u5e76\u6e05\u7406\u67dc\u53f0\u548c\u6536\u94f6\u673a\u7684\u5bf9\u8bdd)",
+      1
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u68c0\u67e5\u5e97\u94fa\u5916\u7684\u6807\u8bc6\u548c\u5e7f\u544a\u724c\uff0c\u786e\u4fdd\u5b83\u4eec\u6e05\u6670\u53ef\u89c1)",
+      5
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269 (Carmen\u5728\u6574\u7406\u548c\u51c6\u5907\u5e97\u5185\u97f3\u54cd\u7cfb\u7edf\uff0c\u786e\u4fdd\u97f3\u4e50\u6b63\u5e38\u64ad\u653e)",
+      5
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27 (\u6574\u7406\u8d27\u7269\uff0c\u786e\u4fdd\u8d27\u67b6\u4e0a\u7684\u5546\u54c1\u5145\u8db3\u548c\u6709\u5e8f)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27 (Carmen\u5728\u4e0e\u4e00\u4f4d\u987e\u5ba2\u4ea4\u8c08\uff0c\u4e86\u89e3\u4ed6\u4eec\u9700\u8981\u7684\u6742\u8d27)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27 (Carmen\u5728\u5f15\u5bfc\u987e\u5ba2\u5230\u6240\u9700\u5546\u54c1\u6240\u5728\u7684\u8d27\u67b6)",
+      5
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27 (Carmen\u5728\u89e3\u7b54\u987e\u5ba2\u5bf9\u5546\u54c1\u7684\u7591\u95ee)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27 (Carmen\u5728\u5bfb\u627e\u5546\u54c1\uff0c\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27)",
+      15
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27 (Carmen\u5728\u7ed3\u7b97\u987e\u5ba2\u9700\u6c42\uff0c\u5e76\u4e3a\u4ed6\u4eec\u627e\u5230\u6700\u5408\u9002\u7684\u5546\u54c1)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6 (\u63a5\u6536\u65b0\u8d27\u7269\uff0c\u5e76\u68c0\u67e5\u8d27\u7269\u7684\u6570\u91cf\u548c\u8d28\u91cf)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6 (Carmen\u5728\u5c06\u65b0\u8d27\u7269\u653e\u5165\u9002\u5f53\u7684\u8d27\u67b6\u4e0a)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6 (Carmen\u5728\u68c0\u67e5\u73b0\u6709\u8d27\u7269\u662f\u5426\u9700\u8981\u8865\u8d27)",
+      5
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6 (Carmen\u5728\u4ece\u4ed3\u5e93\u4e2d\u53d6\u51fa\u9700\u8981\u7684\u8d27\u7269)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6 (Carmen\u5728\u4e3a\u8d27\u7269\u6dfb\u52a0\u4ef7\u683c\u6807\u7b7e)",
+      5
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6 (Carmen\u5728\u5c06\u8d27\u7269\u653e\u56de\u8d27\u67b6\u4e0a\uff0c\u5e76\u4fdd\u6301\u8d27\u67b6\u7684\u6574\u6d01)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6 (Carmen\u5728\u56de\u987e\u5b58\u8d27\u8bb0\u5f55\uff0c\u786e\u8ba4\u6240\u6709\u8d27\u7269\u90fd\u5df2\u6b63\u786e\u6446\u653e)",
+      10
+    ],
+    [
+      "\u5e97\u91cc\u63a5\u5f85\u987e\u5ba2",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u63a5\u5f85\u987e\u5ba2\u5e76\u63a8\u9500\u7279\u522b\u5546\u54c1",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u7ee7\u7eed\u5de5\u4f5c",
+      120
+    ],
+    [
+      "\u5e97\u91cc\u6e05\u7406\u548c\u6574\u7406\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u4e2d\u6536\u62fe\u548c\u6574\u7406\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5173\u95ed\u5e97\u94fa\uff0c\u7ed3\u675f\u4e00\u5929\u7684\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u73ab\u7470\u7687\u51a0\u9152\u5427\u653e\u677e",
+      180
+    ],
+    [
+      "\u7761\u89c9",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5de5\u4f5c\u5b8c\u6210\u5e76\u51c6\u5907\u7761\u89c9",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      3
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      9
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      2
+    ],
+    [
+      "\u7761\u89c9",
+      4
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u51c6\u5907\u5f00\u5e97\uff0c\u68c0\u67e5\u548c\u8865\u5145\u8d27\u7269",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u7ba1\u7406\u8d27\u7269\u7684\u5e93\u5b58\uff0c\u5e76\u91cd\u65b0\u6446\u653e\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u63a5\u5f85\u987e\u5ba2",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u63a5\u5f85\u987e\u5ba2\u5e76\u63a8\u9500\u7279\u522b\u5546\u54c1",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u5e97\u91cc\u7ee7\u7eed\u5de5\u4f5c",
+      120
+    ],
+    [
+      "\u5e97\u91cc\u6e05\u7406\u548c\u6574\u7406\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u4e2d\u6536\u62fe\u548c\u6574\u7406\u8d27\u67b6",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5173\u95ed\u5e97\u94fa\uff0c\u7ed3\u675f\u4e00\u5929\u7684\u5de5\u4f5c",
+      60
+    ],
+    [
+      "\u73ab\u7470\u7687\u51a0\u9152\u5427\u653e\u677e",
+      180
+    ],
+    [
+      "\u7761\u89c9",
+      60
+    ],
+    [
+      "\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97\u5de5\u4f5c\u5b8c\u6210\u5e76\u51c6\u5907\u7761\u89c9",
+      60
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:\u54c8\u7ef4\u6a61\u6811\u4f9b\u5e94\u5e97:\u4f9b\u5e94\u5e97:\u4f9b\u5e94\u5e97\u4ea7\u54c1\u8d27\u67b6",
+  "act_start_time": "February 13, 2023, 09:02:00",
+  "act_duration": 5,
+  "act_description": "\u5e97\u91cc\u5e2e\u52a9\u987e\u5ba2\u627e\u5230\u6240\u9700\u7684\u6742\u8d27 (Carmen\u5728\u5f15\u5bfc\u987e\u5ba2\u5230\u6240\u9700\u5546\u54c1\u6240\u5728\u7684\u8d27\u67b6)",
+  "act_pronunciatio": "\ud83d\ude4b\u200d\u2640",
+  "act_event": [
+    "Carmen Ortiz",
+    "\u5f15\u5bfc",
+    "Carmen\u5728\u5f15\u5bfc\u987e\u5ba2\u5230\u6240\u9700\u5546\u54c1\u6240\u5728\u7684\u8d27\u67b6"
+  ],
+  "act_obj_description": "\u5728\u7ef4\u62a4",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_event": [
+    "\u4f9b\u5e94\u5e97\u4ea7\u54c1\u8d27\u67b6",
+    "\u7ef4\u62a4",
+    "\u5728"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tamara Taylor": 181,
+    "Tom Moreno": 445,
+    "Yuriko Yamamoto": 554,
+    "Latoya Williams": 590
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      88,
+      56
+    ],
+    [
+      87,
+      56
+    ],
+    [
+      86,
+      56
+    ],
+    [
+      85,
+      56
+    ],
+    [
+      84,
+      56
+    ],
+    [
+      83,
+      56
+    ],
+    [
+      82,
+      56
+    ],
+    [
+      81,
+      56
+    ],
+    [
+      80,
+      56
+    ],
+    [
+      79,
+      56
+    ],
+    [
+      78,
+      56
+    ],
+    [
+      77,
+      56
+    ],
+    [
+      76,
+      56
+    ],
+    [
+      75,
+      56
+    ],
+    [
+      74,
+      56
+    ],
+    [
+      73,
+      56
+    ],
+    [
+      72,
+      56
+    ],
+    [
+      71,
+      56
+    ],
+    [
+      70,
+      56
+    ],
+    [
+      69,
+      56
+    ],
+    [
+      68,
+      56
+    ],
+    [
+      67,
+      56
+    ],
+    [
+      67,
+      55
+    ],
+    [
+      67,
+      54
+    ],
+    [
+      67,
+      53
+    ],
+    [
+      66,
+      53
+    ],
+    [
+      65,
+      53
+    ],
+    [
+      64,
+      53
+    ],
+    [
+      63,
+      53
+    ],
+    [
+      62,
+      53
+    ],
+    [
+      62,
+      52
+    ]
+  ]
+}

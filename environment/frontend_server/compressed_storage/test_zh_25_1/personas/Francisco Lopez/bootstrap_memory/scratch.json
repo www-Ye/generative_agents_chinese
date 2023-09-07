@@ -1,0 +1,358 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:04:00",
+  "curr_tile": [
+    51,
+    36
+  ],
+  "daily_plan_req": "",
+  "name": "Francisco Lopez",
+  "first_name": "Francisco",
+  "last_name": "Lopez",
+  "age": 23,
+  "innate": "\u5916\u5411\u7684\uff0c\u53cb\u597d\u7684\uff0c\u8bda\u5b9e\u7684",
+  "learned": "Francisco Lopez\u662f\u4e00\u540d\u6f14\u5458\u548c\u559c\u5267\u5bb6\uff0c\u4ed6\u70ed\u7231\u5a31\u4e50\u4ed6\u4eba\u3002\u4ed6\u603b\u5728\u5bfb\u627e\u65b0\u7684\u65b9\u5f0f\u8ba9\u4eba\u4eec\u5f00\u5fc3\u5927\u7b11\u3002",
+  "currently": "Francisco Lopez\u6b63\u5728\u5236\u4f5c\u4e00\u90e8\u5173\u4e8e\u5408\u79df\u516c\u5bd3\u751f\u6d3b\u7684\u7f51\u7edc\u5267\u7cfb\u5217\u3002\u4ed6\u4e5f\u5728\u63a2\u7d22\u5373\u5174\u559c\u5267\u8bfe\u7a0b\u3002",
+  "lifestyle": "Francisco Lopez\u5927\u7ea6\u572811pm\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57287am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57286pm\u5de6\u53f3\u5403\u665a\u9910\u3002",
+  "living_area": "\u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:Francisco Lopez\u7684\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 209,
+  "importance_ele_n": 9,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57287:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+    "\u57288:00 am\u5f00\u59cb\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217",
+    "\u572812:00 pm\u5403\u5348\u996d",
+    "\u7ee7\u7eed\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217\u76f4\u52306:00 pm",
+    "\u5403\u665a\u9910\u5e76\u653e\u677e\u4e00\u4e0b",
+    "\u572810:00 pm\u5f00\u59cb\u63a2\u7d22\u5373\u5174\u559c\u5267\u8bfe\u7a0b"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u6d17\u6f31\u548c\u5237\u7259)",
+      5
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Francisco\u5728\u51c6\u5907\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u51c6\u5907Francisco\u5728\u9605\u8bfb\u65e9\u62a5)",
+      0
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u5173\u4e8e\u5173\u4e8e\u521b\u4f5c\u7684\u89c1\u9762\u5b89\u6392)",
+      3
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u51c6\u5907Francisco\u5728\u67e5\u770b\u793e\u4ea4\u5a92\u4f53\u548c\u56de\u590d\u6d88\u606f)",
+      0
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8eJennifer\u51c6\u5907\u5c55\u89c8\u7684\u5bf9\u8bdd)",
+      1
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Francisco\u5728\u56de\u590d\u7535\u5b50\u90ae\u4ef6\u548c\u5904\u7406\u5de5\u4f5c\u4e8b\u9879)",
+      20
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (\u51c6\u5907\u6574\u7406\u62cd\u6444\u573a\u5730)",
+      0
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8eFrancisco\u5236\u4f5c\u4e00\u90e8\u5173\u4e8e\u5408\u79df\u516c\u5bd3\u751f\u6d3b\u7684\u7f51\u7edc\u5267\u7cfb\u5217\u7684\u5bf9\u8bdd\u3002)",
+      3
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (Francisco\u5728\u4e0e\u5267\u7ec4\u8ba8\u8bba\u5267\u672c\u7ec6\u8282)",
+      20
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (Francisco\u5728\u4e0e\u6f14\u5458\u6392\u7ec3\u573a\u666f)",
+      30
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (\u51c6\u5907\u51c6\u5907\u51c6\u5907Francisco\u5728\u62cd\u6444\u5267\u96c6\u7684\u7b2c\u4e00\u573a\u666f)",
+      0
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (\u5173\u4e8eFrancisco Lopez\u8ba1\u5212\u5728\u4ed6\u7684\u7f51\u7edc\u5267\u4e2d\u52a0\u5165\u4e00\u4e9b\u838e\u58eb\u6bd4\u4e9a\u620f\u5267\u5143\u7d20\u3002)",
+      2
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (\u5173\u4e8e\u5173\u4e8e\u975e\u5904\u65b9\u836f\u7684\u5bf9\u8bdd)",
+      4
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (\u5173\u4e8e\u5173\u4e8eAbigail\u7684\u4e92\u52a8\u827a\u672f\u9879\u76ee\u7684\u60f3\u6cd5\u7684\u8ba8\u8bba)",
+      4
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (Francisco\u5728\u68c0\u67e5\u6444\u5f71\u5668\u6750\u548c\u5149\u7ebf\u8bbe\u7f6e)",
+      10
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (Francisco\u548c\u5267\u7ec4\u6210\u5458\u5728\u62cd\u6444\u671f\u95f4\u4f11\u606f)",
+      15
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (\u51c6\u5907Francisco\u5728\u62cd\u6444\u5267\u96c6\u7684\u7b2c\u4e8c\u573a\u666f)",
+      0
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (\u5173\u4e8e\u5173\u4e8e\u7a0e\u6536\u5408\u89c4\u9879\u76ee\u548c\u7f51\u7edc\u5267\u4e2d\u52a0\u5165\u7a0e\u6536\u5408\u89c4\u60c5\u8282\u7684\u8ba8\u8bba)",
+      4
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (Francisco\u5728\u67e5\u770b\u62cd\u6444\u7d20\u6750)",
+      20
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (Francisco\u5728\u4e0e\u5267\u7ec4\u5546\u8ba8\u4e0b\u4e00\u573a\u666f\u7684\u62cd\u6444\u8ba1\u5212)",
+      25
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 () Francisco\u5728\u5b89\u6392\u6f14\u5458\u548c\u5267\u7ec4\u6210\u5458\u7684\u884c\u7a0b)",
+      10
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 () Francisco\u5728\u4e3a\u4e0b\u4e00\u573a\u666f\u505a\u51c6\u5907)",
+      10
+    ],
+    [
+      "\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217",
+      54
+    ],
+    [
+      "\u63a2\u7d22\u5373\u5174\u559c\u5267\u8bfe\u7a0b",
+      60
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217",
+      60
+    ],
+    [
+      "\u653e\u677e\u4e00\u4e0b",
+      180
+    ],
+    [
+      "\u5403\u665a\u9910",
+      60
+    ],
+    [
+      "\u8fdb\u884c\u5373\u5174\u559c\u5267\u8bfe\u7a0b",
+      60
+    ],
+    [
+      "\u63a2\u7d22\u5373\u5174\u559c\u5267\u8bfe\u7a0b",
+      180
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      7
+    ],
+    [
+      "\u7761\u89c9",
+      14
+    ],
+    [
+      "\u7761\u89c9",
+      12
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      41
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      36
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      420
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217",
+      240
+    ],
+    [
+      "\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217",
+      60
+    ],
+    [
+      "\u63a2\u7d22\u5373\u5174\u559c\u5267\u8bfe\u7a0b",
+      60
+    ],
+    [
+      "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217",
+      60
+    ],
+    [
+      "\u653e\u677e\u4e00\u4e0b",
+      180
+    ],
+    [
+      "\u5403\u665a\u9910",
+      60
+    ],
+    [
+      "\u8fdb\u884c\u5373\u5174\u559c\u5267\u8bfe\u7a0b",
+      60
+    ],
+    [
+      "\u63a2\u7d22\u5373\u5174\u559c\u5267\u8bfe\u7a0b",
+      180
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:\u827a\u672f\u5bb6\u5408\u79df\u516c\u5bd3:\u516c\u5171\u4f11\u606f\u5ba4:\u516c\u5171\u4f11\u606f\u5ba4\u6c99\u53d1",
+  "act_start_time": "February 13, 2023, 08:58:00",
+  "act_duration": 15,
+  "act_description": "\u5236\u4f5c\u7f51\u7edc\u5267\u7cfb\u5217 (Francisco\u548c\u5267\u7ec4\u6210\u5458\u5728\u62cd\u6444\u671f\u95f4\u4f11\u606f)",
+  "act_pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udc86",
+  "act_event": [
+    "Francisco Lopez",
+    "\u4f11\u606f",
+    "Francisco\u548c\u5267\u7ec4\u6210\u5458"
+  ],
+  "act_obj_description": "\u5728\u4f7f\u7528",
+  "act_obj_pronunciatio": "\ud83d\udcf1\ud83d\udcbb",
+  "act_obj_event": [
+    "\u516c\u5171\u4f11\u606f\u5ba4\u6c99\u53d1",
+    "\u4f7f\u7528",
+    "\u4f7f\u7528"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Latoya Williams": 112,
+    "Jennifer Moore": 142,
+    "Adam Smith": 172,
+    "Abigail Chen": 443,
+    "John Lin": 503,
+    "Ayesha Khan": 521,
+    "Yuriko Yamamoto": 761
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      47,
+      36
+    ],
+    [
+      46,
+      36
+    ],
+    [
+      45,
+      36
+    ],
+    [
+      44,
+      36
+    ],
+    [
+      43,
+      36
+    ],
+    [
+      42,
+      36
+    ],
+    [
+      41,
+      36
+    ],
+    [
+      41,
+      35
+    ],
+    [
+      41,
+      34
+    ],
+    [
+      40,
+      34
+    ],
+    [
+      39,
+      34
+    ],
+    [
+      38,
+      34
+    ],
+    [
+      38,
+      33
+    ],
+    [
+      37,
+      33
+    ],
+    [
+      36,
+      33
+    ]
+  ]
+}

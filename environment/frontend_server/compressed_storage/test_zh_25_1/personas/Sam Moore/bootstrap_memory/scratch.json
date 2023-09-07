@@ -1,0 +1,657 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:03:50",
+  "curr_tile": [
+    41,
+    33
+  ],
+  "daily_plan_req": "Sam Moore\u559c\u6b22\u5728\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65\uff0c\u5e76\u5750\u5728\u970d\u5e03\u65af\u5496\u5561\u5e97\u9605\u8bfb\u3002",
+  "name": "Sam Moore",
+  "first_name": "Sam",
+  "last_name": "Moore",
+  "age": 65,
+  "innate": "\u5177\u6709\u667a\u6167\uff0c\u8db3\u667a\u591a\u8c0b\uff0c\u5bcc\u6709\u5e7d\u9ed8\u611f",
+  "learned": "Sam Moore\u662f\u4e00\u540d\u9000\u5f79\u6d77\u519b\u519b\u5b98\uff0c\u4ed6\u559c\u6b22\u5206\u4eab\u4ed6\u5728\u519b\u961f\u4e2d\u7684\u6545\u4e8b\u3002\u4ed6\u603b\u662f\u6ee1\u8f7d\u7740\u6709\u8da3\u7684\u6545\u4e8b\u548c\u5efa\u8bae\u3002",
+  "currently": "Sam Moore\u548c\u4ed6\u7684\u59bb\u5b50Jennifer Moore\u5171\u5ea6\u4e8640\u5e74\u7684\u5a5a\u59fb\u751f\u6d3b\uff0c\u4ed6\u7684\u7a7a\u95f2\u65f6\u95f4\uff0c\u4ed6\u559c\u6b22\u7167\u987e\u516c\u56ed\u5e76\u70ed\u8877\u4e8e\u9605\u8bfb\u3002Sam\u6b63\u8ba1\u5212\u5728\u5373\u5c06\u5230\u6765\u7684\u9009\u4e3e\u4e2d\u7ade\u9009\u672c\u5730\u5e02\u957f\uff0c\u4ed6\u6b63\u5728\u544a\u8bc9\u4ed6\u7684\u90bb\u5c45\u8fd9\u4e2a\u8ba1\u5212\u3002",
+  "lifestyle": "Sam Moore\u5927\u7ea6\u57289pm\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57285am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57285pm\u5de6\u53f3\u5403\u665a\u9910\u3002",
+  "living_area": "\u5c0f\u9547:Moore\u5bb6\u7684\u623f\u5b50:\u4e3b\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 184,
+  "importance_ele_n": 13,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57285:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+    "\u5728\u65e9\u6668\u7684\u65f6\u95f4\u91cc\uff0cSam\u4f1a\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8",
+    "\u57287:00 am\u52308:30 am\u671f\u95f4\uff0cSam\u4f1a\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65",
+    "\u57288:30 am\u8fd4\u56de\u5bb6\u4e2d\uff0c\u5e76\u5f00\u59cb\u505a\u4e00\u4e9b\u5bb6\u52a1",
+    "\u572812:00 pm\u5de6\u53f3\uff0cSam\u4f1a\u5403\u5348\u996d\uff0c\u901a\u5e38\u662f\u4e00\u4e2a\u8f7b\u4fbf\u4f46\u8425\u517b\u5747\u8861\u7684\u9910\u70b9",
+    "\u4e0b\u5348\uff0c\u4ed6\u4f1a\u7ee7\u7eed\u9605\u8bfb\uff0c\u5e76\u53ef\u80fd\u4e0e\u59bb\u5b50\u4ea4\u8c08",
+    "\u57285:00 pm\u5de6\u53f3\uff0cSam\u4f1a\u51c6\u5907\u665a\u9910\uff0c\u5e76\u54c1\u5c1d\u4ed6\u548cJennifer\u4e00\u8d77\u51c6\u5907\u7684\u7f8e\u98df"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      300
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u51c6\u5907\u5237\u7259)",
+      5
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u51c6\u5907Sam\u5728\u6d17\u8138)",
+      0
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u5173\u4e8e\u5173\u4e8eSam Moore\u53c2\u52a0\u5e02\u957f\u9009\u4e3e\u7684\u4e89\u8bba)",
+      3
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Sam\u5728\u6d17\u6fa1)",
+      10
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Sam\u5728\u6d17\u5934)",
+      10
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Sam\u5728\u6d17\u8eab\u4f53)",
+      10
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Sam\u5728\u522e\u80e1\u5b50)",
+      10
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Sam\u5728\u7a7f\u8863\u670d)",
+      5
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Sam\u5728\u6536\u62fe\u65e9\u9910\u684c)",
+      5
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed (\u51c6\u5907\u4e00\u676f\u5496\u5561)",
+      5
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[ (\u51c6\u5907Sam\u5728\u6253\u5f00\u7535\u89c6\u5e76\u6536\u770b\u65b0\u95fb)",
+      0
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[ (\u5173\u4e8e\u5173\u4e8e\u53c2\u52a0\u672c\u5730\u5e02\u957f\u9009\u4e3e\u7684\u8ba8\u8bba)",
+      3
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed (Sam\u5728\u8bfb\u4e00\u4efd\u65e9\u62a5)",
+      10
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed (Sam\u5728\u56de\u590d\u4e00\u5c01\u7535\u5b50\u90ae\u4ef6)",
+      5
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed (Sam\u5728\u559d\u4e00\u53e3\u5496\u5561)",
+      5
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed (Sam\u5728\u6d4f\u89c8\u793e\u4ea4\u5a92\u4f53)",
+      15
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed (Sam\u5728\u5b8c\u6210\u5269\u4f59\u7684\u5496\u5561)",
+      10
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (\u5230\u8fbe\u7ea6\u7ff0\u900a\u516c\u56ed)",
+      5
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u6cbf\u7740\u516c\u56ed\u5c0f\u5f84\u6f2b\u6b65)",
+      10
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (\u51c6\u5907Sam\u5728\u6b23\u8d4f\u516c\u56ed\u7684\u82b1\u575b)",
+      0
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (\u5173\u4e8e\u4e24\u4e2a\u4eba\u5728\u516c\u56ed\u91cc\u804a\u5929\uff0c\u8c08\u8bba\u4e86\u4ed6\u4eec\u559c\u6b22\u7684\u6d3b\u52a8\u4ee5\u53ca\u63a8\u8350\u7684\u4e66\u7c4d\u3002)",
+      3
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u516c\u56ed\u7684\u6e56\u8fb9\u4f11\u606f)",
+      10
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u516c\u56ed\u91cc\u548c\u670b\u53cb\u4ea4\u8c08)",
+      10
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (\u51c6\u5907Sam\u5728\u63a2\u7d22\u516c\u56ed\u7684\u8ff7\u5bab)",
+      0
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (\u5173\u4e8e\u5173\u4e8eSam\u53c2\u9009\u672c\u5730\u5e02\u957f\u7684\u8ba8\u8bba)",
+      2
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u62cd\u6444\u516c\u56ed\u7684\u7167\u7247)",
+      5
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65 (Sam\u5728\u4ed4\u7ec6\u89c2\u5bdf\u516c\u56ed\u7684\u9e1f\u7c7b)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (\u6574\u7406\u5ba2\u5385)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6e05\u6d17\u53a8\u623f)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6574\u7406\u9910\u5385)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6d17\u8863\u670d)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6e05\u6d17\u6d74\u5ba4)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6536\u62fe\u5367\u5ba4)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u64e6\u6d17\u9633\u53f0)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6574\u7406\u8d70\u5eca)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 (Sam\u5728\u6574\u7406\u529e\u516c\u5ba4)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 () Sam\u5728\u62d6\u5730)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 () Sam\u5728\u6574\u7406\u6742\u7269)",
+      5
+    ],
+    [
+      "\u505a\u5bb6\u52a1 () Sam\u5728\u68c0\u67e5\u5bb6\u4e2d\u662f\u5426\u6709\u9700\u8981\u4fee\u7406\u7684\u5730\u65b9)",
+      5
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (\u6e05\u9664\u516c\u56ed\u4e2d\u7684\u5783\u573e)",
+      5
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (Sam\u5728\u4fee\u526a\u516c\u56ed\u4e2d\u7684\u82b1\u8349)",
+      10
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (\u51c6\u5907Sam\u5728\u68c0\u67e5\u5e76\u4fee\u590d\u516c\u56ed\u4e2d\u7684\u6e38\u4e50\u8bbe\u65bd)",
+      0
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (\u5173\u4e8e\u592b\u59bb\u5c31\u662f\u5426\u53c2\u9009\u5e02\u957f\u5c55\u5f00\u7684\u8ba8\u8bba\u3002)",
+      4
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (\u51c6\u5907Sam\u5728\u4fee\u590d\u516c\u56ed\u4e2d\u7684\u5f84\u8def)",
+      0
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (\u5173\u4e8eSam Moore\u6b63\u5728\u8003\u8651\u53c2\u52a0\u5373\u5c06\u5230\u6765\u7684\u5e02\u957f\u9009\u4e3e\uff0c\u8ba1\u5212\u6539\u5584\u793e\u533a\u7684\u57fa\u7840\u8bbe\u65bd\u5e76\u63d0\u4f9b\u66f4\u591a\u7684\u793e\u533a\u6d3b\u52a8\u548c\u8d44\u6e90\uff0cAdam Smith\u613f\u610f\u5e2e\u52a9\u4ed6\u5e76\u8fdb\u4e00\u6b65\u8ba8\u8bba\u652f\u6301\u548c\u8d44\u6e90\u7684\u4e8b\u5b9c\u3002)",
+      2
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (\u51c6\u5907Sam\u5728\u6d47\u6c34\u5e76\u4fee\u526a\u516c\u56ed\u4e2d\u7684\u6811\u6728)",
+      0
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (\u5173\u4e8e\u5173\u4e8eSam\u53c2\u9009\u5e02\u957f\u5e76\u6539\u5584\u793e\u533a\u57fa\u7840\u8bbe\u65bd\u548c\u63d0\u4f9b\u66f4\u591a\u793e\u533a\u6d3b\u52a8\u548c\u8d44\u6e90\u7684\u5bf9\u8bdd\u3002)",
+      3
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (Sam\u5728\u68c0\u67e5\u7eff\u5316\u5e26\u7684\u5065\u5eb7\u60c5\u51b5)",
+      10
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed (Sam\u5728\u6574\u7406\u516c\u56ed\u5ea7\u6905)",
+      5
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed\u7684\u82b1\u56ed\u548c\u690d\u7269 (\u68c0\u67e5\u516c\u56ed\u4e2d\u7684\u82b1\u513f\u548c\u690d\u7269)",
+      10
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed\u7684\u82b1\u56ed\u548c\u690d\u7269 (Sam\u5728\u6d47\u6c34)",
+      5
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed\u7684\u82b1\u56ed\u548c\u690d\u7269 (Sam\u5728\u4fee\u526a\u82b1\u513f\u548c\u690d\u7269)",
+      15
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed\u7684\u82b1\u56ed\u548c\u690d\u7269 (Sam\u5728\u65bd\u80a5)",
+      10
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed\u7684\u82b1\u56ed\u548c\u690d\u7269 (Sam\u5728\u6e05\u7406\u6742\u8349)",
+      10
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed\u7684\u82b1\u56ed\u548c\u690d\u7269 (Sam\u5728\u7ed9\u690d\u7269\u52a0\u6839\u636e\u9700\u8981\u7684\u652f\u6301)",
+      10
+    ],
+    [
+      "\u9605\u8bfb",
+      60
+    ],
+    [
+      "\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u9605\u8bfb",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910",
+      60
+    ],
+    [
+      "\u9605\u8bfb",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910\u7684\u98df\u6750\u548c\u70f9\u996a\u5de5\u5177",
+      120
+    ],
+    [
+      "\u6839\u636e\u9884\u8ba1\u65e5\u7a0b\uff0c\u9884\u8ba1\u57286:00 PM\uff0cSam\u5728\u4eab\u7528\u665a\u9910",
+      60
+    ],
+    [
+      "\u9605\u8bfb\uff0c\u5e76\u53ef\u80fd\u4e0e\u59bb\u5b50\u4ea4\u8c08",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      180
+    ],
+    [
+      "\u7761\u89c9.",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      2
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      7
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      2
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      8
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      6
+    ],
+    [
+      "\u7761\u89c9",
+      8
+    ],
+    [
+      "\u7761\u89c9",
+      7
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      300
+    ],
+    [
+      "\u6e05\u6d17\u6f31\u6d17\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u559d\u5496\u5561\uff0c\u9605\u8bfb\u65b0\u95fb\u548c\u62a5\u7eb8[(ID:4VKxCt) Monday February 13 -- 07:00 AM] Activity: Sam\u53bb\u7ea6\u7ff0\u900a\u516c\u56ed",
+      60
+    ],
+    [
+      "\u7ea6\u7ff0\u900a\u516c\u56ed\u6563\u6b65",
+      60
+    ],
+    [
+      "\u505a\u5bb6\u52a1",
+      60
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed",
+      60
+    ],
+    [
+      "\u7167\u987e\u516c\u56ed\u7684\u82b1\u56ed\u548c\u690d\u7269",
+      60
+    ],
+    [
+      "\u9605\u8bfb",
+      60
+    ],
+    [
+      "\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u9605\u8bfb",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910",
+      60
+    ],
+    [
+      "\u9605\u8bfb",
+      60
+    ],
+    [
+      "\u51c6\u5907\u665a\u9910\u7684\u98df\u6750\u548c\u70f9\u996a\u5de5\u5177",
+      120
+    ],
+    [
+      "\u6839\u636e\u9884\u8ba1\u65e5\u7a0b\uff0c\u9884\u8ba1\u57286:00 PM\uff0cSam\u5728\u4eab\u7528\u665a\u9910",
+      60
+    ],
+    [
+      "\u9605\u8bfb\uff0c\u5e76\u53ef\u80fd\u4e0e\u59bb\u5b50\u4ea4\u8c08",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      180
+    ],
+    [
+      "\u7761\u89c9.",
+      60
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:\u7ea6\u7ff0\u900a\u516c\u56ed:\u516c\u56ed:\u516c\u56ed\u82b1\u56ed",
+  "act_start_time": "February 13, 2023, 09:03:00",
+  "act_duration": 3,
+  "act_description": "\u7167\u987e\u516c\u56ed (\u5173\u4e8e\u5173\u4e8eSam\u53c2\u9009\u5e02\u957f\u5e76\u6539\u5584\u793e\u533a\u57fa\u7840\u8bbe\u65bd\u548c\u63d0\u4f9b\u66f4\u591a\u793e\u533a\u6d3b\u52a8\u548c\u8d44\u6e90\u7684\u5bf9\u8bdd\u3002)",
+  "act_pronunciatio": "\u2728\ud83d\udd27",
+  "act_event": [
+    "Sam Moore",
+    "\u53c2\u9009",
+    "\u5bf9\u8bdd"
+  ],
+  "act_obj_description": "\u5728\u4fee\u590d",
+  "act_obj_pronunciatio": "\ud83d\udd27",
+  "act_obj_event": [
+    "\u516c\u56ed\u82b1\u56ed",
+    "\u4fee\u590d",
+    "None"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Jennifer Moore": 752,
+    "Adam Smith": 770,
+    "Wolfgang Schulz": 49,
+    "Yuriko Yamamoto": 193,
+    "Latoya Williams": 794
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      41,
+      35
+    ],
+    [
+      41,
+      36
+    ],
+    [
+      40,
+      36
+    ],
+    [
+      39,
+      36
+    ],
+    [
+      38,
+      36
+    ],
+    [
+      37,
+      36
+    ],
+    [
+      36,
+      36
+    ],
+    [
+      35,
+      36
+    ],
+    [
+      34,
+      36
+    ],
+    [
+      33,
+      36
+    ],
+    [
+      32,
+      36
+    ],
+    [
+      31,
+      36
+    ],
+    [
+      31,
+      37
+    ],
+    [
+      31,
+      38
+    ],
+    [
+      31,
+      39
+    ],
+    [
+      31,
+      40
+    ],
+    [
+      31,
+      41
+    ],
+    [
+      31,
+      42
+    ],
+    [
+      32,
+      42
+    ],
+    [
+      33,
+      42
+    ],
+    [
+      34,
+      42
+    ]
+  ]
+}

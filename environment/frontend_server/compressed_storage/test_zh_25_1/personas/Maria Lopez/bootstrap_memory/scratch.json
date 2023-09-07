@@ -1,0 +1,191 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:04:00",
+  "curr_tile": [
+    123,
+    57
+  ],
+  "daily_plan_req": "Maria Lopez\u6bcf\u5929\u81f3\u5c11\u82b16\u5c0f\u65f6\u8fdb\u884cTwitch\u76f4\u64ad\u6216\u6e38\u620f\u3002",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "\u7cbe\u529b\u5145\u6c9b\u7684\uff0c\u5145\u6ee1\u70ed\u60c5\u7684\uff0c\u6c42\u77e5\u6b32\u5f3a\u7684",
+  "learned": "Maria Lopez\u662f\u6a61\u6811\u5c71\u5b66\u9662\u7684\u4e00\u540d\u5b66\u751f\uff0c\u4e3b\u4fee\u7269\u7406\u5b66\uff0c\u540c\u65f6\u4e5f\u662fTwitch\u6e38\u620f\u76f4\u64ad\u7684\u517c\u804c\u4e3b\u64ad\uff0c\u5979\u559c\u6b22\u4e0e\u4eba\u4ea4\u5f80\u5e76\u63a2\u7d22\u65b0\u7684\u60f3\u6cd5\u3002",
+  "currently": "Maria Lopez\u6b63\u5728\u653b\u8bfb\u5979\u7684\u7269\u7406\u5b66\u5b66\u4f4d\uff0c\u5e76\u901a\u8fc7\u5728Twitch\u4e0a\u76f4\u64ad\u6e38\u620f\u8d5a\u53d6\u4e00\u4e9b\u989d\u5916\u7684\u6536\u5165\u3002\u5979\u51e0\u4e4e\u6bcf\u5929\u90fd\u4f1a\u53bb\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u548c\u5403\u996d\u3002",
+  "lifestyle": "Maria Lopez\u5927\u7ea6\u5728\u5348\u591c\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u572810am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57287pm\u5de6\u53f3\u5403\u665a\u996d\u3002",
+  "living_area": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Maria Lopez\u7684\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 238,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "\u572810:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+    "\u572811:00 am\u65f6\u53bb\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u5e76\u5403\u65e9\u5348\u9910",
+    "\u57281:00 pm\u5f00\u59cb\u8fdb\u884cTwitch\u76f4\u64ad\u6216\u6e38\u620f\uff0c\u6301\u7eed6\u5c0f\u65f6\uff0c\u76f4\u52307:00 pm",
+    "\u57287:00 pm\u5403\u665a\u996d"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      600
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u8d77\u5e8a\uff0c\u6d17\u6f31\uff0c\u6362\u8863\u670d)",
+      10
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Maria\u5728\u51c6\u5907\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Maria\u5728\u67e5\u770b\u5e76\u56de\u590d\u793e\u4ea4\u5a92\u4f53\u6d88\u606f)",
+      15
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Maria\u5728\u4e0a\u7f51\u67e5\u770b\u6700\u65b0\u7684\u7269\u7406\u5b66\u7814\u7a76)",
+      15
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Maria\u5728\u6574\u7406\u5e76\u5907\u8bfe)",
+      10
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u548c\u5403\u65e9\u5348\u9910",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u5348\u996d\u548c\u4f11\u606f",
+      60
+    ],
+    [
+      "\u5f00\u59cb\u8fdb\u884cTwitch\u76f4\u64ad\u6216\u6e38\u620f",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u548c\u5403\u665a\u996d",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884cTwitch\u76f4\u64ad\u6216\u6e38\u620f",
+      120
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u548c\u5403\u665a\u996d",
+      60
+    ],
+    [
+      "\u5b8c\u6210Twitch\u76f4\u64ad\u6216\u6e38\u620f",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u665a\u996d\u540e\u4f11\u606f",
+      120
+    ],
+    [
+      "\u4f11\u606f\u548c\u653e\u677e",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u5f00\u59cb\u653e\u677e\u548c\u4f11\u606f\uff0c\u5b8c\u6210\u4e00\u5929\u7684\u65e5\u7a0b\u5b89\u6392",
+      60
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      600
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u548c\u5403\u65e9\u5348\u9910",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u5348\u996d\u548c\u4f11\u606f",
+      60
+    ],
+    [
+      "\u5f00\u59cb\u8fdb\u884cTwitch\u76f4\u64ad\u6216\u6e38\u620f",
+      60
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u548c\u5403\u665a\u996d",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u8fdb\u884cTwitch\u76f4\u64ad\u6216\u6e38\u620f",
+      120
+    ],
+    [
+      "\u970d\u5e03\u65af\u5496\u5561\u5e97\u5b66\u4e60\u548c\u5403\u665a\u996d",
+      60
+    ],
+    [
+      "\u5b8c\u6210Twitch\u76f4\u64ad\u6216\u6e38\u620f",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u665a\u996d\u540e\u4f11\u606f",
+      120
+    ],
+    [
+      "\u4f11\u606f\u548c\u653e\u677e",
+      60
+    ],
+    [
+      "\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u5f00\u59cb\u653e\u677e\u548c\u4f11\u606f\uff0c\u5b8c\u6210\u4e00\u5929\u7684\u65e5\u7a0b\u5b89\u6392",
+      60
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Maria Lopez\u7684\u623f\u95f4:\u5e8a",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 600,
+  "act_description": "\u7761\u89c9",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Maria Lopez",
+    "\u662f",
+    "\u7761\u89c9"
+  ],
+  "act_obj_description": "\u5728\u4f7f\u7528",
+  "act_obj_pronunciatio": "\ud83d\udcbb",
+  "act_obj_event": [
+    "\u5e8a",
+    "\u4f7f\u7528",
+    ""
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

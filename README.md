@@ -100,13 +100,15 @@ debug = True
 只需进行环境服务器运行，并在浏览器中进入以下地址就可以重播你已经运行过的模拟：`http://localhost:8000/replay/<simulation-name>/<starting-time-step>`。请务必将 `<simulation-name>` 替换为你想要重播的模拟的名称，将 `<starting-time-step>` 替换为你希望从哪个整数时间步开始重播。
 
 例如，访问以下链接，将启动一个预先模拟的示例，从时间步1开始：
-[http://localhost:8000/replay/July1_the_ville_isabella_maria_klaus-step-3-20/1/](http://localhost:8000/replay/July1_the_ville_isabella_maria_klaus-step-3-20/1/)
+25人小镇模拟： [http://localhost:8000/replay/test_zh_25_1/1/](http://localhost:8000/replay/test_zh_25_1/1/)
+3人小镇模拟： [http://localhost:8000/replay/test_zh_0/1/](http://localhost:8000/replay/test_zh_0/1/)
 
 ### 第五步. 演示模拟
 你可能已经注意到，重播中所有角色的sprite看起来都是一样的。我们想澄清的是，重播功能主要用于调试目的，并没有优化模拟文件夹大小或视觉效果的优先级。为了通过适当的角色sprite进行适当的模拟演示，你需要先压缩模拟。为此，使用文本编辑器打开位于 `reverie` 目录下的 `compress_sim_storage.py` 文件。然后，将目标模拟的名称作为输入执行 `compress` 函数。通过这样做，模拟文件将被压缩，准备好进行演示。
 
-要开始演示，打开你的浏览器，进入以下地址：`http://localhost:8000/demo/<simulation-name>/<starting-time-step>/<simulation-speed>`。注意，这里的 `<simulation-name>` 和 `<starting-time-step>` 表示上述同样的内容。 `<simulation-speed>` 可以设定控制演示的速度，其中1最慢，5最快。例如，访问以下链接将启动一个预先模拟的示例，从时间步骤1开始，中等的演示速度：  
-[http://localhost:8000/demo/July1_the_ville_isabella_maria_klaus-step-3-20/1/3/](http://localhost:8000/demo/July1_the_ville_isabella_maria_klaus-step-3-20/1/3/)
+要开始演示，打开你的浏览器，进入以下地址：`http://localhost:8000/demo/<simulation-name>/<starting-time-step>/<simulation-speed>`。注意，这里的 `<simulation-name>` 和 `<starting-time-step>` 表示上述同样的内容。 `<simulation-speed>` 可以设定控制演示的速度，其中1最慢，5最快。例如，访问以下链接将启动一个预先模拟的示例，从时间步骤1开始，中等的演示速度： 
+25人小镇模拟： [http://localhost:8000/demo/test_zh_25_1/1/3/](http://localhost:8000/demo/test_zh_25_1/1/3/)
+3人小镇模拟： [http://localhost:8000/demo/test_zh_0/1/3/](http://localhost:8000/demo/test_zh_0/1/3/)
 
 ### 提示
 我们注意到，当OpenAI的API达到每小时速度限制时，它可能会挂起。当这种情况发生时，你可能需要重启你的模拟。现在，我们建议你在进行过程中经常保存你的模拟，以确保当你需要停止并重新运行时，尽可能少地失去模拟。至少在2023年初开始运行这些模拟可能会有些昂贵，特别是当环境中有很多代理时。

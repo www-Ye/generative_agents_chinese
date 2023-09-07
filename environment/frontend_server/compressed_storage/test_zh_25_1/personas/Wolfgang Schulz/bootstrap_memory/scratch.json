@@ -1,0 +1,338 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:04:00",
+  "curr_tile": [
+    119,
+    47
+  ],
+  "daily_plan_req": "Wolfgang Schulz\u65e9\u6668\u5728\u516c\u56ed\u8dd1\u6b65\uff0c\u767d\u5929\u5b66\u4e60\uff0c\u5e76\u5728\u665a\u4e0a\u5728\u4ed6\u7684\u623f\u95f4\u953b\u70bc\u3002",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 21,
+  "innate": "\u52e4\u594b\u7684\uff0c\u70ed\u60c5\u7684\uff0c\u4e13\u6ce8\u7684",
+  "learned": "Wolfgang Schulz\u662f\u6a61\u6811\u5c71\u5b66\u9662\u7684\u4e00\u540d\u5b66\u751f\uff0c\u4e3b\u4fee\u5316\u5b66\uff0c\u540c\u65f6\u4e5f\u662f\u4e00\u540d\u5b66\u751f\u8fd0\u52a8\u5458\u3002\u4ed6\u5bf9\u5b66\u4e1a\u548c\u8fd0\u52a8\u90fd\u975e\u5e38\u4e13\u6ce8\u3002",
+  "currently": "Wolfgang Schulz\u6b63\u5728\u4e3a\u4ed6\u7684\u4e0b\u4e00\u573a\u6bd4\u8d5b\u548c\u4ed6\u7684\u8003\u8bd5\u8fdb\u884c\u8bad\u7ec3\u548c\u5b66\u4e60\u3002\u4ed6\u4e5f\u5728\u5bfb\u627e\u8ba9\u5b66\u4e60\u66f4\u6709\u6548\u7387\u7684\u65b9\u6cd5\u3002",
+  "lifestyle": "Wolfgang Schulz\u5927\u7ea6\u57289pm\u5de6\u53f3\u53bb\u7761\u89c9\uff0c\u5927\u7ea6\u57285am\u5de6\u53f3\u9192\u6765\uff0c\u5927\u7ea6\u57286pm\u5de6\u53f3\u5403\u665a\u9910\u3002",
+  "living_area": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:Wolfgang Schulz\u7684\u623f\u95f4",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 53,
+  "importance_ele_n": 45,
+  "thought_count": 5,
+  "daily_req": [
+    "\u57285:00 am\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+    "\u57286:00 am\u65f6\u5728\u516c\u56ed\u8dd1\u6b65",
+    "\u4ece7:00 am\u5f00\u59cb\u5b66\u4e60\u5316\u5b66",
+    "12:00 pm\u5403\u5348\u996d",
+    "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66\u76f4\u52305:00 pm",
+    "5:30 pm\u5f00\u59cb\u51c6\u5907\u665a\u9910",
+    "6:00 pm\u5403\u665a\u996d",
+    "7:00 pm\u52308:00 pm\u8fdb\u884c\u623f\u95f4\u953b\u70bc"
+  ],
+  "f_daily_schedule": [
+    [
+      "\u7761\u89c9",
+      300
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (\u5237\u7259\u6d17\u8138)",
+      5
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u5403\u65e9\u9910)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u6574\u7406\u623f\u95f4)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u505a\u4e00\u4e9b\u7b80\u5355\u7684\u65e5\u5e38\u953b\u70bc)",
+      15
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u67e5\u770b\u5f53\u5929\u7684\u5b66\u4e60\u548c\u8bad\u7ec3\u8ba1\u5212)",
+      10
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1 (Wolfgang\u5728\u51c6\u5907\u884c\u674e\u548c\u4f4f\u5bbf)",
+      10
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65 (\u8dd1\u524d\u70ed\u8eab)",
+      5
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65 (Wolfgang\u5728\u516c\u56ed\u8dd1\u6b65)",
+      40
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65 (\u51c6\u5907Wolfgang\u5728\u505a\u62c9\u4f38\u8fd0\u52a8)",
+      0
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65 (\u5173\u4e8eJennifer\u8ba1\u5212\u5728\u4f5c\u54c1\u5c55\u89c8\u4e2d\u5c55\u793a\u5979\u7684\u4e00\u7cfb\u5217\u5145\u6ee1\u6e29\u6696\u60c5\u611f\u548c\u81ea\u7136\u7f8e\u666f\u7684\u6c34\u5f69\u753b\uff0cWolfgang\u5bf9\u6b64\u975e\u5e38\u611f\u5174\u8da3\uff0c\u5e76\u671f\u5f85\u53c2\u89c2Jennifer\u7684\u4f5c\u54c1\u5c55\u89c8\u3002)",
+      2
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66 (\u590d\u4e60\u4e0a\u4e00\u5802\u5316\u5b66\u8bfe\u7684\u7b14\u8bb0)",
+      10
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66 (\u51c6\u5907Wolfgang\u5728\u9605\u8bfb\u672c\u5468\u7684\u5316\u5b66\u8bfe\u7a0b\u6750\u6599)",
+      0
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66 (\u5173\u4e8e\u4e24\u4e2a\u4eba\u5728\u516c\u56ed\u91cc\u804a\u5929\uff0c\u8c08\u8bba\u4e86\u4ed6\u4eec\u559c\u6b22\u7684\u6d3b\u52a8\u4ee5\u53ca\u63a8\u8350\u7684\u4e66\u7c4d\u3002)",
+      3
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u8fdb\u884c\u76f8\u5173\u6982\u5ff5\u7684\u7814\u7a76)",
+      10
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66 (\u51c6\u5907Wolfgang\u5728\u89e3\u51b3\u5316\u5b66\u95ee\u9898\u548c\u7ec3\u4e60\u9898)",
+      0
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66 (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8e\u5206\u5b50\u7ed3\u6784\u548c\u5316\u5b66\u7406\u8bba\u7684\u5bf9\u8bdd)",
+      6
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u6574\u7406\u5b66\u4e60\u8d44\u6599\u548c\u7b14\u8bb0)",
+      10
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (\u56de\u987e\u5316\u5b66\u7b14\u8bb0)",
+      20
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (\u51c6\u5907Wolfgang\u5728\u9605\u8bfb\u5316\u5b66\u6559\u79d1\u4e66)",
+      0
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (\u5173\u4e8e\u8fd9\u662f\u4e00\u6b21\u5173\u4e8e\u5316\u5b66\u8bfe\u5b66\u4e60\u7b56\u7565\u7684\u8ba8\u8bba)",
+      2
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u505a\u5316\u5b66\u9898\u76ee)",
+      25
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u590d\u4e60\u5316\u5b66\u5b9e\u9a8c\u77e5\u8bc6)",
+      20
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u9605\u8bfb\u5316\u5b66\u671f\u520a\u6587\u7ae0)",
+      30
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (\u51c6\u5907\u51c6\u5907Wolfgang\u5728\u5236\u4f5c\u5316\u5b66\u7b14\u8bb0)",
+      0
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (\u5173\u4e8e\u5173\u4e8e\u838e\u58eb\u6bd4\u4e9a\u620f\u5267\u4e2d\u7684\u8bed\u8a00\u4f7f\u7528\u7684\u8ba8\u8bba)",
+      4
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (\u5173\u4e8e\u5bf9\u65b0\u53d1\u73b0\u7684\u5b9e\u9a8c\u65b9\u6cd5\u8fdb\u884c\u8ba8\u8bba\u7684\u4e00\u6b21\u5bf9\u8bdd)",
+      2
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u89e3\u6790\u5316\u5b66\u95ee\u9898)",
+      30
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u6574\u7406\u5316\u5b66\u590d\u4e60\u6750\u6599)",
+      30
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u590d\u4e60\u5316\u5b66\u7b26\u53f7\u548c\u516c\u5f0f)",
+      15
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 () Wolfgang\u5728\u4e3a\u5316\u5b66\u8003\u8bd5\u505a\u51c6\u5907\uff0c\u590d\u4e60\u91cd\u8981\u6982\u5ff5)",
+      10
+    ],
+    [
+      "\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      296
+    ],
+    [
+      "\u623f\u95f4\u953b\u70bc",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      300
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      13
+    ],
+    [
+      "\u7761\u89c9",
+      12
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      9
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      28
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ],
+    [
+      "\u7761\u89c9",
+      28
+    ],
+    [
+      "\u7761\u89c9",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "\u7761\u89c9",
+      300
+    ],
+    [
+      "\u9192\u6765\u5e76\u5b8c\u6210\u65e9\u6668\u7684\u65e5\u5e38\u4efb\u52a1",
+      60
+    ],
+    [
+      "\u516c\u56ed\u8dd1\u6b65",
+      60
+    ],
+    [
+      "\u5f00\u59cb\u5b66\u4e60\u5316\u5b66",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      240
+    ],
+    [
+      "\u5403\u5348\u996d",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      300
+    ],
+    [
+      "\u623f\u95f4\u953b\u70bc",
+      60
+    ],
+    [
+      "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66",
+      300
+    ]
+  ],
+  "act_address": "\u5c0f\u9547:\u6a61\u6811\u5c71\u5b66\u9662\u5bbf\u820d:\u516c\u5171\u4f11\u606f\u5ba4:\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+  "act_start_time": "February 13, 2023, 08:59:00",
+  "act_duration": 30,
+  "act_description": "\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u9605\u8bfb\u5316\u5b66\u671f\u520a\u6587\u7ae0)",
+  "act_pronunciatio": "\ud83d\udcd6",
+  "act_event": [
+    "Wolfgang Schulz",
+    "\u9605\u8bfb",
+    "\u6587\u7ae0"
+  ],
+  "act_obj_description": "Wolfgang Schulz\u5728/\u4f7f\u7528\u7ee7\u7eed\u5b66\u4e60\u5316\u5b66 (Wolfgang\u5728\u9605\u8bfb\u5316\u5b66\u671f\u520a\u6587\u7ae0)\u3002\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50\u7684\u72b6\u6001\u662f\u5728\u4fee\u590d",
+  "act_obj_pronunciatio": "\ud83d\udcda",
+  "act_obj_event": [
+    "\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+    "\u516c\u5171\u4f11\u606f\u5ba4\u684c\u5b50",
+    "\u5728"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Jennifer Moore": -193,
+    "Sam Moore": 35,
+    "Isabella Rodriguez": 119,
+    "Klaus Mueller": 284,
+    "Giorgio Rossi": 713,
+    "Ayesha Khan": 767
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
